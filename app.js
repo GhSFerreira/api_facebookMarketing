@@ -1,10 +1,10 @@
 const express = require('express');
-const {getAdInsights, getAds, getAdSets, getAdSetInsights, getCampaings, getCampaignInsights, getAdAccounts} = require('./index');
+const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const port = 3000;
 
-clients = ['5379057635480936', '741302997038971', '1224883661342179']
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -17,53 +17,105 @@ app.get('/', (req, res) => {
 /* ---- Retrive all clients ads ----- */
 app.get('/ads', async (req, res) => {
 
-    ads = await getAds(clients)
-    res.json(ads);
+    try {
+      fs.readFile(path.join(__dirname, "output", "ads" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
+
+    } catch (error) {
+        res.sendStatus(500);
+    }
   })
 
 /* --- Retrive the ads insights */
 app.get('/adsinsights', async (req, res) => {
 
-    ads = await getAdInsights(clients)
-    res.json(ads);
+    try {
+      fs.readFile(path.join(__dirname, "output", "adsinsights" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
+
+    } catch (error) {
+        res.sendStatus(500);
+    }
   })
 
 /* ---- Retrive all clients adSets ----- */
 app.get('/adsets', async (req, res) => {
+   
+    try {
+      fs.readFile(path.join(__dirname, "output", "adsets" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
 
-    ads = await getAdSets(clients)
-    res.json(ads);
+    } catch (error) {
+        res.sendStatus(500);
+    }
   })
 
 /* --- Retrive the adSet insights */
 app.get('/adsetsinsights', async (req, res) => {
 
-    ads = await getAdSetInsights(clients)
-    res.json(ads);
+    try {
+      fs.readFile(path.join(__dirname, "output", "adsetsinsights" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
+
+    } catch (error) {
+        res.sendStatus(500);
+    }
   })
 
 /* ---- Retrive all clients ads ----- */
 app.get('/campaigns', async (req, res) => {
 
-    ads = await getCampaings(clients)
-    res.json(ads);
+    try {
+      fs.readFile(path.join(__dirname, "output", "campaigns" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
+
+    } catch (error) {
+        res.sendStatus(500);
+    }
+
   })
 
 /* --- Retrive the ads insights */
 app.get('/campaigninsights', async (req, res) => {
+    
+    try {
+      fs.readFile(path.join(__dirname, "output", "campaigninsights" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
 
-    ads = await getCampaignInsights(clients)
-    res.json(ads);
+    } catch (error) {
+        res.sendStatus(500);
+    }
+
   })
 
 /* ---- Retrive all clients ads ----- */
 app.get('/accounts', async (req, res) => {
+    
+    try {     
+      fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', (err, data) => {
+        if (err) throw err
+        res.json(JSON.parse(data));
+      });
 
-    ads = await getAdAccounts(clients)
-    res.json(ads);
+    } catch (error) {
+        res.sendStatus(500);
+    }
   })
 
 
-  app.listen(port, () => {
-    console.log(`Listening port: ${port}`)
-  })
+app.listen(port, () => {
+  console.log(`Listening port: ${port}`)
+})
+

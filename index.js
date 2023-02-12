@@ -1,5 +1,14 @@
 const { default: axios } = require("axios");
 const faceVariables = require('./config/faceVariables');
+const https = require('https');
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+
+/* --- Configurações do axios --- */
+axios.defaults.timeout = 60000
+axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
+axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
 
 module.exports = {
     
@@ -9,7 +18,7 @@ module.exports = {
         var adsInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log('Baixando cliente => ' + clients[i]);
+            console.log('Baixando insight dos anúncios => ' + clients[i]);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -20,10 +29,14 @@ module.exports = {
                 if(nextPage != 0){
     
                     adsInsights = adsInsights.concat(response.data.data);
-                    //console.log(response.data.data);
-                    response = await axios.get(nextPage);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -35,20 +48,26 @@ module.exports = {
                     adsInsights = adsInsights.concat(response.data.data);
                     break;
                 }else{
-    
-                    response = await axios.get(urlClientAds,{
-                        params: {
-                            level: "ad",
-                            date_preset: "maximum",
-                            access_token: faceVariables.token,
-                            breakdowns: "image_asset",
-                            fields: '["account_id", "account_name", "account_currency", "ad_id", "campaign_id", "campaign_name", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
-                        }
                     
-                    })
+                    try {
+                        response = await axios.get(urlClientAds,{
+                            params: {
+                                level: "ad",
+                                date_preset: "maximum",
+                                access_token: faceVariables.token,
+                                breakdowns: "image_asset",
+                                fields: '["account_id", "account_name", "account_currency", "ad_id", "campaign_id", "campaign_name", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
+                            }
+                        
+                        })
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
                     
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
                     }
     
                 }
@@ -56,8 +75,19 @@ module.exports = {
     
         }
     
-        return adsInsights
+        temp = JSON.stringify(adsInsights, null, '\t')
+        
+        try {
+            fs.writeFile(path.join(__dirname, "output", "adsinsights" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
      
+        return 0;
+
     },
     
     /* ----- Fornce informações sobre os anúncios ------- */
@@ -66,7 +96,7 @@ module.exports = {
         var ads = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log('Baixando info anúncios => ' + clients[i]);
+            console.log('Baixando anúncios => ' + clients[i]);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/ads"
             var response = {};
@@ -76,11 +106,15 @@ module.exports = {
                 
                 if(nextPage != 0){
 
-                    console.log("teste 1");
                     ads = ads.concat(response.data.data);
-                    response = await axios.get(nextPage);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error.message);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -89,32 +123,44 @@ module.exports = {
     
     
                 }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    console.log("teste 2");
                     ads = ads.concat(response.data.data);
                     break;
                 }else{
     
-                    console.log("teste");
-
-                    response = await axios.get(urlClientAds,{
-                        params: {
-                            access_token: faceVariables.token,
-                            fields: '["id", "name", "account_id", "adset_id", "campaign_id", "status", "effective_status"]'
-                        }
-                    
-                    })
-
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    try {
+                        response = await axios.get(urlClientAds,{
+                            params: {
+                                access_token: faceVariables.token,
+                                fields: '["id", "name", "account_id", "adset_id", "campaign_id", "status", "effective_status"]'
+                            }                    
+                        })
+                    } catch (error) {
+                        console.error(error.message);
+                        break;
                     }
-    
+
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
+                    }
                 }
 
             } while (true);
     
         }
     
-        return ads;
+        temp = JSON.stringify(ads, null, '\t')
+        
+        try {
+            fs.writeFile(path.join(__dirname, "output", "ads" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+     
+        return 0;
     },
 
     /* ----- Fornece os insights no nível de conjunto de anúnicios ------- */
@@ -122,10 +168,10 @@ module.exports = {
     
         /* GET CLIENTS ID */
 
-        var adsInsights = [];
+        var adSetInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log(`Download AdSet insights from client ${clients[i]}`);
+            console.log(`Baixando insights conjunto de anuncios => ${clients[i]}`);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -135,11 +181,16 @@ module.exports = {
                 
                 if(nextPage != 0){
     
-                    adsInsights = adsInsights.concat(response.data.data);
-                    //console.log(response.data.data);
-                    response = await axios.get(nextPage);
+                    adSetInsights = adSetInsights.concat(response.data.data);
+
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(!!response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -148,22 +199,28 @@ module.exports = {
     
     
                 }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    adsInsights = adsInsights.concat(response.data.data);
+                    adSetInsights = adSetInsights.concat(response.data.data);
                     break;
                 }else{
-    
-                    response = await axios.get(urlClientAds,{
-                        params: {
-                            level: "adset",
-                            date_preset: "maximum",
-                            access_token: faceVariables.token,
-                            fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
-                        }
+                    try {
+                        response = await axios.get(urlClientAds,{
+                            params: {
+                                level: "adset",
+                                date_preset: "maximum",
+                                access_token: faceVariables.token,
+                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
+                            }
+                        
+                        })
+                        
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
                     
-                    })
-                    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
                     }
     
                 }
@@ -171,14 +228,25 @@ module.exports = {
     
         }
     
-        return adsInsights
+        temp = JSON.stringify(adSetInsights, null, '\t')
+        
+        try {
+            fs.writeFile(path.join(__dirname, "output", "adsetsinsights" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+     
+        return 0;
      
     },
     
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getAdSets(clients) {
     
-        var ads = [];
+        var adSet = [];
         for (let i = 0; i < clients.length; i++) {
             
             console.log('Baixando info conjunto de anúncios => ' + clients[i]);
@@ -191,10 +259,15 @@ module.exports = {
                 
                 if(nextPage != 0){
     
-                    ads = ads.concat(response.data.data);
-                    response = await axios.get(nextPage);
+                    adSet = adSet.concat(response.data.data);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -203,20 +276,26 @@ module.exports = {
     
     
                 }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    ads = ads.concat(response.data.data);
+                    adSet = adSet.concat(response.data.data);
                     break;
                 }else{
-    
-                    response = await axios.get(urlClientAdSet,{
-                        params: {
-                            access_token: faceVariables.token,
-                            fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","configured_status","effective_status", "created_time","destination_type", "optimization_goal"]'
-                        }
+                    try {
+                        response = await axios.get(urlClientAdSet,{
+                            params: {
+                                access_token: faceVariables.token,
+                                fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","configured_status","effective_status", "created_time","destination_type", "optimization_goal"]'
+                            }
+                        
+                        })
+                        
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
                     
-                    })
-                    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
                     }
     
                 }
@@ -224,7 +303,18 @@ module.exports = {
     
         }
     
-        return ads;
+        temp = JSON.stringify(adSet, null, '\t')
+        
+        try {
+            fs.writeFile(path.join(__dirname, "output", "adsets" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+
+        return 0;
     },
 
     /* ----- Fornece os insights no nível de campanha de anúnicios ------- */
@@ -232,10 +322,10 @@ module.exports = {
     
         /* GET CLIENTS ID */
 
-        var adsInsights = [];
+        var campaignInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log(`Download Campaign insights from client ${clients[i]}`);
+            console.log(`Baixando inights das campanhas => ${clients[i]}`);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -245,11 +335,15 @@ module.exports = {
                 
                 if(nextPage != 0){
     
-                    adsInsights = adsInsights.concat(response.data.data);
-                    //console.log(response.data.data);
-                    response = await axios.get(nextPage);
+                    campaignInsights = campaignInsights.concat(response.data.data);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -258,22 +352,28 @@ module.exports = {
     
     
                 }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    adsInsights = adsInsights.concat(response.data.data);
+                    campaignInsights = campaignInsights.concat(response.data.data);
                     break;
                 }else{
     
-                    response = await axios.get(urlClientAds,{
-                        params: {
-                            level: "campaign",
-                            date_preset: "maximum",
-                            access_token: faceVariables.token,
-                            fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr","social_spend"]'
-                        }
-                    
-                    })
-                    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    try {
+                        response = await axios.get(urlClientAds,{
+                            params: {
+                                level: "campaign",
+                                date_preset: "maximum",
+                                access_token: faceVariables.token,
+                                fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr","social_spend"]'
+                            }
+                        
+                        })
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
+
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
                     }
     
                 }
@@ -281,7 +381,18 @@ module.exports = {
     
         }
     
-        return adsInsights
+        temp = JSON.stringify(campaignInsights, null, '\t')
+        
+        try {
+            fs.writeFile(path.join(__dirname, "output", "campaigninsights" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+
+        return 0;
      
     },
 
@@ -289,10 +400,10 @@ module.exports = {
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getCampaings(clients) {
     
-        var ads = [];
+        var campaigns = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log('Baixando info conjunto de anúncios => ' + clients[i]);
+            console.log('Baixando campanhas => ' + clients[i]);
     
             urlClientCampaigns = faceVariables.apiEndpoint + "act_"+ clients[i] +"/campaigns"
             var response = {};
@@ -302,10 +413,15 @@ module.exports = {
                 
                 if(nextPage != 0){
     
-                    ads = ads.concat(response.data.data);
-                    response = await axios.get(nextPage);
+                    campaigns = campaigns.concat(response.data.data);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
     
-                    if(!!response.data.paging.next){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -314,80 +430,88 @@ module.exports = {
     
     
                 }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    ads = ads.concat(response.data.data);
+                    campaigns = campaigns.concat(response.data.data);
                     break;
                 }else{
     
-                    response = await axios.get(urlClientCampaigns,{
-                        params: {
-                            access_token: faceVariables.token,
-                            fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time"]'
-                        }
+                    try {
+                        response = await axios.get(urlClientCampaigns,{
+                            params: {
+                                access_token: faceVariables.token,
+                                fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time"]'
+                            }
+                        
+                        })
+                    } catch (error) {
+                        console.error(error);
+                        break;
+                    }
                     
-                    })
-                    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
                     }
     
                 }
             } while (true);
     
         }
-    
-        return ads;
+
+        temp = JSON.stringify(campaigns, null, '\t')
+
+        try {
+            fs.writeFile(path.join(__dirname, "output", "campaigns" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+
+        return 0;
     },
 
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getAdAccounts(clients) {
     
-        var ads = [];
+        var accounts = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log('Baixando info conta de anúncio => ' + clients[i]);
+            console.log('Baixando contas de anúncio => ' + clients[i]);
     
             urlClientCampaigns = faceVariables.apiEndpoint + "act_"+ clients[i];
             var response = {};
-            var nextPage = 0;
-    
-            do {
                 
-                if(nextPage != 0){
-    
-                    ads = ads.concat(response.data.data);
-                    response = await axios.get(nextPage);
-    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
-    
-                    }else{
-                        nextPage = 0;
+            try {
+                response = await axios.get(urlClientCampaigns,{
+                    params: {
+                        access_token: faceVariables.token,
+                        fields: '["id", "account_id", "account_status", "age", "business_name", "business_city", "business_state", "currency", "name", "balance"]'
                     }
-    
-    
-                }else if (nextPage == 0 && Object.keys(response).length != 0) {
-                    ads = ads.concat(response.data.data);
-                    break;
-                }else{
-    
-                    response = await axios.get(urlClientCampaigns,{
-                        params: {
-                            access_token: faceVariables.token,
-                            fields: '["id", "account_id", "account_status", "age", "business_name", "business_city", "business_state", "currency", "name", "balance"]'
-                        }
-                    
-                    })
-                    
-                    if(!!response.data.paging.next){
-                        nextPage = response.data.paging.next;
-                    }
-    
-                }
-            } while (true);
-    
+                
+                })
+
+                accounts = accounts.concat(response.data)
+
+            } catch (error) {
+                console.error(error);
+                break;
+            }
+            
         }
-    
-        return ads;
+
+        temp = JSON.stringify(accounts, null, '\t')
+
+        try {
+            fs.writeFile(path.join(__dirname, "output", "accounts" + ".json"), temp, (err, data) => {
+                if (err) throw err
+                return 1;
+              });
+        } catch (error) {
+            console.error(error);
+        }
+
+        return 0;
     },
 
 
