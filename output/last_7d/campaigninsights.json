@@ -1,0 +1,2064 @@
+[
+	{
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"account_id": "5379057635480936",
+		"impressions": "10774",
+		"clicks": "124",
+		"cpc": "0.841694",
+		"cpm": "9.68721",
+		"cpp": "18.791862",
+		"ctr": "1.150919",
+		"frequency": "1.939863",
+		"reach": "5554",
+		"spend": "104.37",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.306293"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853898530980678",
+		"campaign_name": "MSG IG LAVIEEN DAY 09.02 - 17.01",
+		"account_id": "1224883661342179",
+		"impressions": "3381",
+		"clicks": "37",
+		"cpc": "2.333243",
+		"cpm": "25.533866",
+		"cpp": "39.22308",
+		"ctr": "1.094351",
+		"frequency": "1.53612",
+		"reach": "2201",
+		"spend": "86.33",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.473233"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852968878510324",
+		"campaign_name": "MSG IG BUMBUM 09.01",
+		"account_id": "777481793418802",
+		"impressions": "10368",
+		"clicks": "167",
+		"cpc": "0.317844",
+		"cpm": "5.119599",
+		"cpp": "5.784656",
+		"ctr": "1.610725",
+		"frequency": "1.129904",
+		"reach": "9176",
+		"spend": "53.08",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.76196"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852969020740324",
+		"campaign_name": "MSG IG LABIOS 09.01",
+		"account_id": "777481793418802",
+		"impressions": "8604",
+		"clicks": "34",
+		"cpc": "3.182941",
+		"cpm": "12.577871",
+		"cpp": "14.857221",
+		"ctr": "0.395165",
+		"frequency": "1.181219",
+		"reach": "7284",
+		"spend": "108.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.197583"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853126289620324",
+		"campaign_name": "MSG IG FULL 24.01",
+		"account_id": "777481793418802",
+		"impressions": "2716",
+		"clicks": "62",
+		"cpc": "1.366129",
+		"cpm": "31.185567",
+		"cpp": "39.212963",
+		"ctr": "2.282769",
+		"frequency": "1.257407",
+		"reach": "2160",
+		"spend": "84.7",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.104566"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853133345160324",
+		"campaign_name": "MSG IG OL 25.01",
+		"account_id": "777481793418802",
+		"impressions": "2089",
+		"clicks": "28",
+		"cpc": "1.5525",
+		"cpm": "20.809",
+		"cpp": "23.134646",
+		"ctr": "1.340354",
+		"frequency": "1.111762",
+		"reach": "1879",
+		"spend": "43.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.670177"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853320954670324",
+		"campaign_name": "MSG IG BTX 09.02",
+		"account_id": "777481793418802",
+		"impressions": "15394",
+		"clicks": "311",
+		"cpc": "0.757749",
+		"cpm": "15.308562",
+		"cpp": "27.065579",
+		"ctr": "2.020268",
+		"frequency": "1.768003",
+		"reach": "8707",
+		"spend": "235.66",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.013382"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23850265619550116",
+		"campaign_name": "MSG CAT WHATS 25.07",
+		"account_id": "3257630361162338",
+		"impressions": "26134",
+		"clicks": "327",
+		"cpc": "1.069664",
+		"cpm": "13.384097",
+		"cpp": "19.085502",
+		"ctr": "1.251244",
+		"frequency": "1.425984",
+		"reach": "18327",
+		"spend": "349.78",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.355858"
+			}
+		],
+		"social_spend": "6.73",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23850369385460116",
+		"campaign_name": "MSG CAT WHATS 06.08",
+		"account_id": "3257630361162338",
+		"impressions": "31360",
+		"clicks": "382",
+		"cpc": "0.916178",
+		"cpm": "11.160077",
+		"cpp": "16.499151",
+		"ctr": "1.218112",
+		"frequency": "1.478408",
+		"reach": "21212",
+		"spend": "349.98",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.36352"
+			}
+		],
+		"social_spend": "6.7",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853181819470738",
+		"campaign_name": "MSG WPP BOTOX CAMPOS AB 06.02",
+		"account_id": "4175309355897018",
+		"impressions": "18646",
+		"clicks": "109",
+		"cpc": "2.800367",
+		"cpm": "16.370267",
+		"cpp": "51.430497",
+		"ctr": "0.584576",
+		"frequency": "3.141702",
+		"reach": "5935",
+		"spend": "305.24",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.13944"
+			}
+		],
+		"social_spend": "138.1",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853181859160738",
+		"campaign_name": "MSG WPP BOTOX CAMPOS AB 2 06.02",
+		"account_id": "4175309355897018",
+		"impressions": "36891",
+		"clicks": "279",
+		"cpc": "2.329104",
+		"cpm": "17.614594",
+		"cpp": "81.913526",
+		"ctr": "0.756282",
+		"frequency": "4.650321",
+		"reach": "7933",
+		"spend": "649.82",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.184327"
+			}
+		],
+		"social_spend": "307.07",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853228999370738",
+		"campaign_name": "MSG WPP BOTOX CAMPOS AB 10.02",
+		"account_id": "4175309355897018",
+		"impressions": "6448",
+		"clicks": "108",
+		"cpc": "1.070185",
+		"cpm": "17.924938",
+		"cpp": "51.23227",
+		"ctr": "1.674938",
+		"frequency": "2.858156",
+		"reach": "2256",
+		"spend": "115.58",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.263648"
+			}
+		],
+		"social_spend": "65.87",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853240172410738",
+		"campaign_name": "MSG WPP BTX CAMPOS AB ABO 11.02",
+		"account_id": "4175309355897018",
+		"impressions": "11062",
+		"clicks": "120",
+		"cpc": "1.67575",
+		"cpm": "18.178449",
+		"cpp": "51.076962",
+		"ctr": "1.084795",
+		"frequency": "2.809754",
+		"reach": "3937",
+		"spend": "201.09",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.271199"
+			}
+		],
+		"social_spend": "110.26",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6321581004548",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAMPOS 06.02",
+		"account_id": "185103568247084",
+		"impressions": "66048",
+		"clicks": "300",
+		"cpc": "2.255933",
+		"cpm": "10.24679",
+		"cpp": "87.236401",
+		"ctr": "0.454215",
+		"frequency": "8.513534",
+		"reach": "7758",
+		"spend": "676.78",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.234678"
+			}
+		],
+		"social_spend": "368.13",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6321585058748",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAMPOS AB 06.02",
+		"account_id": "185103568247084",
+		"impressions": "25671",
+		"clicks": "146",
+		"cpc": "1.980274",
+		"cpm": "11.262514",
+		"cpp": "45.502046",
+		"ctr": "0.568735",
+		"frequency": "4.040132",
+		"reach": "6354",
+		"spend": "289.12",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.206459"
+			}
+		],
+		"social_spend": "145.6",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6322057754348",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAMPOS AB 08.02",
+		"account_id": "185103568247084",
+		"impressions": "14221",
+		"clicks": "77",
+		"cpc": "2.458182",
+		"cpm": "13.309894",
+		"cpp": "39.882006",
+		"ctr": "0.541453",
+		"frequency": "2.996418",
+		"reach": "4746",
+		"spend": "189.28",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.161733"
+			}
+		],
+		"social_spend": "94.31",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6322058192348",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAMPOS ABO 08.02",
+		"account_id": "185103568247084",
+		"impressions": "14020",
+		"clicks": "79",
+		"cpc": "2.379114",
+		"cpm": "13.405849",
+		"cpp": "43.628134",
+		"ctr": "0.563481",
+		"frequency": "3.25441",
+		"reach": "4308",
+		"spend": "187.95",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.156919"
+			}
+		],
+		"social_spend": "86.93",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6322401838148",
+		"campaign_name": "MSG WPP DEPI CAMPOS AB ABO 11.02",
+		"account_id": "185103568247084",
+		"impressions": "54138",
+		"clicks": "276",
+		"cpc": "2.212138",
+		"cpm": "11.277661",
+		"cpp": "68.447309",
+		"ctr": "0.509808",
+		"frequency": "6.069283",
+		"reach": "8920",
+		"spend": "610.55",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.120064"
+			}
+		],
+		"social_spend": "300.55",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "6322606434548",
+		"campaign_name": "MSG WPP DEPI CAMPOS AB ABO 13.02",
+		"account_id": "185103568247084",
+		"impressions": "4772",
+		"clicks": "25",
+		"cpc": "2.1736",
+		"cpm": "11.387259",
+		"cpp": "15.963572",
+		"ctr": "0.523889",
+		"frequency": "1.40188",
+		"reach": "3404",
+		"spend": "54.34",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.146689"
+			}
+		],
+		"social_spend": "22.85",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852355875370451",
+		"campaign_name": "MSG WPP BOTOX CAÇADOR 06.02",
+		"account_id": "271414754852131",
+		"impressions": "50004",
+		"clicks": "465",
+		"cpc": "1.422774",
+		"cpm": "13.230742",
+		"cpp": "53.888572",
+		"ctr": "0.929926",
+		"frequency": "4.072982",
+		"reach": "12277",
+		"spend": "661.59",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.153988"
+			}
+		],
+		"social_spend": "372.01",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852355991860451",
+		"campaign_name": "MSG WPP BOTOX CAÇADOR AB 06.02",
+		"account_id": "271414754852131",
+		"impressions": "38871",
+		"clicks": "362",
+		"cpc": "1.232072",
+		"cpm": "11.474107",
+		"cpp": "39.769059",
+		"ctr": "0.931286",
+		"frequency": "3.465983",
+		"reach": "11215",
+		"spend": "446.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.154357"
+			}
+		],
+		"social_spend": "238.11",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852356012130451",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAÇADOR 06.02",
+		"account_id": "271414754852131",
+		"impressions": "111979",
+		"clicks": "578",
+		"cpc": "1.733287",
+		"cpm": "8.946678",
+		"cpp": "48.715779",
+		"ctr": "0.516168",
+		"frequency": "5.445125",
+		"reach": "20565",
+		"spend": "1001.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.249154"
+			}
+		],
+		"social_spend": "539.31",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852356181110451",
+		"campaign_name": "MSG WPP DEPILAÇÃO CAÇADOR AB 06.02",
+		"account_id": "271414754852131",
+		"impressions": "66574",
+		"clicks": "375",
+		"cpc": "1.8236",
+		"cpm": "10.272028",
+		"cpp": "37.543234",
+		"ctr": "0.563283",
+		"frequency": "3.6549",
+		"reach": "18215",
+		"spend": "683.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.174242"
+			}
+		],
+		"social_spend": "291.95",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852422042860451",
+		"campaign_name": "MSG WPP DEPI CAÇADOR AB ABO 11.02",
+		"account_id": "271414754852131",
+		"impressions": "29887",
+		"clicks": "179",
+		"cpc": "1.754022",
+		"cpm": "10.505236",
+		"cpp": "27.735866",
+		"ctr": "0.598923",
+		"frequency": "2.640194",
+		"reach": "11320",
+		"spend": "313.97",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.160605"
+			}
+		],
+		"social_spend": "139.75",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852422102390451",
+		"campaign_name": "MSG WPP BTX CAÇADOR AB ABO 11.02",
+		"account_id": "271414754852131",
+		"impressions": "15098",
+		"clicks": "223",
+		"cpc": "0.933767",
+		"cpm": "13.791893",
+		"cpp": "41.430561",
+		"ctr": "1.477017",
+		"frequency": "3.003979",
+		"reach": "5026",
+		"spend": "208.23",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.245066"
+			}
+		],
+		"social_spend": "147.72",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852856420360092",
+		"campaign_name": "MSG WPP BOTOX JOAÇABA 06.02",
+		"account_id": "295572612624483",
+		"impressions": "29134",
+		"clicks": "230",
+		"cpc": "1.938391",
+		"cpm": "15.302739",
+		"cpp": "49.547677",
+		"ctr": "0.789456",
+		"frequency": "3.237831",
+		"reach": "8998",
+		"spend": "445.83",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.240269"
+			}
+		],
+		"social_spend": "187.7",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852856892960092",
+		"campaign_name": "MSG WPP BOTOX JOAÇABA AB 06.02",
+		"account_id": "295572612624483",
+		"impressions": "11696",
+		"clicks": "85",
+		"cpc": "2.195882",
+		"cpm": "15.958447",
+		"cpp": "33.660956",
+		"ctr": "0.726744",
+		"frequency": "2.109288",
+		"reach": "5545",
+		"spend": "186.65",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.230848"
+			}
+		],
+		"social_spend": "76.54",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852856919430092",
+		"campaign_name": "MSG WPP DEPILAÇÃO JOAÇABA 06.02",
+		"account_id": "295572612624483",
+		"impressions": "64640",
+		"clicks": "356",
+		"cpc": "1.93441",
+		"cpm": "10.65362",
+		"cpp": "43.352219",
+		"ctr": "0.550743",
+		"frequency": "4.069248",
+		"reach": "15885",
+		"spend": "688.65",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.227413"
+			}
+		],
+		"social_spend": "349.45",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852857048170092",
+		"campaign_name": "MSG WPP DEPILAÇÃO JOAÇABA AB 06.02",
+		"account_id": "295572612624483",
+		"impressions": "25210",
+		"clicks": "111",
+		"cpc": "2.607658",
+		"cpm": "11.481555",
+		"cpp": "22.841698",
+		"ctr": "0.440301",
+		"frequency": "1.989426",
+		"reach": "12672",
+		"spend": "289.45",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.198334"
+			}
+		],
+		"social_spend": "107.91",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852865723680092",
+		"campaign_name": "VAGA GERENTE LAGES",
+		"account_id": "295572612624483",
+		"impressions": "24606",
+		"clicks": "675",
+		"cpc": "0.218311",
+		"cpm": "5.988783",
+		"cpp": "12.042167",
+		"ctr": "2.743233",
+		"frequency": "2.010787",
+		"reach": "12237",
+		"spend": "147.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.024384"
+			}
+		],
+		"social_spend": "34.09",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852889982170092",
+		"campaign_name": "VAGA GERENTE JBA",
+		"account_id": "295572612624483",
+		"impressions": "9016",
+		"clicks": "160",
+		"cpc": "0.372688",
+		"cpm": "6.613798",
+		"cpp": "11.098083",
+		"ctr": "1.774623",
+		"frequency": "1.67802",
+		"reach": "5373",
+		"spend": "59.63",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.033274"
+			}
+		],
+		"social_spend": "25.34",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852891504200092",
+		"campaign_name": "MSG WPP BOTOX JOAÇABA AB 08.02",
+		"account_id": "295572612624483",
+		"impressions": "27937",
+		"clicks": "361",
+		"cpc": "1.321191",
+		"cpm": "17.072341",
+		"cpp": "58.492764",
+		"ctr": "1.292193",
+		"frequency": "3.426171",
+		"reach": "8154",
+		"spend": "476.95",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.27562"
+			}
+		],
+		"social_spend": "248.16",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852891523100092",
+		"campaign_name": "MSG WPP DEPILAÇÃO JOAÇABA AB 08.02",
+		"account_id": "295572612624483",
+		"impressions": "15777",
+		"clicks": "85",
+		"cpc": "2.096118",
+		"cpm": "11.293021",
+		"cpp": "23.48359",
+		"ctr": "0.538759",
+		"frequency": "2.079478",
+		"reach": "7587",
+		"spend": "178.17",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.145782"
+			}
+		],
+		"social_spend": "68",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852891559390092",
+		"campaign_name": "CV WPP DEPILAÇÃO JOAÇABA AB 08.02",
+		"account_id": "295572612624483",
+		"impressions": "27714",
+		"clicks": "157",
+		"cpc": "2.079554",
+		"cpm": "11.780688",
+		"cpp": "32.750527",
+		"ctr": "0.566501",
+		"frequency": "2.780018",
+		"reach": "9969",
+		"spend": "326.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.165981"
+			}
+		],
+		"social_spend": "111.42",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852920763910092",
+		"campaign_name": "MSG WPP DEPI JOAÇABA AB ABO 11.02",
+		"account_id": "295572612624483",
+		"impressions": "44389",
+		"clicks": "261",
+		"cpc": "1.878544",
+		"cpm": "11.045529",
+		"cpp": "37.937171",
+		"ctr": "0.587984",
+		"frequency": "3.434618",
+		"reach": "12924",
+		"spend": "490.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.12841"
+			}
+		],
+		"social_spend": "212.77",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852920812000092",
+		"campaign_name": "MSG WPP BTX JOAÇABA AB ABO 11.02",
+		"account_id": "295572612624483",
+		"impressions": "13366",
+		"clicks": "117",
+		"cpc": "1.694957",
+		"cpm": "14.8369",
+		"cpp": "34.92603",
+		"ctr": "0.875355",
+		"frequency": "2.353998",
+		"reach": "5678",
+		"spend": "198.31",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.284303"
+			}
+		],
+		"social_spend": "111.7",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853615380220650",
+		"campaign_name": "MSG WPP BOTOX VIDIEIRA 06.02",
+		"account_id": "4151784184913199",
+		"impressions": "13728",
+		"clicks": "98",
+		"cpc": "1.853673",
+		"cpm": "13.232809",
+		"cpp": "31.100839",
+		"ctr": "0.713869",
+		"frequency": "2.350282",
+		"reach": "5841",
+		"spend": "181.66",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.138403"
+			}
+		],
+		"social_spend": "101.74",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853615461250650",
+		"campaign_name": "MSG WPP BOTOX VIDIEIRA AB 06.02",
+		"account_id": "4151784184913199",
+		"impressions": "12349",
+		"clicks": "75",
+		"cpc": "2.442933",
+		"cpm": "14.836829",
+		"cpp": "33.854398",
+		"ctr": "0.607337",
+		"frequency": "2.281781",
+		"reach": "5412",
+		"spend": "183.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.064783"
+			}
+		],
+		"social_spend": "89.68",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853653959380650",
+		"campaign_name": "MSG WPP BOTOX VIDIEIRA AB 08.02",
+		"account_id": "4151784184913199",
+		"impressions": "7143",
+		"clicks": "90",
+		"cpc": "1.436556",
+		"cpm": "18.100238",
+		"cpp": "36.440248",
+		"ctr": "1.259975",
+		"frequency": "2.013247",
+		"reach": "3548",
+		"spend": "129.29",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.167997"
+			}
+		],
+		"social_spend": "66.94",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853653988850650",
+		"campaign_name": "MSG WPP BTX VID INTERESSES 08.02",
+		"account_id": "4151784184913199",
+		"impressions": "35949",
+		"clicks": "322",
+		"cpc": "1.477764",
+		"cpm": "13.23653",
+		"cpp": "52.186883",
+		"ctr": "0.895713",
+		"frequency": "3.942641",
+		"reach": "9118",
+		"spend": "475.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.172467"
+			}
+		],
+		"social_spend": "279.58",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853654077530650",
+		"campaign_name": "CV WPP BOTOX VIDIEIRA AB 08.02",
+		"account_id": "4151784184913199",
+		"impressions": "12819",
+		"clicks": "260",
+		"cpc": "0.471923",
+		"cpm": "9.571729",
+		"cpp": "26.392773",
+		"ctr": "2.028239",
+		"frequency": "2.757367",
+		"reach": "4649",
+		"spend": "122.7",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.380763"
+			}
+		],
+		"social_spend": "4.92",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853686627620650",
+		"campaign_name": "MSG WPP BTX VIDIEIRA AB ABO 11.02",
+		"account_id": "4151784184913199",
+		"impressions": "11972",
+		"clicks": "117",
+		"cpc": "1.78453",
+		"cpm": "17.43986",
+		"cpp": "50.444552",
+		"ctr": "0.97728",
+		"frequency": "2.892486",
+		"reach": "4139",
+		"spend": "208.79",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.192115"
+			}
+		],
+		"social_spend": "140.95",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852526776920387",
+		"campaign_name": "MSG WPP DEPILAÇÃO VIDEIRA 06.02",
+		"account_id": "4087472977951779",
+		"impressions": "26957",
+		"clicks": "166",
+		"cpc": "1.69747",
+		"cpm": "10.452944",
+		"cpp": "21.582414",
+		"ctr": "0.615796",
+		"frequency": "2.064721",
+		"reach": "13056",
+		"spend": "281.78",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.204029"
+			}
+		],
+		"social_spend": "140.68",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852526879860387",
+		"campaign_name": "MSG WPP DEPILAÇÃO VIDEIRA AB 06.02",
+		"account_id": "4087472977951779",
+		"impressions": "27227",
+		"clicks": "137",
+		"cpc": "2.084234",
+		"cpm": "10.487384",
+		"cpp": "21.835283",
+		"ctr": "0.503177",
+		"frequency": "2.082052",
+		"reach": "13077",
+		"spend": "285.54",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.165277"
+			}
+		],
+		"social_spend": "152.44",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852562831800387",
+		"campaign_name": "MSG WPP DEPILAÇÃO VIDEIRA AB 08.02",
+		"account_id": "4087472977951779",
+		"impressions": "27821",
+		"clicks": "167",
+		"cpc": "2.306587",
+		"cpm": "13.845656",
+		"cpp": "44.764672",
+		"ctr": "0.600266",
+		"frequency": "3.23312",
+		"reach": "8605",
+		"spend": "385.2",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.262392"
+			}
+		],
+		"social_spend": "187.86",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852563225140387",
+		"campaign_name": "MSG WPP DEPILAÇÃO VIDEIRA AB 08.02 — Cópia",
+		"account_id": "4087472977951779",
+		"impressions": "27094",
+		"clicks": "116",
+		"cpc": "3.271897",
+		"cpm": "14.008268",
+		"cpp": "43.974047",
+		"ctr": "0.428139",
+		"frequency": "3.13915",
+		"reach": "8631",
+		"spend": "379.54",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.155016"
+			}
+		],
+		"social_spend": "184.29",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852593233410387",
+		"campaign_name": "MSG WPP DEP VIDEIRA 11.02",
+		"account_id": "4087472977951779",
+		"impressions": "57206",
+		"clicks": "384",
+		"cpc": "1.765651",
+		"cpm": "11.852078",
+		"cpp": "37.139023",
+		"ctr": "0.671258",
+		"frequency": "3.133545",
+		"reach": "18256",
+		"spend": "678.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.16257"
+			}
+		],
+		"social_spend": "306.18",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"account_id": "642693930878840",
+		"impressions": "10136",
+		"clicks": "267",
+		"cpc": "0.7503",
+		"cpm": "19.764207",
+		"cpp": "31.360363",
+		"ctr": "2.634175",
+		"frequency": "1.586725",
+		"reach": "6388",
+		"spend": "200.33",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.026046"
+			}
+		],
+		"social_spend": "0.26",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"account_id": "1067360354209953",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "38382",
+		"clicks": "147",
+		"cpc": "2.383469",
+		"cpm": "9.128498",
+		"cpp": "22.71148",
+		"ctr": "0.382992",
+		"frequency": "2.487976",
+		"reach": "15427",
+		"spend": "350.37",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.117242"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852439027950093",
+		"campaign_name": "MSG ULTRA BA 13.01 (EVENTO 25 JAN)",
+		"account_id": "1067360354209953",
+		"impressions": "21065",
+		"clicks": "42",
+		"cpc": "4.15",
+		"cpm": "8.274389",
+		"cpp": "23.348962",
+		"ctr": "0.199383",
+		"frequency": "2.821835",
+		"reach": "7465",
+		"spend": "174.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.080703"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852458658920093",
+		"campaign_name": "Instagram Post",
+		"account_id": "1067360354209953",
+		"impressions": "127673",
+		"clicks": "474",
+		"cpc": "0.748797",
+		"cpm": "2.779993",
+		"cpp": "4.639305",
+		"ctr": "0.371261",
+		"frequency": "1.668819",
+		"reach": "76505",
+		"spend": "354.93",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.371261"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852459439210093",
+		"campaign_name": "MSG MANDIBULA BA + SC 16.01",
+		"account_id": "1067360354209953",
+		"impressions": "56663",
+		"clicks": "136",
+		"cpc": "2.573529",
+		"cpm": "6.17687",
+		"cpp": "16.199954",
+		"ctr": "0.240016",
+		"frequency": "2.62268",
+		"reach": "21605",
+		"spend": "350",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.097065"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"account_id": "1067360354209953",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "5"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "5"
+			}
+		],
+		"impressions": "28263",
+		"clicks": "278",
+		"cpc": "1.007446",
+		"cpm": "9.909422",
+		"cpp": "15.550805",
+		"ctr": "0.983618",
+		"frequency": "1.569295",
+		"reach": "18010",
+		"spend": "280.07",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.222906"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852476362490093",
+		"campaign_name": "MSG IG RINO BA + SC 18.01",
+		"account_id": "1067360354209953",
+		"impressions": "30506",
+		"clicks": "145",
+		"cpc": "1.934552",
+		"cpm": "9.19524",
+		"cpp": "18.19485",
+		"ctr": "0.475316",
+		"frequency": "1.978725",
+		"reach": "15417",
+		"spend": "280.51",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.121288"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852655162540093",
+		"campaign_name": "Instagram Post",
+		"account_id": "1067360354209953",
+		"impressions": "16648",
+		"clicks": "209",
+		"cpc": "0.23823",
+		"cpm": "2.99075",
+		"cpp": "3.484011",
+		"ctr": "1.255406",
+		"frequency": "1.164929",
+		"reach": "14291",
+		"spend": "49.79",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.369534"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852656743890093",
+		"campaign_name": "Publicação do Instagram: @drrafaelfreitas 🇧🇷🇺🇸🇵🇹...",
+		"account_id": "1067360354209953",
+		"impressions": "27227",
+		"clicks": "278",
+		"cpc": "0.359676",
+		"cpm": "3.672457",
+		"cpp": "4.066122",
+		"ctr": "1.021045",
+		"frequency": "1.107194",
+		"reach": "24591",
+		"spend": "99.99",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.039409"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852667777900093",
+		"campaign_name": "Instagram Post",
+		"account_id": "1067360354209953",
+		"impressions": "37075",
+		"clicks": "416",
+		"cpc": "0.314712",
+		"cpm": "3.531221",
+		"cpp": "4.456244",
+		"ctr": "1.12205",
+		"frequency": "1.261956",
+		"reach": "29379",
+		"spend": "130.92",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.184086"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852669385110093",
+		"campaign_name": "Instagram Post",
+		"account_id": "1067360354209953",
+		"impressions": "16927",
+		"clicks": "85",
+		"cpc": "0.729412",
+		"cpm": "3.662787",
+		"cpp": "5.588103",
+		"ctr": "0.502156",
+		"frequency": "1.525642",
+		"reach": "11095",
+		"spend": "62",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.513972"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852713476280093",
+		"campaign_name": "Instagram Post",
+		"account_id": "1067360354209953",
+		"impressions": "58982",
+		"clicks": "611",
+		"cpc": "0.261866",
+		"cpm": "2.712692",
+		"cpp": "3.586157",
+		"ctr": "1.035909",
+		"frequency": "1.321992",
+		"reach": "44616",
+		"spend": "160",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.059645"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"account_id": "400516895251196",
+		"impressions": "17072",
+		"clicks": "139",
+		"cpc": "1.513453",
+		"cpm": "12.322516",
+		"cpp": "18.388986",
+		"ctr": "0.814199",
+		"frequency": "1.492308",
+		"reach": "11440",
+		"spend": "210.37",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.363168"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852620558980044",
+		"campaign_name": "CV WPP PALPEBRA 23.01",
+		"account_id": "270650331445899",
+		"impressions": "9211",
+		"clicks": "365",
+		"cpc": "0.382712",
+		"cpm": "15.165563",
+		"cpp": "27.256585",
+		"ctr": "3.962653",
+		"frequency": "1.797268",
+		"reach": "5125",
+		"spend": "139.69",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.237651"
+			}
+		],
+		"social_spend": "11.19",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852356449460202",
+		"campaign_name": "MSG WHATS EX 21.09",
+		"account_id": "1039431480165166",
+		"impressions": "12438",
+		"clicks": "171",
+		"cpc": "0.810292",
+		"cpm": "11.140055",
+		"cpp": "14.554622",
+		"ctr": "1.374819",
+		"frequency": "1.306513",
+		"reach": "9520",
+		"spend": "138.56",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.63515"
+			}
+		],
+		"social_spend": "2.56",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853081897560202",
+		"campaign_name": "CV WHATS NOVO 02.12",
+		"account_id": "1039431480165166",
+		"impressions": "9473",
+		"clicks": "105",
+		"cpc": "1.322",
+		"cpm": "14.653225",
+		"cpp": "24.208232",
+		"ctr": "1.108413",
+		"frequency": "1.652075",
+		"reach": "5734",
+		"spend": "138.81",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.190014"
+			}
+		],
+		"social_spend": "3.63",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"account_id": "1039431480165166",
+		"impressions": "24820",
+		"clicks": "288",
+		"cpc": "0.964896",
+		"cpm": "11.196213",
+		"cpp": "15.973444",
+		"ctr": "1.160355",
+		"frequency": "1.426683",
+		"reach": "17397",
+		"spend": "277.89",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.535858"
+			}
+		],
+		"social_spend": "5.4",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853239802880416",
+		"campaign_name": "MSG WPP PROMO 03.02",
+		"account_id": "836010440997598",
+		"impressions": "11319",
+		"clicks": "246",
+		"cpc": "0.671992",
+		"cpm": "14.604647",
+		"cpp": "21.791458",
+		"ctr": "2.173337",
+		"frequency": "1.492091",
+		"reach": "7586",
+		"spend": "165.31",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.839297"
+			}
+		],
+		"social_spend": "0.72",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852407723140765",
+		"campaign_name": "CV WHATS 13.01",
+		"account_id": "342694184711341",
+		"impressions": "2352",
+		"clicks": "24",
+		"cpc": "1.241667",
+		"cpm": "12.670068",
+		"cpp": "13.970933",
+		"ctr": "1.020408",
+		"frequency": "1.102672",
+		"reach": "2133",
+		"spend": "29.8",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.552721"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852407781300765",
+		"campaign_name": "MSGS IG 13.01",
+		"account_id": "342694184711341",
+		"impressions": "4877",
+		"clicks": "126",
+		"cpc": "0.232857",
+		"cpm": "6.015993",
+		"cpp": "7.221265",
+		"ctr": "2.583555",
+		"frequency": "1.200345",
+		"reach": "4063",
+		"spend": "29.34",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.533115"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852646709710765",
+		"campaign_name": "MSGS IG 09.02",
+		"account_id": "342694184711341",
+		"impressions": "12525",
+		"clicks": "243",
+		"cpc": "0.304856",
+		"cpm": "5.914571",
+		"cpp": "8.383884",
+		"ctr": "1.94012",
+		"frequency": "1.417497",
+		"reach": "8836",
+		"spend": "74.08",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.391218"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852646828120765",
+		"campaign_name": "CV WHATS 09.02",
+		"account_id": "342694184711341",
+		"impressions": "5686",
+		"clicks": "75",
+		"cpc": "0.996133",
+		"cpm": "13.139289",
+		"cpp": "19.629532",
+		"ctr": "1.319029",
+		"frequency": "1.493957",
+		"reach": "3806",
+		"spend": "74.71",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.615547"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852997244550620",
+		"campaign_name": "MSG IG CARROSSEL 18.01",
+		"account_id": "174477231018854",
+		"impressions": "11966",
+		"clicks": "188",
+		"cpc": "0.928457",
+		"cpm": "14.587164",
+		"cpp": "20.127998",
+		"ctr": "1.571118",
+		"frequency": "1.379843",
+		"reach": "8672",
+		"spend": "174.55",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.484707"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852936273060602",
+		"campaign_name": "MSG IG BOTAS 03.02",
+		"account_id": "965051157423153",
+		"impressions": "23730",
+		"clicks": "532",
+		"cpc": "0.336523",
+		"cpm": "7.544458",
+		"cpp": "11.504305",
+		"ctr": "2.241888",
+		"frequency": "1.524868",
+		"reach": "15562",
+		"spend": "179.03",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.386431"
+			}
+		],
+		"social_spend": "8.81",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"account_id": "1213358582729786",
+		"impressions": "81636",
+		"clicks": "179",
+		"cpc": "1.969218",
+		"cpm": "4.317825",
+		"cpp": "12.002928",
+		"ctr": "0.219266",
+		"frequency": "2.779855",
+		"reach": "29367",
+		"spend": "352.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.097996"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852515455390363",
+		"campaign_name": "CAD WPP CASAS JA 31.01",
+		"account_id": "950862468692256",
+		"impressions": "3394",
+		"clicks": "35",
+		"cpc": "3.093714",
+		"cpm": "31.903359",
+		"cpp": "40.768072",
+		"ctr": "1.031232",
+		"frequency": "1.277861",
+		"reach": "2656",
+		"spend": "108.28",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.441956"
+			}
+		],
+		"social_spend": "0.26",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852515504730363",
+		"campaign_name": "CAD WPP CASA AGRO 31.01",
+		"account_id": "950862468692256",
+		"impressions": "8423",
+		"clicks": "88",
+		"cpc": "1.986932",
+		"cpm": "20.758637",
+		"cpp": "32.688353",
+		"ctr": "1.044758",
+		"frequency": "1.574687",
+		"reach": "5349",
+		"spend": "174.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.486762"
+			}
+		],
+		"social_spend": "0.51",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852636305050363",
+		"campaign_name": "CAD WPP CASAS JA 11.02",
+		"account_id": "950862468692256",
+		"impressions": "3930",
+		"clicks": "29",
+		"cpc": "2.738966",
+		"cpm": "20.211196",
+		"cpp": "26.14549",
+		"ctr": "0.737913",
+		"frequency": "1.293614",
+		"reach": "3038",
+		"spend": "79.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.356234"
+			}
+		],
+		"social_spend": "0.29",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852226298850653",
+		"campaign_name": "CV WPP MELASMA 25.11",
+		"account_id": "3018739935085616",
+		"impressions": "10088",
+		"clicks": "309",
+		"cpc": "0.384045",
+		"cpm": "11.763481",
+		"cpp": "17.020941",
+		"ctr": "3.063045",
+		"frequency": "1.446931",
+		"reach": "6972",
+		"spend": "118.67",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.120143"
+			}
+		],
+		"social_spend": "5.39",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23852226665490653",
+		"campaign_name": "CV WPP AXILAS 25.11",
+		"account_id": "3018739935085616",
+		"impressions": "24589",
+		"clicks": "515",
+		"cpc": "0.34",
+		"cpm": "7.12107",
+		"cpp": "9.428171",
+		"ctr": "2.094432",
+		"frequency": "1.323982",
+		"reach": "18572",
+		"spend": "175.1",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.488023"
+			}
+		],
+		"social_spend": "10.86",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853386097730195",
+		"campaign_name": "MSG IG COMBO ABS 17.12",
+		"account_id": "1288644968294464",
+		"impressions": "7816",
+		"clicks": "56",
+		"cpc": "2.696786",
+		"cpm": "19.321904",
+		"cpp": "26.19601",
+		"ctr": "0.716479",
+		"frequency": "1.355768",
+		"reach": "5765",
+		"spend": "151.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.204708"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "8587",
+		"clicks": "58",
+		"cpc": "1.841552",
+		"cpm": "12.43857",
+		"cpp": "16.652635",
+		"ctr": "0.67544",
+		"frequency": "1.33879",
+		"reach": "6414",
+		"spend": "106.81",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.372656"
+			}
+		],
+		"social_spend": "0.02",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853117251420610",
+		"campaign_name": "CV ECOM 09.02",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "1"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "1"
+			}
+		],
+		"impressions": "3133",
+		"clicks": "17",
+		"cpc": "2.877059",
+		"cpm": "15.611235",
+		"cpp": "17.561939",
+		"ctr": "0.542611",
+		"frequency": "1.124955",
+		"reach": "2785",
+		"spend": "48.91",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.478774"
+			}
+		],
+		"social_spend": "0",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "10"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "10"
+			}
+		],
+		"impressions": "55123",
+		"clicks": "599",
+		"cpc": "1.587913",
+		"cpm": "17.255229",
+		"cpp": "26.878038",
+		"ctr": "1.086661",
+		"frequency": "1.557675",
+		"reach": "35388",
+		"spend": "951.16",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.593219"
+			}
+		],
+		"social_spend": "1.92",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "14"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "14"
+			}
+		],
+		"impressions": "52869",
+		"clicks": "550",
+		"cpc": "1.828636",
+		"cpm": "19.023435",
+		"cpp": "26.921224",
+		"ctr": "1.040307",
+		"frequency": "1.415161",
+		"reach": "37359",
+		"spend": "1005.75",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.586355"
+			}
+		],
+		"social_spend": "0.6",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	},
+	{
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "33059",
+		"clicks": "184",
+		"cpc": "3.751957",
+		"cpm": "20.882664",
+		"cpp": "28.024681",
+		"ctr": "0.556581",
+		"frequency": "1.342007",
+		"reach": "24634",
+		"spend": "690.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.320639"
+			}
+		],
+		"social_spend": "0.73",
+		"date_start": "2023-02-07",
+		"date_stop": "2023-02-13",
+		"date_preset": "last_7d"
+	}
+]

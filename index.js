@@ -13,12 +13,12 @@ axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
 module.exports = {
     
     /* ----- Fornece os insights no nível de anúnicios------- */
-    async getAdInsights(clients) {
+    async getAdInsights(clients, data_preset) {
     
         var adsInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log('Baixando insight dos anúncios => ' + clients[i]);
+            console.log(`Baixando insight dos anúncios (${data_preset}) =>  ${clients[i]}`);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -32,7 +32,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando insight dos anúncios (${data_preset}) =>  ${clients[i]}`);
                         break;
                     }
     
@@ -53,15 +53,16 @@ module.exports = {
                         response = await axios.get(urlClientAds,{
                             params: {
                                 level: "ad",
-                                date_preset: "maximum",
+                                date_preset: data_preset,
                                 access_token: faceVariables.token,
                                 breakdowns: "image_asset",
                                 fields: '["account_id", "account_name", "account_currency", "ad_id", "campaign_id", "campaign_name", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
                             }
                         
-                        })
+                        });
+                        
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando insight dos anúncios (${data_preset}) =>  ${clients[i]}`);
                         break;
                     }
                     
@@ -74,16 +75,18 @@ module.exports = {
             } while (true);
     
         }
-    
+        
+        adsInsights.forEach(ads => ads.date_preset = data_preset);
+
         temp = JSON.stringify(adsInsights, null, '\t')
         
         try {
-            fs.writeFile(path.join(__dirname, "output", "adsinsights" + ".json"), temp, (err, data) => {
+            fs.writeFile(path.join(__dirname, "output", data_preset ,"adsinsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
      
         return 0;
@@ -110,7 +113,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error.message);
+                        console.error(error.message + `Baixando anúncios =>  ${clients[i]}`);
                         break;
                     }
     
@@ -135,7 +138,7 @@ module.exports = {
                             }                    
                         })
                     } catch (error) {
-                        console.error(error.message);
+                        console.error(error.message + `Baixando anúncios =>  ${clients[i]}`);
                         break;
                     }
 
@@ -157,21 +160,21 @@ module.exports = {
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
      
         return 0;
     },
 
     /* ----- Fornece os insights no nível de conjunto de anúnicios ------- */
-    async getAdSetInsights(clients) {
+    async getAdSetInsights(clients, data_preset) {
     
         /* GET CLIENTS ID */
 
         var adSetInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log(`Baixando insights conjunto de anuncios => ${clients[i]}`);
+            console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -186,7 +189,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error);
+                        console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
                         break;
                     }
     
@@ -206,7 +209,7 @@ module.exports = {
                         response = await axios.get(urlClientAds,{
                             params: {
                                 level: "adset",
-                                date_preset: "maximum",
+                                date_preset: data_preset,
                                 access_token: faceVariables.token,
                                 fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
                             }
@@ -214,7 +217,7 @@ module.exports = {
                         })
                         
                     } catch (error) {
-                        console.error(error);
+                        console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
                         break;
                     }
                     
@@ -228,15 +231,16 @@ module.exports = {
     
         }
     
+        adSetInsights.forEach(adset => adset.date_preset = data_preset);
         temp = JSON.stringify(adSetInsights, null, '\t')
         
         try {
-            fs.writeFile(path.join(__dirname, "output", "adsetsinsights" + ".json"), temp, (err, data) => {
+            fs.writeFile(path.join(__dirname, "output", data_preset,"adsetsinsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
      
         return 0;
@@ -263,7 +267,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando info conjunto de anúncios => ${clients[i]}`);
                         break;
                     }
     
@@ -289,7 +293,7 @@ module.exports = {
                         })
                         
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando info conjunto de anúncios => ${clients[i]}`);
                         break;
                     }
                     
@@ -311,21 +315,21 @@ module.exports = {
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
 
         return 0;
     },
 
     /* ----- Fornece os insights no nível de campanha de anúnicios ------- */
-    async getCampaignInsights(clients) {
+    async getCampaignInsights(clients, data_preset) {
     
         /* GET CLIENTS ID */
 
         var campaignInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
-            console.log(`Baixando inights das campanhas => ${clients[i]}`);
+            console.log(`Baixando inights das campanhas (${data_preset}) => ${clients[i]}`);
     
             urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
             var response = {};
@@ -339,7 +343,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando inights das campanhas (${data_preset}) => ${clients[i]}`);
                         break;
                     }
     
@@ -360,14 +364,14 @@ module.exports = {
                         response = await axios.get(urlClientAds,{
                             params: {
                                 level: "campaign",
-                                date_preset: "maximum",
+                                date_preset: data_preset,
                                 access_token: faceVariables.token,
                                 fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr","social_spend"]'
                             }
                         
                         })
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando inights das campanhas (${data_preset}) => ${clients[i]}`);
                         break;
                     }
 
@@ -380,16 +384,16 @@ module.exports = {
             } while (true);
     
         }
-    
+        campaignInsights.forEach( campaign =>  campaign.date_preset = data_preset);
         temp = JSON.stringify(campaignInsights, null, '\t')
         
         try {
-            fs.writeFile(path.join(__dirname, "output", "campaigninsights" + ".json"), temp, (err, data) => {
+            fs.writeFile(path.join(__dirname, "output", data_preset, "campaigninsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
 
         return 0;
@@ -417,7 +421,7 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando campanhas => ${clients[i]}`);
                         break;
                     }
     
@@ -443,7 +447,7 @@ module.exports = {
                         
                         })
                     } catch (error) {
-                        console.error(error);
+                        console.error(`${error.message} - Baixando campanhas => ${clients[i]}`);
                         break;
                     }
                     
@@ -465,7 +469,7 @@ module.exports = {
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
 
         return 0;
@@ -494,7 +498,7 @@ module.exports = {
                 accounts = accounts.concat(response.data)
 
             } catch (error) {
-                console.error(error);
+                console.error(`${error.message} - Baixando contas de anúncio => ${clients[i]}`);
                 break;
             }
             
@@ -508,7 +512,7 @@ module.exports = {
                 return 1;
               });
         } catch (error) {
-            console.error(error);
+            console.error(error.message);
         }
 
         return 0;

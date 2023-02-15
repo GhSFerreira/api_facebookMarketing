@@ -8,9 +8,9 @@ const port = 3000;
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
-
-    console.log(req.body);
-    res.json({msg: "ok"});
+    data = req.query.data_preset
+    console.log(data);
+    res.json({msg: data});
   
 })
 
@@ -32,7 +32,7 @@ app.get('/ads', async (req, res) => {
 app.get('/adsinsights', async (req, res) => {
 
     try {
-      fs.readFile(path.join(__dirname, "output", "adsinsights" + ".json"),'utf8', (err, data) => {
+      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsinsights" + ".json"),'utf8', (err, data) => {
         if (err) throw err
         res.json(JSON.parse(data));
       });
@@ -60,7 +60,7 @@ app.get('/adsets', async (req, res) => {
 app.get('/adsetsinsights', async (req, res) => {
 
     try {
-      fs.readFile(path.join(__dirname, "output", "adsetsinsights" + ".json"),'utf8', (err, data) => {
+      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsetsinsights" + ".json"),'utf8', (err, data) => {
         if (err) throw err
         res.json(JSON.parse(data));
       });
@@ -89,7 +89,7 @@ app.get('/campaigns', async (req, res) => {
 app.get('/campaigninsights', async (req, res) => {
     
     try {
-      fs.readFile(path.join(__dirname, "output", "campaigninsights" + ".json"),'utf8', (err, data) => {
+      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "campaigninsights" + ".json"),'utf8', (err, data) => {
         if (err) throw err
         res.json(JSON.parse(data));
       });

@@ -1,0 +1,4878 @@
+[
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262822610728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822690728",
+		"adset_name": "BEACH",
+		"impressions": "304",
+		"clicks": "6",
+		"cpc": "0.62",
+		"cpm": "12.236842",
+		"cpp": "13.478261",
+		"ctr": "1.973684",
+		"frequency": "1.101449",
+		"reach": "276",
+		"spend": "3.72",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.986842"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "2829741486476828fadc6b294136f573",
+			"url": "https://www.facebook.com/ads/image/?d=AQL_g2Ze4z8ludF0_PCmH42EAOkB_CjR7sk-KeqvjGGpP9F6BpwrYkDj4kMknBo3bXb8YT5e0i6NZ7H5Mkjb2Yy-3tcLtvKcq6R6RR9cXwe8eWc71hqtllvmk__AfnhtoACeGp_syzoldHwUCamxyGHB",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD501.JPG",
+			"id": "23854262856050728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262822610728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822690728",
+		"adset_name": "BEACH",
+		"impressions": "522",
+		"clicks": "4",
+		"cpc": "0.855",
+		"cpm": "6.551724",
+		"cpp": "7.685393",
+		"ctr": "0.766284",
+		"frequency": "1.173034",
+		"reach": "445",
+		"spend": "3.42",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.191571"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "54a3b7a2ae60b1382ac153662c505935",
+			"url": "https://www.facebook.com/ads/image/?d=AQLe1FDtz5QAgTgSDc2YPUactKoCM-XIDWRk0freuoQnJpXDe4lUqfSjDoX-NvGHo98DpKL-pip3tCopt56AW8o5b-kLOEZWESXUGvTRtu3D3fHqRvrSnW5PxG-BCFcRju0M7SFon-8qs5Eub9bYr4wi",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD503.JPG",
+			"id": "23854262856100728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262857210728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822600728",
+		"adset_name": "ABERTO",
+		"impressions": "761",
+		"clicks": "13",
+		"cpc": "0.74",
+		"cpm": "12.641262",
+		"cpp": "13.492286",
+		"ctr": "1.708279",
+		"frequency": "1.067321",
+		"reach": "713",
+		"spend": "9.62",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.525624"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "2829741486476828fadc6b294136f573",
+			"url": "https://www.facebook.com/ads/image/?d=AQL_g2Ze4z8ludF0_PCmH42EAOkB_CjR7sk-KeqvjGGpP9F6BpwrYkDj4kMknBo3bXb8YT5e0i6NZ7H5Mkjb2Yy-3tcLtvKcq6R6RR9cXwe8eWc71hqtllvmk__AfnhtoACeGp_syzoldHwUCamxyGHB",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD501.JPG",
+			"id": "23854262856050728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262857210728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822600728",
+		"adset_name": "ABERTO",
+		"impressions": "2253",
+		"clicks": "19",
+		"cpc": "0.888947",
+		"cpm": "7.496671",
+		"cpp": "10.317654",
+		"ctr": "0.84332",
+		"frequency": "1.376298",
+		"reach": "1637",
+		"spend": "16.89",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.221926"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "54a3b7a2ae60b1382ac153662c505935",
+			"url": "https://www.facebook.com/ads/image/?d=AQLe1FDtz5QAgTgSDc2YPUactKoCM-XIDWRk0freuoQnJpXDe4lUqfSjDoX-NvGHo98DpKL-pip3tCopt56AW8o5b-kLOEZWESXUGvTRtu3D3fHqRvrSnW5PxG-BCFcRju0M7SFon-8qs5Eub9bYr4wi",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD503.JPG",
+			"id": "23854262856100728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262857220728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822680728",
+		"adset_name": "BRONZE",
+		"impressions": "939",
+		"clicks": "14",
+		"cpc": "0.921429",
+		"cpm": "13.738019",
+		"cpp": "15.375447",
+		"ctr": "1.490948",
+		"frequency": "1.11919",
+		"reach": "839",
+		"spend": "12.9",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.425985"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "2829741486476828fadc6b294136f573",
+			"url": "https://www.facebook.com/ads/image/?d=AQL_g2Ze4z8ludF0_PCmH42EAOkB_CjR7sk-KeqvjGGpP9F6BpwrYkDj4kMknBo3bXb8YT5e0i6NZ7H5Mkjb2Yy-3tcLtvKcq6R6RR9cXwe8eWc71hqtllvmk__AfnhtoACeGp_syzoldHwUCamxyGHB",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD501.JPG",
+			"id": "23854262856050728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "5379057635480936",
+		"account_name": "BEBRONZE 01",
+		"account_currency": "BRL",
+		"ad_id": "23854262857220728",
+		"campaign_id": "23854262822620728",
+		"campaign_name": "CV WPP PROMO CARNA 08.02",
+		"adset_id": "23854262822680728",
+		"adset_name": "BRONZE",
+		"impressions": "2239",
+		"clicks": "23",
+		"cpc": "0.716957",
+		"cpm": "7.364895",
+		"cpp": "10.091799",
+		"ctr": "1.027244",
+		"frequency": "1.370257",
+		"reach": "1634",
+		"spend": "16.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.267977"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "54a3b7a2ae60b1382ac153662c505935",
+			"url": "https://www.facebook.com/ads/image/?d=AQLe1FDtz5QAgTgSDc2YPUactKoCM-XIDWRk0freuoQnJpXDe4lUqfSjDoX-NvGHo98DpKL-pip3tCopt56AW8o5b-kLOEZWESXUGvTRtu3D3fHqRvrSnW5PxG-BCFcRju0M7SFon-8qs5Eub9bYr4wi",
+			"name": "3E8C2B0B-61F8-457C-9DB3-30293C2AD503.JPG",
+			"id": "23854262856100728"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625282960093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625282870093",
+		"adset_name": "HOLISTICO 28 A 60 AMBOS",
+		"impressions": "1286",
+		"clicks": "30",
+		"cpc": "0.899667",
+		"cpm": "20.987558",
+		"cpp": "24.55869",
+		"ctr": "2.332815",
+		"frequency": "1.170155",
+		"reach": "1099",
+		"spend": "26.99",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.010886"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQJ2ykC1BLRITqpM4iP2CeKJF35AJkOfYEurSz4TVHLkrjrgla_1p_W3HBmnk37o5uuTrU9H0o3Duzue3kxk8rMYvY_wKeLI6HgTjUjt9_cUWK84JY6gHa4aCqR8lBAjJpgYr1IAHMXHRGc536mRC23K",
+			"image_crops": {
+				"100x100": [
+					[
+						0,
+						0
+					],
+					[
+						1090,
+						1090
+					]
+				]
+			},
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389470093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625282960093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625282870093",
+		"adset_name": "HOLISTICO 28 A 60 AMBOS",
+		"impressions": "404",
+		"clicks": "6",
+		"cpc": "1.685",
+		"cpm": "25.024752",
+		"cpp": "28.319328",
+		"ctr": "1.485149",
+		"frequency": "1.131653",
+		"reach": "357",
+		"spend": "10.11",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.485149"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQL0iSWIsSpzWbIpg7H_Lf05DK6aavJWoHr2EEqrcD7ziawp4I8n8WRuvwKnrx4DIGl3PFDlRR89Zth9agAItZuT32Z2nRJBwiqZ42Rq0Tsy73iVex_41OI1l3iRsTx1rEE9hHI3h70C7Taz13kxkbIS",
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389530093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625417800093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625282990093",
+		"adset_name": "ABERTO 28 A 60 AMBOS",
+		"impressions": "518",
+		"clicks": "19",
+		"cpc": "0.706842",
+		"cpm": "25.926641",
+		"cpp": "28.696581",
+		"ctr": "3.667954",
+		"frequency": "1.106838",
+		"reach": "468",
+		"spend": "13.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.158301"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQJ2ykC1BLRITqpM4iP2CeKJF35AJkOfYEurSz4TVHLkrjrgla_1p_W3HBmnk37o5uuTrU9H0o3Duzue3kxk8rMYvY_wKeLI6HgTjUjt9_cUWK84JY6gHa4aCqR8lBAjJpgYr1IAHMXHRGc536mRC23K",
+			"image_crops": {
+				"100x100": [
+					[
+						0,
+						0
+					],
+					[
+						1090,
+						1090
+					]
+				]
+			},
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389470093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625417800093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625282990093",
+		"adset_name": "ABERTO 28 A 60 AMBOS",
+		"impressions": "261",
+		"clicks": "4",
+		"cpc": "1.495",
+		"cpm": "22.911877",
+		"cpp": "25.665236",
+		"ctr": "1.532567",
+		"frequency": "1.120172",
+		"reach": "233",
+		"spend": "5.98",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.149425"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQL0iSWIsSpzWbIpg7H_Lf05DK6aavJWoHr2EEqrcD7ziawp4I8n8WRuvwKnrx4DIGl3PFDlRR89Zth9agAItZuT32Z2nRJBwiqZ42Rq0Tsy73iVex_41OI1l3iRsTx1rEE9hHI3h70C7Taz13kxkbIS",
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389530093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625417840093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625283000093",
+		"adset_name": "SAUDE 28 A 60 AMBOS",
+		"impressions": "564",
+		"clicks": "23",
+		"cpc": "0.601304",
+		"cpm": "24.521277",
+		"cpp": "28.752599",
+		"ctr": "4.078014",
+		"frequency": "1.172557",
+		"reach": "481",
+		"spend": "13.83",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.06383"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQJ2ykC1BLRITqpM4iP2CeKJF35AJkOfYEurSz4TVHLkrjrgla_1p_W3HBmnk37o5uuTrU9H0o3Duzue3kxk8rMYvY_wKeLI6HgTjUjt9_cUWK84JY6gHa4aCqR8lBAjJpgYr1IAHMXHRGc536mRC23K",
+			"image_crops": {
+				"100x100": [
+					[
+						0,
+						0
+					],
+					[
+						1090,
+						1090
+					]
+				]
+			},
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389470093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "642693930878840",
+		"account_name": "BUZIOS 01",
+		"account_currency": "BRL",
+		"ad_id": "23852625417840093",
+		"campaign_id": "23852625282880093",
+		"campaign_name": "MSG WPP BUZIOS 03.02",
+		"adset_id": "23852625283000093",
+		"adset_name": "SAUDE 28 A 60 AMBOS",
+		"impressions": "282",
+		"clicks": "4",
+		"cpc": "1.6825",
+		"cpm": "23.865248",
+		"cpp": "28.516949",
+		"ctr": "1.41844",
+		"frequency": "1.194915",
+		"reach": "236",
+		"spend": "6.73",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.41844"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "05c41c5581872af696e6ca3c98264a6c",
+			"url": "https://www.facebook.com/ads/image/?d=AQL0iSWIsSpzWbIpg7H_Lf05DK6aavJWoHr2EEqrcD7ziawp4I8n8WRuvwKnrx4DIGl3PFDlRR89Zth9agAItZuT32Z2nRJBwiqZ42Rq0Tsy73iVex_41OI1l3iRsTx1rEE9hHI3h70C7Taz13kxkbIS",
+			"name": "7.jpeg_105_105_105",
+			"id": "23852625389530093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396708230093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396639060093",
+		"adset_name": "ABERTO",
+		"impressions": "6880",
+		"clicks": "16",
+		"cpc": "3.568125",
+		"cpm": "8.297965",
+		"cpp": "15.346774",
+		"ctr": "0.232558",
+		"frequency": "1.849462",
+		"reach": "3720",
+		"spend": "57.09",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.101744"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "d3d3754bd0bb3ec74cdc1b394ecf0f15",
+			"url": "https://www.facebook.com/ads/image/?d=AQKxOa5F5JT43UrqoWgFzOtv-A2t23Kh74wkcX8O6c-VMn8vwxmtXOqoI_DFO53xB-N6LEbdUzZM-1jFm62j6yl_qLAjWqdLb6l746tpVI-jqNnTf1ebi4pDg4iZB2badNKPqzp3D_XmEEA8Ay8QSr7t",
+			"name": "FT LABIO ST 03.png",
+			"id": "23852396717890093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396708230093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396639060093",
+		"adset_name": "ABERTO",
+		"impressions": "1919",
+		"clicks": "6",
+		"cpc": "3.736667",
+		"cpm": "11.683168",
+		"cpp": "12.952051",
+		"ctr": "0.312663",
+		"frequency": "1.108608",
+		"reach": "1731",
+		"spend": "22.42",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.05211"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "57b3a767c2689b7443364c75b2417867",
+			"url": "https://www.facebook.com/ads/image/?d=AQJBlfSybReogGLcAUraGKIMnWa7keIjRufqQWTZzyNLSkKbhE6TD8aS0RQABr4WGQ5cYExL7EQLZSfuXIrcDdO5RaaJR6zd0vFIQs3o7-_gUiF6e4v_ie7DALebzMylQHn41IbHWi5wuoKlXM8D4gGb",
+			"name": "FT LABIO FD 03.png",
+			"id": "23852396718010093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396717470093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396638980093",
+		"adset_name": "LABIO",
+		"impressions": "3842",
+		"clicks": "14",
+		"cpc": "2.497143",
+		"cpm": "9.099427",
+		"cpp": "16.058797",
+		"ctr": "0.364394",
+		"frequency": "1.764814",
+		"reach": "2177",
+		"spend": "34.96",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.182197"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "d3d3754bd0bb3ec74cdc1b394ecf0f15",
+			"url": "https://www.facebook.com/ads/image/?d=AQKxOa5F5JT43UrqoWgFzOtv-A2t23Kh74wkcX8O6c-VMn8vwxmtXOqoI_DFO53xB-N6LEbdUzZM-1jFm62j6yl_qLAjWqdLb6l746tpVI-jqNnTf1ebi4pDg4iZB2badNKPqzp3D_XmEEA8Ay8QSr7t",
+			"name": "FT LABIO ST 03.png",
+			"id": "23852396717890093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396717470093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396638980093",
+		"adset_name": "LABIO",
+		"impressions": "1828",
+		"clicks": "7",
+		"cpc": "2.657143",
+		"cpm": "10.175055",
+		"cpp": "11.567164",
+		"ctr": "0.382932",
+		"frequency": "1.136816",
+		"reach": "1608",
+		"spend": "18.6",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.109409"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "57b3a767c2689b7443364c75b2417867",
+			"url": "https://www.facebook.com/ads/image/?d=AQJBlfSybReogGLcAUraGKIMnWa7keIjRufqQWTZzyNLSkKbhE6TD8aS0RQABr4WGQ5cYExL7EQLZSfuXIrcDdO5RaaJR6zd0vFIQs3o7-_gUiF6e4v_ie7DALebzMylQHn41IbHWi5wuoKlXM8D4gGb",
+			"name": "FT LABIO FD 03.png",
+			"id": "23852396718010093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396718910093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396718900093",
+		"adset_name": "ALTO VALOR",
+		"impressions": "1522",
+		"clicks": "5",
+		"cpc": "2.972",
+		"cpm": "9.763469",
+		"cpp": "15.609244",
+		"ctr": "0.328515",
+		"frequency": "1.598739",
+		"reach": "952",
+		"spend": "14.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.131406"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "d3d3754bd0bb3ec74cdc1b394ecf0f15",
+			"url": "https://www.facebook.com/ads/image/?d=AQKxOa5F5JT43UrqoWgFzOtv-A2t23Kh74wkcX8O6c-VMn8vwxmtXOqoI_DFO53xB-N6LEbdUzZM-1jFm62j6yl_qLAjWqdLb6l746tpVI-jqNnTf1ebi4pDg4iZB2badNKPqzp3D_XmEEA8Ay8QSr7t",
+			"name": "FT LABIO ST 03.png",
+			"id": "23852396717890093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852396718910093",
+		"campaign_id": "23852396639000093",
+		"campaign_name": "MSG LABIO BA + SC 09.01",
+		"adset_id": "23852396718900093",
+		"adset_name": "ALTO VALOR",
+		"impressions": "618",
+		"clicks": "4",
+		"cpc": "1.5875",
+		"cpm": "10.275081",
+		"cpp": "10.817717",
+		"ctr": "0.647249",
+		"frequency": "1.052811",
+		"reach": "587",
+		"spend": "6.35",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "57b3a767c2689b7443364c75b2417867",
+			"url": "https://www.facebook.com/ads/image/?d=AQJBlfSybReogGLcAUraGKIMnWa7keIjRufqQWTZzyNLSkKbhE6TD8aS0RQABr4WGQ5cYExL7EQLZSfuXIrcDdO5RaaJR6zd0vFIQs3o7-_gUiF6e4v_ie7DALebzMylQHn41IbHWi5wuoKlXM8D4gGb",
+			"name": "FT LABIO FD 03.png",
+			"id": "23852396718010093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852439057770093",
+		"campaign_id": "23852439027950093",
+		"campaign_name": "MSG ULTRA BA 13.01 (EVENTO 25 JAN)",
+		"adset_id": "23852439027940093",
+		"adset_name": "ABERTO",
+		"impressions": "3619",
+		"clicks": "8",
+		"cpc": "2.22875",
+		"cpm": "4.926775",
+		"cpp": "11.320635",
+		"ctr": "0.221056",
+		"frequency": "2.297778",
+		"reach": "1575",
+		"spend": "17.83",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.13816"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "cd64ef4cb6793383089be8a0dde8b056",
+			"url": "https://www.facebook.com/ads/image/?d=AQLI8mOJ_VXfB7fZnbVHsmepuMGilr2AYKjUhFhVFL8337qzl74yltERZnyG4t_C9Lq3RU2qTANwlA3WG0FLmpYG3cJgQdoH5DkYB3pOvLAUMssVXmxzukK-iHiRgz0O286txEMwgmS87ft0jSyoi7Pw",
+			"name": "WhatsApp Image 2023-01-13 at 15.23.10.jpeg",
+			"id": "23852439049620093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852439057770093",
+		"campaign_id": "23852439027950093",
+		"campaign_name": "MSG ULTRA BA 13.01 (EVENTO 25 JAN)",
+		"adset_id": "23852439027940093",
+		"adset_name": "ABERTO",
+		"impressions": "935",
+		"clicks": "3",
+		"cpc": "4.37",
+		"cpm": "14.02139",
+		"cpp": "16.721939",
+		"ctr": "0.320856",
+		"frequency": "1.192602",
+		"reach": "784",
+		"spend": "13.11",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "cd64ef4cb6793383089be8a0dde8b056",
+			"url": "https://www.facebook.com/ads/image/?d=AQLCybtZcw5dUw5FcHuSq85okI33cVvpXN_A_nlOdqp4OztC893ovfowJmBuL004lUOtRsTXf-MxOzZBQ6i6ljiaKx2sP3iTryU1d4-A5oLHAC57D75d2Ljj2KP0pXxb3BZp9pzjvE5R18YzRuMotl8h",
+			"image_crops": {
+				"100x100": [
+					[
+						0,
+						40
+					],
+					[
+						1132,
+						1172
+					]
+				]
+			},
+			"name": "WhatsApp Image 2023-01-13 at 15.23.10.jpeg",
+			"id": "23852439051090093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852439057780093",
+		"campaign_id": "23852439027950093",
+		"campaign_name": "MSG ULTRA BA 13.01 (EVENTO 25 JAN)",
+		"adset_id": "23852439027890093",
+		"adset_name": "SEG + SEM 1%",
+		"impressions": "3318",
+		"clicks": "1",
+		"cpc": "24.05",
+		"cpm": "7.248342",
+		"cpp": "16.394001",
+		"ctr": "0.030139",
+		"frequency": "2.261759",
+		"reach": "1467",
+		"spend": "24.05",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "cd64ef4cb6793383089be8a0dde8b056",
+			"url": "https://www.facebook.com/ads/image/?d=AQLI8mOJ_VXfB7fZnbVHsmepuMGilr2AYKjUhFhVFL8337qzl74yltERZnyG4t_C9Lq3RU2qTANwlA3WG0FLmpYG3cJgQdoH5DkYB3pOvLAUMssVXmxzukK-iHiRgz0O286txEMwgmS87ft0jSyoi7Pw",
+			"name": "WhatsApp Image 2023-01-13 at 15.23.10.jpeg",
+			"id": "23852439049620093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852439057780093",
+		"campaign_id": "23852439027950093",
+		"campaign_name": "MSG ULTRA BA 13.01 (EVENTO 25 JAN)",
+		"adset_id": "23852439027890093",
+		"adset_name": "SEG + SEM 1%",
+		"impressions": "1124",
+		"clicks": "4",
+		"cpc": "5.5475",
+		"cpm": "19.741993",
+		"cpp": "22.829218",
+		"ctr": "0.355872",
+		"frequency": "1.156379",
+		"reach": "972",
+		"spend": "22.19",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.088968"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "cd64ef4cb6793383089be8a0dde8b056",
+			"url": "https://www.facebook.com/ads/image/?d=AQLCybtZcw5dUw5FcHuSq85okI33cVvpXN_A_nlOdqp4OztC893ovfowJmBuL004lUOtRsTXf-MxOzZBQ6i6ljiaKx2sP3iTryU1d4-A5oLHAC57D75d2Ljj2KP0pXxb3BZp9pzjvE5R18YzRuMotl8h",
+			"image_crops": {
+				"100x100": [
+					[
+						0,
+						40
+					],
+					[
+						1132,
+						1172
+					]
+				]
+			},
+			"name": "WhatsApp Image 2023-01-13 at 15.23.10.jpeg",
+			"id": "23852439051090093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852459439170093",
+		"campaign_id": "23852459439210093",
+		"campaign_name": "MSG MANDIBULA BA + SC 16.01",
+		"adset_id": "23852459439190093",
+		"adset_name": "QUEIXO",
+		"impressions": "6367",
+		"clicks": "8",
+		"cpc": "4.6175",
+		"cpm": "5.80179",
+		"cpp": "10.945185",
+		"ctr": "0.125648",
+		"frequency": "1.886519",
+		"reach": "3375",
+		"spend": "36.94",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.07853"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "489eef41b6ee07b3205951ba72420c92",
+			"url": "https://www.facebook.com/ads/image/?d=AQISQNYjfD412_pesQo8_G6I-O63YTwxBhbkAjBwOrzFdVXdA-D156AYzLoUrQo6GPQ7ZsqF7xUC6enVgEIuO1UWSqd3rd3I1s4GvsmJO0c3aRZ7zuZPvmxMjpkrbZnQumohUoetBn1Iabzr4Weisf60",
+			"name": "FOTO MD ST 03.png",
+			"id": "23851000756300093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852459439170093",
+		"campaign_id": "23852459439210093",
+		"campaign_name": "MSG MANDIBULA BA + SC 16.01",
+		"adset_id": "23852459439190093",
+		"adset_name": "QUEIXO",
+		"impressions": "2121",
+		"clicks": "6",
+		"cpc": "2.73",
+		"cpm": "7.722772",
+		"cpp": "8.276908",
+		"ctr": "0.282885",
+		"frequency": "1.071753",
+		"reach": "1979",
+		"spend": "16.38",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4c5a69572b539e136af5e7c9d61c5858",
+			"url": "https://www.facebook.com/ads/image/?d=AQJHNe9Hr5NZTraD_o7f75a-SA7nHTUWlTEVRhcSBi7sj-XFMAhRC_qyu6fOxXlmSkJRANcFQfmKLryxr8QbG248z3tlWz7SAnodfSMIy9hokTKLRsYAX73F08gGpc5S2VkYqG9NKpPCvEp8r7bgpspL",
+			"name": "FOTO MD FD 03.png",
+			"id": "23851000756400093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852459439180093",
+		"campaign_id": "23852459439210093",
+		"campaign_name": "MSG MANDIBULA BA + SC 16.01",
+		"adset_id": "23852459439200093",
+		"adset_name": "ABERTO",
+		"impressions": "12152",
+		"clicks": "19",
+		"cpc": "3.561053",
+		"cpm": "5.567808",
+		"cpp": "11.40209",
+		"ctr": "0.156353",
+		"frequency": "2.04786",
+		"reach": "5934",
+		"spend": "67.66",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.082291"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "489eef41b6ee07b3205951ba72420c92",
+			"url": "https://www.facebook.com/ads/image/?d=AQISQNYjfD412_pesQo8_G6I-O63YTwxBhbkAjBwOrzFdVXdA-D156AYzLoUrQo6GPQ7ZsqF7xUC6enVgEIuO1UWSqd3rd3I1s4GvsmJO0c3aRZ7zuZPvmxMjpkrbZnQumohUoetBn1Iabzr4Weisf60",
+			"name": "FOTO MD ST 03.png",
+			"id": "23851000756300093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852459439180093",
+		"campaign_id": "23852459439210093",
+		"campaign_name": "MSG MANDIBULA BA + SC 16.01",
+		"adset_id": "23852459439200093",
+		"adset_name": "ABERTO",
+		"impressions": "4084",
+		"clicks": "10",
+		"cpc": "3.349",
+		"cpm": "8.200294",
+		"cpp": "9.535877",
+		"ctr": "0.244858",
+		"frequency": "1.16287",
+		"reach": "3512",
+		"spend": "33.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.073457"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4c5a69572b539e136af5e7c9d61c5858",
+			"url": "https://www.facebook.com/ads/image/?d=AQJHNe9Hr5NZTraD_o7f75a-SA7nHTUWlTEVRhcSBi7sj-XFMAhRC_qyu6fOxXlmSkJRANcFQfmKLryxr8QbG248z3tlWz7SAnodfSMIy9hokTKLRsYAX73F08gGpc5S2VkYqG9NKpPCvEp8r7bgpspL",
+			"name": "FOTO MD FD 03.png",
+			"id": "23851000756400093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852476484140093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"impressions": "2621",
+		"clicks": "24",
+		"cpc": "1.552917",
+		"cpm": "14.219763",
+		"cpp": "15.873083",
+		"ctr": "0.915681",
+		"frequency": "1.116269",
+		"reach": "2348",
+		"spend": "37.27",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.22892"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0ac31c7e04088afc03a100687a8b486a",
+			"url": "https://www.facebook.com/ads/image/?d=AQLtFR7cxnD08AyaILz3WsSafoF4ewyiEm8NLoDJmsNzWQX0GgbvrCyB3MaoGOIjsgeyDjKSAOw_KzYtUTbSxSa8GsfQB-aKoy8g6M-0JYKIFKzJOKj5jogZ-2XRiTazmdRC5dOmspXUStYQbOGEoKlv",
+			"name": "untitled",
+			"id": "23852476490570093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852476484140093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"impressions": "1631",
+		"clicks": "10",
+		"cpc": "1.687",
+		"cpm": "10.343348",
+		"cpp": "12.887701",
+		"ctr": "0.613121",
+		"frequency": "1.245989",
+		"reach": "1309",
+		"spend": "16.87",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.245248"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "66468b70cc39b1a75c9fcbf92f47bace",
+			"url": "https://www.facebook.com/ads/image/?d=AQIikVGDtnee2XAcX4SFr_hRtcMzvLAauag7O8jLnD1-93-Kv807vv0bxfek-4faLhqe03hibFtogWQHeZGIl9E1LRioDuX87VpWMSBwalJ1rMTuRoDofsET0g_N1iRy-kGryLjUNXxMDYa-Bwho7Okz",
+			"name": "untitled",
+			"id": "23852476490670093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852476498710093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290570093",
+		"adset_name": "PAPADA",
+		"impressions": "2075",
+		"clicks": "33",
+		"cpc": "0.752727",
+		"cpm": "11.971084",
+		"cpp": "13.191715",
+		"ctr": "1.590361",
+		"frequency": "1.101965",
+		"reach": "1883",
+		"spend": "24.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.337349"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0ac31c7e04088afc03a100687a8b486a",
+			"url": "https://www.facebook.com/ads/image/?d=AQLtFR7cxnD08AyaILz3WsSafoF4ewyiEm8NLoDJmsNzWQX0GgbvrCyB3MaoGOIjsgeyDjKSAOw_KzYtUTbSxSa8GsfQB-aKoy8g6M-0JYKIFKzJOKj5jogZ-2XRiTazmdRC5dOmspXUStYQbOGEoKlv",
+			"name": "untitled",
+			"id": "23852476490570093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852476498710093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290570093",
+		"adset_name": "PAPADA",
+		"impressions": "1942",
+		"clicks": "15",
+		"cpc": "1.063333",
+		"cpm": "8.213182",
+		"cpp": "9.993734",
+		"ctr": "0.7724",
+		"frequency": "1.216792",
+		"reach": "1596",
+		"spend": "15.95",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.360453"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "66468b70cc39b1a75c9fcbf92f47bace",
+			"url": "https://www.facebook.com/ads/image/?d=AQIikVGDtnee2XAcX4SFr_hRtcMzvLAauag7O8jLnD1-93-Kv807vv0bxfek-4faLhqe03hibFtogWQHeZGIl9E1LRioDuX87VpWMSBwalJ1rMTuRoDofsET0g_N1iRy-kGryLjUNXxMDYa-Bwho7Okz",
+			"name": "untitled",
+			"id": "23852476490670093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852489167600093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"impressions": "4284",
+		"clicks": "24",
+		"cpc": "0.876667",
+		"cpm": "4.911298",
+		"cpp": "6.973815",
+		"ctr": "0.560224",
+		"frequency": "1.419954",
+		"reach": "3017",
+		"spend": "21.04",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.046685"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e827bfa156c7459947fadd56fdede594",
+			"url": "https://www.facebook.com/ads/image/?d=AQJS0bY0FNBncF8t-j7wL-TxZxW8j-4_eY4eUebnyjvBDQbp5iT_JDqDOP3fOiPwCAcxfv0Cp8pzWCYL46lJ_j04A_iEznMyOImzTx6HC5xV3fghewic_9Q1-nnohqnrzDqdxyaPVfoEXsP-CuTJTRtm",
+			"name": "WhatsApp Image 2023-01-17 at 23.47.00.jpeg",
+			"id": "23852476423430093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"account_name": "Dr. Rafael 02",
+		"account_currency": "BRL",
+		"ad_id": "23852489167600093",
+		"campaign_id": "23852476290560093",
+		"campaign_name": "MSG IG PAPADA BA + SC 18.01",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"impressions": "326",
+		"clicks": "2",
+		"cpc": "3.02",
+		"cpm": "18.527607",
+		"cpp": "19.933993",
+		"ctr": "0.613497",
+		"frequency": "1.075908",
+		"reach": "303",
+		"spend": "6.04",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0ac31c7e04088afc03a100687a8b486a",
+			"url": "https://www.facebook.com/ads/image/?d=AQLtFR7cxnD08AyaILz3WsSafoF4ewyiEm8NLoDJmsNzWQX0GgbvrCyB3MaoGOIjsgeyDjKSAOw_KzYtUTbSxSa8GsfQB-aKoy8g6M-0JYKIFKzJOKj5jogZ-2XRiTazmdRC5dOmspXUStYQbOGEoKlv",
+			"name": "untitled",
+			"id": "23852476490570093"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508184810181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184800181",
+		"adset_name": "Condicionamento físico",
+		"impressions": "226",
+		"clicks": "1",
+		"cpc": "2.24",
+		"cpm": "9.911504",
+		"cpp": "11.256281",
+		"ctr": "0.442478",
+		"frequency": "1.135678",
+		"reach": "199",
+		"spend": "2.24",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b0cbe28c51dbd6d4505768e78c97a346",
+			"url": "https://www.facebook.com/ads/image/?d=AQJaQhZ9Uv56ZRFMAEa8I-hgscwm9CgVrUFFbgjfKVTe3Y1VGFp2Y7xMoUsxpGhZ96AXyG-TC4XFY6JpSvqSUHHTAWcY-75Y8wy0qcff4Wi-hOkYab5oPeYH1oEaIPbeeLpfY2PGGJ0NMX2wLl01SoJq",
+			"name": "6.png",
+			"id": "23850508199380181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508184810181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184800181",
+		"adset_name": "Condicionamento físico",
+		"impressions": "65",
+		"clicks": "2",
+		"cpc": "0.61",
+		"cpm": "18.769231",
+		"cpp": "19.677419",
+		"ctr": "3.076923",
+		"frequency": "1.048387",
+		"reach": "62",
+		"spend": "1.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.538462"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "694b885b56e3cbf36463a47ba1b529f6",
+			"url": "https://www.facebook.com/ads/image/?d=AQKdj8PJnCPpTsgsND4VjfSdeZumPzfkafS0fxL3DLTN4h8Lk5YlEA-h28Xi6KOo6A0u55g8gFP0tfge8Fh_z0dzssBS1zmFtMacbs7YJgxqKXvCIOyKwFrb1giN31fyuMrwIAIQw1c0qFFX5U7v-cBs",
+			"name": "1.png",
+			"id": "23850508199470181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508213940181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184790181",
+		"adset_name": "ABERTO",
+		"impressions": "346",
+		"clicks": "1",
+		"cpc": "2.82",
+		"cpm": "8.150289",
+		"cpp": "10",
+		"ctr": "0.289017",
+		"frequency": "1.22695",
+		"reach": "282",
+		"spend": "2.82",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.289017"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b0cbe28c51dbd6d4505768e78c97a346",
+			"url": "https://www.facebook.com/ads/image/?d=AQJaQhZ9Uv56ZRFMAEa8I-hgscwm9CgVrUFFbgjfKVTe3Y1VGFp2Y7xMoUsxpGhZ96AXyG-TC4XFY6JpSvqSUHHTAWcY-75Y8wy0qcff4Wi-hOkYab5oPeYH1oEaIPbeeLpfY2PGGJ0NMX2wLl01SoJq",
+			"name": "6.png",
+			"id": "23850508199380181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508213940181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184790181",
+		"adset_name": "ABERTO",
+		"impressions": "72",
+		"clicks": "1",
+		"cpc": "1.24",
+		"cpm": "17.222222",
+		"cpp": "19.68254",
+		"ctr": "1.388889",
+		"frequency": "1.142857",
+		"reach": "63",
+		"spend": "1.24",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.388889"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "694b885b56e3cbf36463a47ba1b529f6",
+			"url": "https://www.facebook.com/ads/image/?d=AQKdj8PJnCPpTsgsND4VjfSdeZumPzfkafS0fxL3DLTN4h8Lk5YlEA-h28Xi6KOo6A0u55g8gFP0tfge8Fh_z0dzssBS1zmFtMacbs7YJgxqKXvCIOyKwFrb1giN31fyuMrwIAIQw1c0qFFX5U7v-cBs",
+			"name": "1.png",
+			"id": "23850508199470181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508213950181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184760181",
+		"adset_name": "Qualidade de vida",
+		"impressions": "373",
+		"clicks": "1",
+		"cpc": "4.12",
+		"cpm": "11.045576",
+		"cpp": "14.206897",
+		"ctr": "0.268097",
+		"frequency": "1.286207",
+		"reach": "290",
+		"spend": "4.12",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.268097"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b0cbe28c51dbd6d4505768e78c97a346",
+			"url": "https://www.facebook.com/ads/image/?d=AQJaQhZ9Uv56ZRFMAEa8I-hgscwm9CgVrUFFbgjfKVTe3Y1VGFp2Y7xMoUsxpGhZ96AXyG-TC4XFY6JpSvqSUHHTAWcY-75Y8wy0qcff4Wi-hOkYab5oPeYH1oEaIPbeeLpfY2PGGJ0NMX2wLl01SoJq",
+			"name": "6.png",
+			"id": "23850508199380181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "400516895251196",
+		"account_name": "DR VR 01",
+		"account_currency": "BRL",
+		"ad_id": "23850508213950181",
+		"campaign_id": "23850508184780181",
+		"campaign_name": "MSG IG BARI 28.04 - CBO 1.3.2",
+		"adset_id": "23850508184760181",
+		"adset_name": "Qualidade de vida",
+		"impressions": "64",
+		"clicks": "0",
+		"cpm": "15.9375",
+		"cpp": "16.190476",
+		"ctr": "0",
+		"frequency": "1.015873",
+		"reach": "63",
+		"spend": "1.02",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "694b885b56e3cbf36463a47ba1b529f6",
+			"url": "https://www.facebook.com/ads/image/?d=AQKdj8PJnCPpTsgsND4VjfSdeZumPzfkafS0fxL3DLTN4h8Lk5YlEA-h28Xi6KOo6A0u55g8gFP0tfge8Fh_z0dzssBS1zmFtMacbs7YJgxqKXvCIOyKwFrb1giN31fyuMrwIAIQw1c0qFFX5U7v-cBs",
+			"name": "1.png",
+			"id": "23850508199470181"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536303790202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294580202",
+		"adset_name": "ABERTO — C2",
+		"impressions": "84",
+		"clicks": "6",
+		"cpc": "0.37",
+		"cpm": "26.428571",
+		"cpp": "31.714286",
+		"ctr": "7.142857",
+		"frequency": "1.2",
+		"reach": "70",
+		"spend": "2.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "4.761905"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0a8984a6883937b894d3f0581f09fe50",
+			"url": "https://www.facebook.com/ads/image/?d=AQLyfBYryk0PaM5dNmLH8BgEBvBYXtcijRmAsS1JajvZDYyVXviDp6ayTMut1MJTidLv1u6IjCbIJ-7RGZM9zR9l4P8Rxo380BEx-biZhLWRqZ3FdPbI7M02YwZKhQtTc5iq6-ieDbjhDMRPLQ6PNreP",
+			"name": "FD2.png_105",
+			"id": "23853082230770202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536303790202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294580202",
+		"adset_name": "ABERTO — C2",
+		"impressions": "40",
+		"clicks": "0",
+		"cpm": "13.25",
+		"cpp": "14.722222",
+		"ctr": "0",
+		"frequency": "1.111111",
+		"reach": "36",
+		"spend": "0.53",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be9de64934c30e6876e0fb275f8f7644",
+			"url": "https://www.facebook.com/ads/image/?d=AQKp8j6Ka02z3xaK7ZgIWz3wMqhCkrHSiMG-HuZK3RcxHPV8DBErETgo-6JGKq-z5gCms5NY6TUapOwI0HrOLbIgnPZ1fF5FDYBDRurliGfLtuhlHwKxRZY-KN_qaoeC5GS6FIIsLtBDHxXcrAjARge0",
+			"name": "2.png_105",
+			"id": "23853082230810202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331260202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536280180202",
+		"adset_name": "ABERTO",
+		"impressions": "90",
+		"clicks": "4",
+		"cpc": "0.51",
+		"cpm": "22.666667",
+		"cpp": "29.142857",
+		"ctr": "4.444444",
+		"frequency": "1.285714",
+		"reach": "70",
+		"spend": "2.04",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "2.222222"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0a8984a6883937b894d3f0581f09fe50",
+			"url": "https://www.facebook.com/ads/image/?d=AQLyfBYryk0PaM5dNmLH8BgEBvBYXtcijRmAsS1JajvZDYyVXviDp6ayTMut1MJTidLv1u6IjCbIJ-7RGZM9zR9l4P8Rxo380BEx-biZhLWRqZ3FdPbI7M02YwZKhQtTc5iq6-ieDbjhDMRPLQ6PNreP",
+			"name": "FD2.png_105",
+			"id": "23853082230770202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331260202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536280180202",
+		"adset_name": "ABERTO",
+		"impressions": "37",
+		"clicks": "1",
+		"cpc": "0.8",
+		"cpm": "21.621622",
+		"cpp": "24.242424",
+		"ctr": "2.702703",
+		"frequency": "1.121212",
+		"reach": "33",
+		"spend": "0.8",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be9de64934c30e6876e0fb275f8f7644",
+			"url": "https://www.facebook.com/ads/image/?d=AQKp8j6Ka02z3xaK7ZgIWz3wMqhCkrHSiMG-HuZK3RcxHPV8DBErETgo-6JGKq-z5gCms5NY6TUapOwI0HrOLbIgnPZ1fF5FDYBDRurliGfLtuhlHwKxRZY-KN_qaoeC5GS6FIIsLtBDHxXcrAjARge0",
+			"name": "2.png_105",
+			"id": "23853082230810202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331280202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294590202",
+		"adset_name": "ABERTO — C3",
+		"impressions": "44",
+		"clicks": "0",
+		"cpm": "17.272727",
+		"cpp": "19.487179",
+		"ctr": "0",
+		"frequency": "1.128205",
+		"reach": "39",
+		"spend": "0.76",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "0a8984a6883937b894d3f0581f09fe50",
+			"url": "https://www.facebook.com/ads/image/?d=AQLyfBYryk0PaM5dNmLH8BgEBvBYXtcijRmAsS1JajvZDYyVXviDp6ayTMut1MJTidLv1u6IjCbIJ-7RGZM9zR9l4P8Rxo380BEx-biZhLWRqZ3FdPbI7M02YwZKhQtTc5iq6-ieDbjhDMRPLQ6PNreP",
+			"name": "FD2.png_105",
+			"id": "23853082230770202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331280202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294590202",
+		"adset_name": "ABERTO — C3",
+		"impressions": "26",
+		"clicks": "0",
+		"cpm": "10",
+		"cpp": "11.304348",
+		"ctr": "0",
+		"frequency": "1.130435",
+		"reach": "23",
+		"spend": "0.26",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be9de64934c30e6876e0fb275f8f7644",
+			"url": "https://www.facebook.com/ads/image/?d=AQKp8j6Ka02z3xaK7ZgIWz3wMqhCkrHSiMG-HuZK3RcxHPV8DBErETgo-6JGKq-z5gCms5NY6TUapOwI0HrOLbIgnPZ1fF5FDYBDRurliGfLtuhlHwKxRZY-KN_qaoeC5GS6FIIsLtBDHxXcrAjARge0",
+			"name": "2.png_105",
+			"id": "23853082230810202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331290202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294590202",
+		"adset_name": "ABERTO — C3",
+		"impressions": "54",
+		"clicks": "1",
+		"cpc": "1.27",
+		"cpm": "23.518519",
+		"cpp": "27.021277",
+		"ctr": "1.851852",
+		"frequency": "1.148936",
+		"reach": "47",
+		"spend": "1.27",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.851852"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "a36c5fa52b0a9adda4c82bd297b6026c",
+			"url": "https://www.facebook.com/ads/image/?d=AQJ2oVrQO0pUXKtn2ErhdjwYds4nUohpIBOjiMt3AQF88KANTpptedcaiYxWG6w77kmBrsbQtIBgdXmEYhXHbIX-cgOe9Kj4_2aNFjujc2jrGQkwO2znQMgWWXTrjWgI2yWU1NGiDbAw7c7S7UkqFofM",
+			"name": "4.png_105_105",
+			"id": "23853082161750202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1039431480165166",
+		"account_name": "Barbara Xanxerê",
+		"account_currency": "BRL",
+		"ad_id": "23853536331290202",
+		"campaign_id": "23853536279820202",
+		"campaign_name": "MSG WPP EXAME 19.01",
+		"adset_id": "23853536294590202",
+		"adset_name": "ABERTO — C3",
+		"impressions": "303",
+		"clicks": "8",
+		"cpc": "0.975",
+		"cpm": "25.742574",
+		"cpp": "34.361233",
+		"ctr": "2.640264",
+		"frequency": "1.334802",
+		"reach": "227",
+		"spend": "7.8",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.320132"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "d13139ab8a23e12f9145c839687bfdcf",
+			"url": "https://www.facebook.com/ads/image/?d=AQL_TCJb4tGAx-81WFQ1Ur393eMirhcQ3JO7TzT5xnXyz6lCnA8AUuH5P3E8Lm3oLDg6hpmEcuuvPk1slUexVjgTepTK6XMNs5lUCs72j0qMApUspRSM59ZG8e0IVVS36Kd2D4SxGS65ZlCDeR86jbgJ",
+			"name": "FD4.png_105_105",
+			"id": "23853082161840202"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280392190504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "800",
+		"clicks": "4",
+		"cpc": "1.4525",
+		"cpm": "7.2625",
+		"cpp": "7.50646",
+		"ctr": "0.5",
+		"frequency": "1.033592",
+		"reach": "774",
+		"spend": "5.81",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.375"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "da7e0c8175a3af329552b9375820d79f",
+			"url": "https://www.facebook.com/ads/image/?d=AQLYYe_EfiIHstIzHjij1C1ntbq0nyTWBANhScKXrq4zkWok09vp1rB968xq_GBRY65l-dQ1sDgcvAXQ3sGNnWMxovdwK8o6FWVz6gKAOqzVBmEC-m3mRLJ4RU5X6gXoDmjKR318YI1Cckoj5JGndUnw",
+			"name": "ft iniciante fd 01.jpg",
+			"id": "23853280418390504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280392190504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "2835",
+		"clicks": "3",
+		"cpc": "2.68",
+		"cpm": "2.835979",
+		"cpp": "4.449364",
+		"ctr": "0.10582",
+		"frequency": "1.568899",
+		"reach": "1807",
+		"spend": "8.04",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.10582"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ff46f29e88a78fcc71acc148229544c5",
+			"url": "https://www.facebook.com/ads/image/?d=AQI-y9Ztj4MJdMEh2IXZcrkJCF0j2mGrJv6hmheFXKyCy2TkwpenGC2VgB_DHYC1v1SGp22JOMTCjtfZ_FWph059-P2s_HFUcw_Gm8Zb9XGFWjK5Fm5SlPpomSGXz5GmUP3Li53UMy7F9avMvRUNudaa",
+			"name": "ft iniciante st 01.jpg",
+			"id": "23853280418480504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280419670504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "310",
+		"clicks": "0",
+		"cpm": "5.645161",
+		"cpp": "5.912162",
+		"ctr": "0",
+		"frequency": "1.047297",
+		"reach": "296",
+		"spend": "1.75",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e7acd2e0358a27e9b18d1b1efe349c9b",
+			"url": "https://www.facebook.com/ads/image/?d=AQK5aKasNME2qBQwL5MA7rzZ-Wjp7vCb6PcygfGBuMUCq3svfEHVLAsY7pbLIbp563bwU3Xwnpx_BR7lyaWtCAB41TzbXgC5ueQI6a43xSiQU887R9Myn995Tb1baYHZeRkEEdzmgJm23vtfok2ADgHU",
+			"name": "ft iniciante fd 02.jpg",
+			"id": "23853280422640504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280419670504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "1362",
+		"clicks": "3",
+		"cpc": "1.263333",
+		"cpm": "2.782673",
+		"cpp": "4.993412",
+		"ctr": "0.220264",
+		"frequency": "1.794466",
+		"reach": "759",
+		"spend": "3.79",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.146843"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "a4342344f4f162aa5de60512d7006e46",
+			"url": "https://www.facebook.com/ads/image/?d=AQK-DeO3jaqxNwkOQLRzWTTmYZuOa6CFEbJFzE43wQB3HktAt5PZLzHeMSSLIxFmMtfENTPhbig_tPu7IzTiBtIaepdDPcJWkOvGd1BoEugsACkg3L4CSbNxw4N9eOkAh4i8EHDjcxuQqtpJ8N9RK_KC",
+			"name": "ft iniciante st 02.jpg",
+			"id": "23853280422690504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280423620504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "2808",
+		"clicks": "2",
+		"cpc": "4.165",
+		"cpm": "2.966524",
+		"cpp": "5.258838",
+		"ctr": "0.071225",
+		"frequency": "1.772727",
+		"reach": "1584",
+		"spend": "8.33",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.071225"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "97e0367c9feac91cc5cab265e7532dc3",
+			"url": "https://www.facebook.com/ads/image/?d=AQL2LmyzRC0rZ6lfBDo4O2udffytXDyvBGxLt0LtwUyS3y3NetrXO76GbRYmeapGgBwHLrSpFjTUF6UdRD3NNv-QSGz1SfjiYxDJhHbngYZknL48gYa0R3QJItua9dVBM-XJiH-lOt_Q040fsJ6bCCuY",
+			"name": "unnamed (5).jpg",
+			"id": "23853280427740504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280423620504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "1044",
+		"clicks": "1",
+		"cpc": "5.31",
+		"cpm": "5.086207",
+		"cpp": "5.583596",
+		"ctr": "0.095785",
+		"frequency": "1.097792",
+		"reach": "951",
+		"spend": "5.31",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "50ba52c1a99c7af22d901f06bae5ae71",
+			"url": "https://www.facebook.com/ads/image/?d=AQKsYJyPqYdL0d451c1vde7QuD2Ib4szFCxW6A_p3Em1gjyweWPsu-yp1zXZYXjvrVEJbbSRVWGHnGSn2de34Cb9gCiiWqYkN-SUt2TBPO2A7SL4ijZVc3MNyP4XDCR6V57GxhNEzssrWdbZdg_FQ0H3",
+			"name": "unnamed (2).jpg",
+			"id": "23853280427820504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432820504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "551",
+		"clicks": "0",
+		"cpm": "5.335753",
+		"cpp": "5.798817",
+		"ctr": "0",
+		"frequency": "1.086785",
+		"reach": "507",
+		"spend": "2.94",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e7acd2e0358a27e9b18d1b1efe349c9b",
+			"url": "https://www.facebook.com/ads/image/?d=AQK5aKasNME2qBQwL5MA7rzZ-Wjp7vCb6PcygfGBuMUCq3svfEHVLAsY7pbLIbp563bwU3Xwnpx_BR7lyaWtCAB41TzbXgC5ueQI6a43xSiQU887R9Myn995Tb1baYHZeRkEEdzmgJm23vtfok2ADgHU",
+			"name": "ft iniciante fd 02.jpg",
+			"id": "23853280422640504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432820504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "2617",
+		"clicks": "1",
+		"cpc": "8.63",
+		"cpm": "3.297669",
+		"cpp": "6.09894",
+		"ctr": "0.038212",
+		"frequency": "1.84947",
+		"reach": "1415",
+		"spend": "8.63",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "a4342344f4f162aa5de60512d7006e46",
+			"url": "https://www.facebook.com/ads/image/?d=AQK-DeO3jaqxNwkOQLRzWTTmYZuOa6CFEbJFzE43wQB3HktAt5PZLzHeMSSLIxFmMtfENTPhbig_tPu7IzTiBtIaepdDPcJWkOvGd1BoEugsACkg3L4CSbNxw4N9eOkAh4i8EHDjcxuQqtpJ8N9RK_KC",
+			"name": "ft iniciante st 02.jpg",
+			"id": "23853280422690504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432830504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "2986",
+		"clicks": "3",
+		"cpc": "3.3",
+		"cpm": "3.315472",
+		"cpp": "5.555556",
+		"ctr": "0.100469",
+		"frequency": "1.675645",
+		"reach": "1782",
+		"spend": "9.9",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.03349"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "97e0367c9feac91cc5cab265e7532dc3",
+			"url": "https://www.facebook.com/ads/image/?d=AQL2LmyzRC0rZ6lfBDo4O2udffytXDyvBGxLt0LtwUyS3y3NetrXO76GbRYmeapGgBwHLrSpFjTUF6UdRD3NNv-QSGz1SfjiYxDJhHbngYZknL48gYa0R3QJItua9dVBM-XJiH-lOt_Q040fsJ6bCCuY",
+			"name": "unnamed (5).jpg",
+			"id": "23853280427740504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432830504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "1445",
+		"clicks": "3",
+		"cpc": "2.83",
+		"cpm": "5.875433",
+		"cpp": "6.446469",
+		"ctr": "0.207612",
+		"frequency": "1.097191",
+		"reach": "1317",
+		"spend": "8.49",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "50ba52c1a99c7af22d901f06bae5ae71",
+			"url": "https://www.facebook.com/ads/image/?d=AQKsYJyPqYdL0d451c1vde7QuD2Ib4szFCxW6A_p3Em1gjyweWPsu-yp1zXZYXjvrVEJbbSRVWGHnGSn2de34Cb9gCiiWqYkN-SUt2TBPO2A7SL4ijZVc3MNyP4XDCR6V57GxhNEzssrWdbZdg_FQ0H3",
+			"name": "unnamed (2).jpg",
+			"id": "23853280427820504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432840504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "1897",
+		"clicks": "10",
+		"cpc": "1.647",
+		"cpm": "8.68213",
+		"cpp": "9.542294",
+		"ctr": "0.527148",
+		"frequency": "1.099073",
+		"reach": "1726",
+		"spend": "16.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.10543"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "da7e0c8175a3af329552b9375820d79f",
+			"url": "https://www.facebook.com/ads/image/?d=AQLYYe_EfiIHstIzHjij1C1ntbq0nyTWBANhScKXrq4zkWok09vp1rB968xq_GBRY65l-dQ1sDgcvAXQ3sGNnWMxovdwK8o6FWVz6gKAOqzVBmEC-m3mRLJ4RU5X6gXoDmjKR318YI1Cckoj5JGndUnw",
+			"name": "ft iniciante fd 01.jpg",
+			"id": "23853280418390504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432840504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "8951",
+		"clicks": "19",
+		"cpc": "1.526316",
+		"cpm": "3.239861",
+		"cpp": "5.482042",
+		"ctr": "0.212267",
+		"frequency": "1.69206",
+		"reach": "5290",
+		"spend": "29",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.134063"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ff46f29e88a78fcc71acc148229544c5",
+			"url": "https://www.facebook.com/ads/image/?d=AQI-y9Ztj4MJdMEh2IXZcrkJCF0j2mGrJv6hmheFXKyCy2TkwpenGC2VgB_DHYC1v1SGp22JOMTCjtfZ_FWph059-P2s_HFUcw_Gm8Zb9XGFWjK5Fm5SlPpomSGXz5GmUP3Li53UMy7F9avMvRUNudaa",
+			"name": "ft iniciante st 01.jpg",
+			"id": "23853280418480504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432850504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "825",
+		"clicks": "0",
+		"cpm": "5.963636",
+		"cpp": "6.465177",
+		"ctr": "0",
+		"frequency": "1.0841",
+		"reach": "761",
+		"spend": "4.92",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e7acd2e0358a27e9b18d1b1efe349c9b",
+			"url": "https://www.facebook.com/ads/image/?d=AQK5aKasNME2qBQwL5MA7rzZ-Wjp7vCb6PcygfGBuMUCq3svfEHVLAsY7pbLIbp563bwU3Xwnpx_BR7lyaWtCAB41TzbXgC5ueQI6a43xSiQU887R9Myn995Tb1baYHZeRkEEdzmgJm23vtfok2ADgHU",
+			"name": "ft iniciante fd 02.jpg",
+			"id": "23853280422640504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432850504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "3834",
+		"clicks": "6",
+		"cpc": "1.935",
+		"cpm": "3.028169",
+		"cpp": "5.646887",
+		"ctr": "0.156495",
+		"frequency": "1.864786",
+		"reach": "2056",
+		"spend": "11.61",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.156495"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "a4342344f4f162aa5de60512d7006e46",
+			"url": "https://www.facebook.com/ads/image/?d=AQK-DeO3jaqxNwkOQLRzWTTmYZuOa6CFEbJFzE43wQB3HktAt5PZLzHeMSSLIxFmMtfENTPhbig_tPu7IzTiBtIaepdDPcJWkOvGd1BoEugsACkg3L4CSbNxw4N9eOkAh4i8EHDjcxuQqtpJ8N9RK_KC",
+			"name": "ft iniciante st 02.jpg",
+			"id": "23853280422690504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432860504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "3790",
+		"clicks": "4",
+		"cpc": "3.395",
+		"cpm": "3.583113",
+		"cpp": "6.506948",
+		"ctr": "0.105541",
+		"frequency": "1.816004",
+		"reach": "2087",
+		"spend": "13.58",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.079156"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "97e0367c9feac91cc5cab265e7532dc3",
+			"url": "https://www.facebook.com/ads/image/?d=AQL2LmyzRC0rZ6lfBDo4O2udffytXDyvBGxLt0LtwUyS3y3NetrXO76GbRYmeapGgBwHLrSpFjTUF6UdRD3NNv-QSGz1SfjiYxDJhHbngYZknL48gYa0R3QJItua9dVBM-XJiH-lOt_Q040fsJ6bCCuY",
+			"name": "unnamed (5).jpg",
+			"id": "23853280427740504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432860504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "899",
+		"clicks": "2",
+		"cpc": "2.24",
+		"cpm": "4.983315",
+		"cpp": "5.102506",
+		"ctr": "0.222469",
+		"frequency": "1.023918",
+		"reach": "878",
+		"spend": "4.48",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "50ba52c1a99c7af22d901f06bae5ae71",
+			"url": "https://www.facebook.com/ads/image/?d=AQKsYJyPqYdL0d451c1vde7QuD2Ib4szFCxW6A_p3Em1gjyweWPsu-yp1zXZYXjvrVEJbbSRVWGHnGSn2de34Cb9gCiiWqYkN-SUt2TBPO2A7SL4ijZVc3MNyP4XDCR6V57GxhNEzssrWdbZdg_FQ0H3",
+			"name": "unnamed (2).jpg",
+			"id": "23853280427820504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432870504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "537",
+		"clicks": "3",
+		"cpc": "1.06",
+		"cpm": "5.921788",
+		"cpp": "6.091954",
+		"ctr": "0.558659",
+		"frequency": "1.028736",
+		"reach": "522",
+		"spend": "3.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.18622"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "da7e0c8175a3af329552b9375820d79f",
+			"url": "https://www.facebook.com/ads/image/?d=AQLYYe_EfiIHstIzHjij1C1ntbq0nyTWBANhScKXrq4zkWok09vp1rB968xq_GBRY65l-dQ1sDgcvAXQ3sGNnWMxovdwK8o6FWVz6gKAOqzVBmEC-m3mRLJ4RU5X6gXoDmjKR318YI1Cckoj5JGndUnw",
+			"name": "ft iniciante fd 01.jpg",
+			"id": "23853280418390504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"account_name": "ST SARAH F",
+		"account_currency": "BRL",
+		"ad_id": "23853280432870504",
+		"campaign_id": "23853280392150504",
+		"campaign_name": "MSG IG CURSO 05.01",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "2633",
+		"clicks": "2",
+		"cpc": "5.025",
+		"cpm": "3.816939",
+		"cpp": "6.277327",
+		"ctr": "0.075959",
+		"frequency": "1.644597",
+		"reach": "1601",
+		"spend": "10.05",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ff46f29e88a78fcc71acc148229544c5",
+			"url": "https://www.facebook.com/ads/image/?d=AQI-y9Ztj4MJdMEh2IXZcrkJCF0j2mGrJv6hmheFXKyCy2TkwpenGC2VgB_DHYC1v1SGp22JOMTCjtfZ_FWph059-P2s_HFUcw_Gm8Zb9XGFWjK5Fm5SlPpomSGXz5GmUP3Li53UMy7F9avMvRUNudaa",
+			"name": "ft iniciante st 01.jpg",
+			"id": "23853280418480504"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853115840180610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115840190610",
+		"adset_name": "SEG FB + SEM 1% SEG FB",
+		"impressions": "243",
+		"clicks": "2",
+		"cpc": "3.035",
+		"cpm": "24.979424",
+		"cpp": "25.940171",
+		"ctr": "0.823045",
+		"frequency": "1.038462",
+		"reach": "234",
+		"spend": "6.07",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.411523"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be86b76170d34f168b706aa1de75af2a",
+			"url": "https://www.facebook.com/ads/image/?d=AQJf_x9CotO8TqC0lQ5S5PuBcowunnCgakSwaRqgp8RXlAPwAQztcGa2jWMPepktRgw_plngkkBGHERUQQ6PvPqYGoaDnM4VnOQE9XpHLuQzK98_bfjCCv-b0TbfcbquSJY1s6o4paMT1o8F630ev56C",
+			"name": "5.1.png_105_105",
+			"id": "23853117086180610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853115840180610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115840190610",
+		"adset_name": "SEG FB + SEM 1% SEG FB",
+		"impressions": "1942",
+		"clicks": "11",
+		"cpc": "1.446364",
+		"cpm": "8.192585",
+		"cpp": "9.320445",
+		"ctr": "0.566426",
+		"frequency": "1.137668",
+		"reach": "1707",
+		"spend": "15.91",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.257467"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "22efa705b54af24002633d39c61c1956",
+			"url": "https://www.facebook.com/ads/image/?d=AQII-ORgCD09nNW4lZKbB4LAFxKXdgM_qKLFnH_oIwc0lYVJOG4NRSIHg1SLCJjn4FAOOxqbpbKXOn3QSQ0aYilOUGg3WMSOg8AKjgT37rpIuyCdESgwmL-Jlgto-kulAYdJz9-_diziu01cepcGYlV7",
+			"name": "5.1 Story.png",
+			"id": "23853117096120610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117227630610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115825930610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "76",
+		"clicks": "0",
+		"cpm": "17.236842",
+		"cpp": "17.466667",
+		"ctr": "0",
+		"frequency": "1.013333",
+		"reach": "75",
+		"spend": "1.31",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be86b76170d34f168b706aa1de75af2a",
+			"url": "https://www.facebook.com/ads/image/?d=AQJf_x9CotO8TqC0lQ5S5PuBcowunnCgakSwaRqgp8RXlAPwAQztcGa2jWMPepktRgw_plngkkBGHERUQQ6PvPqYGoaDnM4VnOQE9XpHLuQzK98_bfjCCv-b0TbfcbquSJY1s6o4paMT1o8F630ev56C",
+			"name": "5.1.png_105_105",
+			"id": "23853117086180610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117227630610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115825930610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "3492",
+		"clicks": "24",
+		"cpc": "1.5875",
+		"cpm": "10.910653",
+		"cpp": "12.823965",
+		"ctr": "0.687285",
+		"frequency": "1.175362",
+		"reach": "2971",
+		"spend": "38.1",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.400916"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "22efa705b54af24002633d39c61c1956",
+			"url": "https://www.facebook.com/ads/image/?d=AQII-ORgCD09nNW4lZKbB4LAFxKXdgM_qKLFnH_oIwc0lYVJOG4NRSIHg1SLCJjn4FAOOxqbpbKXOn3QSQ0aYilOUGg3WMSOg8AKjgT37rpIuyCdESgwmL-Jlgto-kulAYdJz9-_diziu01cepcGYlV7",
+			"name": "5.1 Story.png",
+			"id": "23853117096120610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117227640610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115825920610",
+		"adset_name": "PB PV SITE 15D - CADASTRO - RMKTG",
+		"impressions": "388",
+		"clicks": "4",
+		"cpc": "2.32",
+		"cpm": "23.917526",
+		"cpp": "36.679842",
+		"ctr": "1.030928",
+		"frequency": "1.533597",
+		"reach": "253",
+		"spend": "9.28",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.773196"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "be86b76170d34f168b706aa1de75af2a",
+			"url": "https://www.facebook.com/ads/image/?d=AQJf_x9CotO8TqC0lQ5S5PuBcowunnCgakSwaRqgp8RXlAPwAQztcGa2jWMPepktRgw_plngkkBGHERUQQ6PvPqYGoaDnM4VnOQE9XpHLuQzK98_bfjCCv-b0TbfcbquSJY1s6o4paMT1o8F630ev56C",
+			"name": "5.1.png_105_105",
+			"id": "23853117086180610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117227640610",
+		"campaign_id": "23853115825900610",
+		"campaign_name": "CV RMK TC 09.02",
+		"adset_id": "23853115825920610",
+		"adset_name": "PB PV SITE 15D - CADASTRO - RMKTG",
+		"impressions": "474",
+		"clicks": "3",
+		"cpc": "1.84",
+		"cpm": "11.64557",
+		"cpp": "21.149425",
+		"ctr": "0.632911",
+		"frequency": "1.816092",
+		"reach": "261",
+		"spend": "5.52",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.421941"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "22efa705b54af24002633d39c61c1956",
+			"url": "https://www.facebook.com/ads/image/?d=AQII-ORgCD09nNW4lZKbB4LAFxKXdgM_qKLFnH_oIwc0lYVJOG4NRSIHg1SLCJjn4FAOOxqbpbKXOn3QSQ0aYilOUGg3WMSOg8AKjgT37rpIuyCdESgwmL-Jlgto-kulAYdJz9-_diziu01cepcGYlV7",
+			"name": "5.1 Story.png",
+			"id": "23853117096120610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117291600610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291770610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1271",
+		"clicks": "8",
+		"cpc": "1.6625",
+		"cpm": "10.464201",
+		"cpp": "11.48532",
+		"ctr": "0.629426",
+		"frequency": "1.097582",
+		"reach": "1158",
+		"spend": "13.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.550747"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117291600610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291770610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "2859",
+		"clicks": "44",
+		"cpc": "1.432045",
+		"cpm": "22.039175",
+		"cpp": "25.013894",
+		"ctr": "1.539",
+		"frequency": "1.134974",
+		"reach": "2519",
+		"spend": "63.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.839454"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367340610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291760610",
+		"adset_name": "ABERTO",
+		"impressions": "1396",
+		"clicks": "3",
+		"cpc": "5.09",
+		"cpm": "10.938395",
+		"cpp": "11.967085",
+		"ctr": "0.2149",
+		"frequency": "1.094044",
+		"reach": "1276",
+		"spend": "15.27",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.2149"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367340610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291760610",
+		"adset_name": "ABERTO",
+		"impressions": "2983",
+		"clicks": "55",
+		"cpc": "1.130364",
+		"cpm": "20.841435",
+		"cpp": "23.558166",
+		"ctr": "1.843781",
+		"frequency": "1.130352",
+		"reach": "2639",
+		"spend": "62.17",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.106269"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367350610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291810610",
+		"adset_name": "Plataformas",
+		"impressions": "1446",
+		"clicks": "4",
+		"cpc": "3.0375",
+		"cpm": "8.40249",
+		"cpp": "9.155991",
+		"ctr": "0.276625",
+		"frequency": "1.089676",
+		"reach": "1327",
+		"spend": "12.15",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.207469"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367350610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291810610",
+		"adset_name": "Plataformas",
+		"impressions": "2937",
+		"clicks": "45",
+		"cpc": "1.435778",
+		"cpm": "21.998638",
+		"cpp": "24.88829",
+		"ctr": "1.532176",
+		"frequency": "1.131356",
+		"reach": "2596",
+		"spend": "64.61",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.953354"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367360610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291800610",
+		"adset_name": "Shark Tank",
+		"impressions": "1406",
+		"clicks": "5",
+		"cpc": "2.738",
+		"cpm": "9.736842",
+		"cpp": "10.670304",
+		"ctr": "0.355619",
+		"frequency": "1.095869",
+		"reach": "1283",
+		"spend": "13.69",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.284495"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367360610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291800610",
+		"adset_name": "Shark Tank",
+		"impressions": "3097",
+		"clicks": "36",
+		"cpc": "1.737222",
+		"cpm": "20.193736",
+		"cpp": "23.309728",
+		"ctr": "1.162415",
+		"frequency": "1.154305",
+		"reach": "2683",
+		"spend": "62.54",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.678076"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367370610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291780610",
+		"adset_name": "PROP EMP",
+		"impressions": "1167",
+		"clicks": "8",
+		"cpc": "1.42625",
+		"cpm": "9.777207",
+		"cpp": "10.623836",
+		"ctr": "0.685518",
+		"frequency": "1.086592",
+		"reach": "1074",
+		"spend": "11.41",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.428449"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367370610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291780610",
+		"adset_name": "PROP EMP",
+		"impressions": "3149",
+		"clicks": "50",
+		"cpc": "1.2972",
+		"cpm": "20.597015",
+		"cpp": "23.280689",
+		"ctr": "1.587806",
+		"frequency": "1.130294",
+		"reach": "2786",
+		"spend": "64.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.635122"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367380610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291820610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1421",
+		"clicks": "8",
+		"cpc": "1.91125",
+		"cpm": "10.760028",
+		"cpp": "11.636225",
+		"ctr": "0.562984",
+		"frequency": "1.081431",
+		"reach": "1314",
+		"spend": "15.29",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.492611"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367380610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291820610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "2599",
+		"clicks": "38",
+		"cpc": "1.606579",
+		"cpm": "23.489804",
+		"cpp": "26.134418",
+		"ctr": "1.462101",
+		"frequency": "1.112586",
+		"reach": "2336",
+		"spend": "61.05",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.923432"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367390610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291790610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "856",
+		"clicks": "6",
+		"cpc": "1.775",
+		"cpm": "12.441589",
+		"cpp": "13.515228",
+		"ctr": "0.700935",
+		"frequency": "1.086294",
+		"reach": "788",
+		"spend": "10.65",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.46729"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "e97f5aacc2d9cf539521f9bd94389ec8",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3NKN1udW9q2i65OXqvYepNStFhM8ibu_6mowbNpkJRfPLFvl1AcLYmA6WrvtjXz7jyPUqgi3gc8JlGgdvWsrI_M_6FNudrTnqRSKX18tfvMhXbCSaAP_4pZvZ-RFGNeIDLkqHdz00zygLM-6aT2Iq",
+			"name": "2 Story.png_105_105",
+			"id": "23853117365300610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117367390610",
+		"campaign_id": "23853117291580610",
+		"campaign_name": "CV MSG MASSA 09.02",
+		"adset_id": "23853117291790610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "3019",
+		"clicks": "23",
+		"cpc": "2.869565",
+		"cpm": "21.861544",
+		"cpp": "24.37223",
+		"ctr": "0.761842",
+		"frequency": "1.114845",
+		"reach": "2708",
+		"spend": "66",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.364359"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "6cb91d06ba9cb3813da7b2aa51b8c300",
+			"url": "https://www.facebook.com/ads/image/?d=AQL5oEEZwakdQjb5jEzUGRTr6Yhc7lctRcfh5ew5utGznTRhZDI_75npIFJq7Ga-JYEZFDPa9tH8nu8QxNtseltLYZeLNmVmsO_T0Tb5TgD6H3ZH7fnMlRAipDhGHIbpUCSuy5e47tnbfPWzS-mPr45s",
+			"name": "2.png_105_105",
+			"id": "23853117365430610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117431190610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "3",
+		"clicks": "0",
+		"cpm": "10",
+		"cpp": "10",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "3",
+		"spend": "0.03",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "087f7fe0005447268e6c52df1d949766",
+			"url": "https://www.facebook.com/ads/image/?d=AQIIXuHmXBgFgIRWZcbzBbwhBgSvsnGQJ1A12HDzM8j65MfcuwYVSiLARY9C8OWUxCms4x5JKixffzzkaUP3cLPM3CtR2nUnFW8EnU5nai-o9mpOLwGAH8WbsemDtBrjP4ABB8F-ZQiFpLwLkjIQV56w",
+			"name": "3.1 Story.png",
+			"id": "23853119107060610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117431460610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "1057",
+		"clicks": "24",
+		"cpc": "1.214583",
+		"cpm": "27.578051",
+		"cpp": "37.276215",
+		"ctr": "2.270577",
+		"frequency": "1.351662",
+		"reach": "782",
+		"spend": "29.15",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.419111"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQK4nndj8dXIDh6Lu5ELKZeO_bJt4YPhIx4was5vus74oza34UOb9NKZgVwDRs9I0RpaOQKzMbyDqPYgHe4_O9zhQWIGs1njajS3LyWFe-fK5hFIlT5cExMoB3efifRGHIgROxfbpTVSvXciMqSDDFXA",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853117431460610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "531",
+		"clicks": "6",
+		"cpc": "1.256667",
+		"cpm": "14.199623",
+		"cpp": "19.842105",
+		"ctr": "1.129944",
+		"frequency": "1.397368",
+		"reach": "380",
+		"spend": "7.54",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.564972"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQJiIgTCORE7KciganM-BH1vsgZhxZRHV9pl49KxlhNQG6GziBotThxbjpFMoEyNpp4oUOv9iR9Q-X6dcso4qOJrXEluss7K7oFYz-bp47b_HKosLa_tTOz_W4j4DUWrCFWVrJJWa35Si61L0U2zWvge",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119152560610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "7",
+		"clicks": "0",
+		"cpm": "81.428571",
+		"cpp": "81.428571",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "7",
+		"spend": "0.57",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQKD4aCR2a1hPLM8OopMjIWdJif9eArKuuDBU5ylmHmW8HRoD91-07ogqBYDFRn3A0KiGc2-zUwiD6TsDcKYduNnunZGVzAK2c7HQaSIsSyMby9gxJtiZ9JYCi1OAl42STYjABoYhftZ2w7FY0t_kNZZ",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119163180610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "1496",
+		"clicks": "11",
+		"cpc": "2.750909",
+		"cpm": "20.227273",
+		"cpp": "27.761468",
+		"ctr": "0.735294",
+		"frequency": "1.372477",
+		"reach": "1090",
+		"spend": "30.26",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.200535"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQJVjWOvJNzZy3s3hfY1mr8TajQcdzEiUwwWOrXCOOW1pxNy-Wx7EaS2RDGET2IOLDT4q-xNRfCzvxFNdHWNuHPRelCnCYluRZROKdFCay9LYOtGts58Av-QAWu3MD3lDxwRI75lQnCaPY91HIqx2AoZ",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119163180610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "781",
+		"clicks": "3",
+		"cpc": "3.17",
+		"cpm": "12.176697",
+		"cpp": "15.667216",
+		"ctr": "0.384123",
+		"frequency": "1.286656",
+		"reach": "607",
+		"spend": "9.51",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.128041"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQL6D1Ti3a4IZ22CQMuVwOVB3ohqcXpgb0VIGnbQA-_iwy-ZE-s1i6v573Ge6EzTtRCe3Rg_WvlTieGKPi5r96YYJlyt9DDapqG1iGNsu5bDo1lx-vrRbAXKf-OiVIa_Z3xyLBCOM9Pw2RuoaXmRODA0",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173320610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "2688",
+		"clicks": "42",
+		"cpc": "1.18381",
+		"cpm": "18.497024",
+		"cpp": "19.590229",
+		"ctr": "1.5625",
+		"frequency": "1.059102",
+		"reach": "2538",
+		"spend": "49.72",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.967262"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQJk19eDmhcPpVQah0zThPcWqQy6CPvOA4PhP3eo-2WB-anrB7bUtKwmnmKxHVMGcuUlIPmvBxFcwd8bA9zzbpTtMXtKWd2n6OODpIIrWmMyQBMO9JidwEJrqas3_KjEecFrjipJ30_d-StgPH0Mr8V3",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173320610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "1387",
+		"clicks": "8",
+		"cpc": "2.46375",
+		"cpm": "14.210526",
+		"cpp": "15.080337",
+		"ctr": "0.576784",
+		"frequency": "1.061209",
+		"reach": "1307",
+		"spend": "19.71",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.432588"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQL6D1Ti3a4IZ22CQMuVwOVB3ohqcXpgb0VIGnbQA-_iwy-ZE-s1i6v573Ge6EzTtRCe3Rg_WvlTieGKPi5r96YYJlyt9DDapqG1iGNsu5bDo1lx-vrRbAXKf-OiVIa_Z3xyLBCOM9Pw2RuoaXmRODA0",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173330610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "232",
+		"clicks": "4",
+		"cpc": "1.61",
+		"cpm": "27.758621",
+		"cpp": "30.093458",
+		"ctr": "1.724138",
+		"frequency": "1.084112",
+		"reach": "214",
+		"spend": "6.44",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.862069"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQKfUlI_D-L3Yn1BKVYrjwuK2lrnqDNiDvt8afn12NC7YqP2P5WnevAD9iH8sGwJoWWNVsl1ZHDsV0OwrzrPjEvP_tG7aRIRm5YN-NF6Rpe7WTMCXvc8HqQATtmVejKdUHoWQhot_zhe3ztb6zDTPzw4",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173330610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "98",
+		"clicks": "2",
+		"cpc": "0.78",
+		"cpm": "15.918367",
+		"cpp": "17.333333",
+		"ctr": "2.040816",
+		"frequency": "1.088889",
+		"reach": "90",
+		"spend": "1.56",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3tXRwmsMHzAlwH51KbEWh-v-n07Dz9T3vmqFaeEoi8MEqiovN4Vl2vWhg7PlJkX1vLD5W6rmsmv1J-ZynNaxvsAwJTK83TCCBm_HpnzifTz0aXWGe3TzX2jOWUP_aJhNR_uPwNfwClIKuiVWODdUh",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173340610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "2643",
+		"clicks": "38",
+		"cpc": "1.283421",
+		"cpm": "18.452516",
+		"cpp": "19.461293",
+		"ctr": "1.43776",
+		"frequency": "1.054669",
+		"reach": "2506",
+		"spend": "48.77",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.945895"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQJk19eDmhcPpVQah0zThPcWqQy6CPvOA4PhP3eo-2WB-anrB7bUtKwmnmKxHVMGcuUlIPmvBxFcwd8bA9zzbpTtMXtKWd2n6OODpIIrWmMyQBMO9JidwEJrqas3_KjEecFrjipJ30_d-StgPH0Mr8V3",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173340610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1467",
+		"clicks": "10",
+		"cpc": "2.065",
+		"cpm": "14.076346",
+		"cpp": "15.05102",
+		"ctr": "0.681663",
+		"frequency": "1.069242",
+		"reach": "1372",
+		"spend": "20.65",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.477164"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQL6D1Ti3a4IZ22CQMuVwOVB3ohqcXpgb0VIGnbQA-_iwy-ZE-s1i6v573Ge6EzTtRCe3Rg_WvlTieGKPi5r96YYJlyt9DDapqG1iGNsu5bDo1lx-vrRbAXKf-OiVIa_Z3xyLBCOM9Pw2RuoaXmRODA0",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173360610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "169",
+		"clicks": "5",
+		"cpc": "1.082",
+		"cpm": "32.011834",
+		"cpp": "35.12987",
+		"ctr": "2.95858",
+		"frequency": "1.097403",
+		"reach": "154",
+		"spend": "5.41",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.183432"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQKfUlI_D-L3Yn1BKVYrjwuK2lrnqDNiDvt8afn12NC7YqP2P5WnevAD9iH8sGwJoWWNVsl1ZHDsV0OwrzrPjEvP_tG7aRIRm5YN-NF6Rpe7WTMCXvc8HqQATtmVejKdUHoWQhot_zhe3ztb6zDTPzw4",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173360610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "68",
+		"clicks": "0",
+		"cpm": "27.941176",
+		"cpp": "30.645161",
+		"ctr": "0",
+		"frequency": "1.096774",
+		"reach": "62",
+		"spend": "1.9",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3tXRwmsMHzAlwH51KbEWh-v-n07Dz9T3vmqFaeEoi8MEqiovN4Vl2vWhg7PlJkX1vLD5W6rmsmv1J-ZynNaxvsAwJTK83TCCBm_HpnzifTz0aXWGe3TzX2jOWUP_aJhNR_uPwNfwClIKuiVWODdUh",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173370610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "1",
+		"clicks": "0",
+		"cpm": "20",
+		"cpp": "20",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "1",
+		"spend": "0.02",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "8ff9eb128ae48815b40517d331fbbf1a",
+			"url": "https://www.facebook.com/ads/image/?d=AQKkRfFE-6DcnerE8jwuABSA5ejWlLHaVPehkYqiiGH6OygQq8EYM-KTnS1L6lkLBp-unOwc9hULqC00YrpPPRbYUCldVZPIQ_5XIVRCQIbbzap-MKlDQPXNwrZgiGLB2YUDu0csvp1HffPK87yyghP2",
+			"name": "3.1.png",
+			"id": "23853119074860610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173380610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "3",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1.5",
+		"reach": "2",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQJD1DazwoDq9vmuldeuGQ_9PeRg1Vpo6ivcieo88qmOxv5iXVvB9oAVGeYpvAowLBCgqgJ7v7QaJehMGXQiJjjukvuSrobLyn9DHjJ9b5StiiID03FKZpT1eCGWqV-NcN45BxZEHwb157Scx9qJli6U",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173390610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "353",
+		"clicks": "8",
+		"cpc": "1.42875",
+		"cpm": "32.379603",
+		"cpp": "35.496894",
+		"ctr": "2.266289",
+		"frequency": "1.096273",
+		"reach": "322",
+		"spend": "11.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.133144"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQKfUlI_D-L3Yn1BKVYrjwuK2lrnqDNiDvt8afn12NC7YqP2P5WnevAD9iH8sGwJoWWNVsl1ZHDsV0OwrzrPjEvP_tG7aRIRm5YN-NF6Rpe7WTMCXvc8HqQATtmVejKdUHoWQhot_zhe3ztb6zDTPzw4",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173390610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "140",
+		"clicks": "2",
+		"cpc": "0.985",
+		"cpm": "14.071429",
+		"cpp": "15.390625",
+		"ctr": "1.428571",
+		"frequency": "1.09375",
+		"reach": "128",
+		"spend": "1.97",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.714286"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI3tXRwmsMHzAlwH51KbEWh-v-n07Dz9T3vmqFaeEoi8MEqiovN4Vl2vWhg7PlJkX1vLD5W6rmsmv1J-ZynNaxvsAwJTK83TCCBm_HpnzifTz0aXWGe3TzX2jOWUP_aJhNR_uPwNfwClIKuiVWODdUh",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173400610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "2113",
+		"clicks": "20",
+		"cpc": "2.103",
+		"cpm": "19.905348",
+		"cpp": "20.821782",
+		"ctr": "0.946522",
+		"frequency": "1.04604",
+		"reach": "2020",
+		"spend": "42.06",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.520587"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQJk19eDmhcPpVQah0zThPcWqQy6CPvOA4PhP3eo-2WB-anrB7bUtKwmnmKxHVMGcuUlIPmvBxFcwd8bA9zzbpTtMXtKWd2n6OODpIIrWmMyQBMO9JidwEJrqas3_KjEecFrjipJ30_d-StgPH0Mr8V3",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173400610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "1377",
+		"clicks": "10",
+		"cpc": "2.132",
+		"cpm": "15.482934",
+		"cpp": "16.708464",
+		"ctr": "0.726216",
+		"frequency": "1.079154",
+		"reach": "1276",
+		"spend": "21.32",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.363108"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQL6D1Ti3a4IZ22CQMuVwOVB3ohqcXpgb0VIGnbQA-_iwy-ZE-s1i6v573Ge6EzTtRCe3Rg_WvlTieGKPi5r96YYJlyt9DDapqG1iGNsu5bDo1lx-vrRbAXKf-OiVIa_Z3xyLBCOM9Pw2RuoaXmRODA0",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173410610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "4",
+		"clicks": "0",
+		"cpm": "12.5",
+		"cpp": "12.5",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "4",
+		"spend": "0.05",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "8ff9eb128ae48815b40517d331fbbf1a",
+			"url": "https://www.facebook.com/ads/image/?d=AQKkRfFE-6DcnerE8jwuABSA5ejWlLHaVPehkYqiiGH6OygQq8EYM-KTnS1L6lkLBp-unOwc9hULqC00YrpPPRbYUCldVZPIQ_5XIVRCQIbbzap-MKlDQPXNwrZgiGLB2YUDu0csvp1HffPK87yyghP2",
+			"name": "3.1.png",
+			"id": "23853119074860610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173410610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "43",
+		"clicks": "3",
+		"cpc": "0.436667",
+		"cpm": "30.465116",
+		"cpp": "33.589744",
+		"ctr": "6.976744",
+		"frequency": "1.102564",
+		"reach": "39",
+		"spend": "1.31",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "2.325581"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "087f7fe0005447268e6c52df1d949766",
+			"url": "https://www.facebook.com/ads/image/?d=AQIuflzhisKUnziIFRtzb0t_vpu9d2qAY-nDhAbrWiwIJW9RNQ1rGX_Wz1NcHufzkyrocOHPp3gqYZEp94LE_OuoP913IWcxqAZTaqlFzPEgE0CaHfUCIBfbHRkVxzsocuWLyURy5xJtB0lkO1BpnNcU",
+			"name": "3.1 Story.png",
+			"id": "23853119107060610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173420610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "2569",
+		"clicks": "18",
+		"cpc": "2.555",
+		"cpm": "17.901907",
+		"cpp": "22.655172",
+		"ctr": "0.700662",
+		"frequency": "1.265517",
+		"reach": "2030",
+		"spend": "45.99",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.428182"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQJk19eDmhcPpVQah0zThPcWqQy6CPvOA4PhP3eo-2WB-anrB7bUtKwmnmKxHVMGcuUlIPmvBxFcwd8bA9zzbpTtMXtKWd2n6OODpIIrWmMyQBMO9JidwEJrqas3_KjEecFrjipJ30_d-StgPH0Mr8V3",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173420610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "1619",
+		"clicks": "13",
+		"cpc": "1.518462",
+		"cpm": "12.192712",
+		"cpp": "15.855422",
+		"ctr": "0.802965",
+		"frequency": "1.300402",
+		"reach": "1245",
+		"spend": "19.74",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.679432"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQL6D1Ti3a4IZ22CQMuVwOVB3ohqcXpgb0VIGnbQA-_iwy-ZE-s1i6v573Ge6EzTtRCe3Rg_WvlTieGKPi5r96YYJlyt9DDapqG1iGNsu5bDo1lx-vrRbAXKf-OiVIa_Z3xyLBCOM9Pw2RuoaXmRODA0",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173440610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "1",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "1",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "9351ca5d5b7881ac5b720fb868b9683c",
+			"url": "https://www.facebook.com/ads/image/?d=AQLIQeuZzY_vC241waB8p7_9dUezOU5l5ZkPVaCpMtCul0XXChEFgo21ntKnZzIrG6A5EPghs4yri4cTjfy3ppbddwu_2Al5BlEwGGItnXgByZON7AAHNpvMqOFF34TnvNgSSfTdMvhcHx2Ac08NVPdy",
+			"name": "4.png_105_105",
+			"id": "23853119078400610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173440610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "3",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "3",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQJD1DazwoDq9vmuldeuGQ_9PeRg1Vpo6ivcieo88qmOxv5iXVvB9oAVGeYpvAowLBCgqgJ7v7QaJehMGXQiJjjukvuSrobLyn9DHjJ9b5StiiID03FKZpT1eCGWqV-NcN45BxZEHwb157Scx9qJli6U",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173450610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "42",
+		"clicks": "1",
+		"cpc": "0.99",
+		"cpm": "23.571429",
+		"cpp": "26.756757",
+		"ctr": "2.380952",
+		"frequency": "1.135135",
+		"reach": "37",
+		"spend": "0.99",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "9351ca5d5b7881ac5b720fb868b9683c",
+			"url": "https://www.facebook.com/ads/image/?d=AQLIQeuZzY_vC241waB8p7_9dUezOU5l5ZkPVaCpMtCul0XXChEFgo21ntKnZzIrG6A5EPghs4yri4cTjfy3ppbddwu_2Al5BlEwGGItnXgByZON7AAHNpvMqOFF34TnvNgSSfTdMvhcHx2Ac08NVPdy",
+			"name": "4.png_105_105",
+			"id": "23853119078400610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173450610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "9",
+		"clicks": "0",
+		"cpm": "64.444444",
+		"cpp": "64.444444",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "9",
+		"spend": "0.58",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQJD1DazwoDq9vmuldeuGQ_9PeRg1Vpo6ivcieo88qmOxv5iXVvB9oAVGeYpvAowLBCgqgJ7v7QaJehMGXQiJjjukvuSrobLyn9DHjJ9b5StiiID03FKZpT1eCGWqV-NcN45BxZEHwb157Scx9qJli6U",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173460610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "2",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "2",
+		"reach": "1",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQJD1DazwoDq9vmuldeuGQ_9PeRg1Vpo6ivcieo88qmOxv5iXVvB9oAVGeYpvAowLBCgqgJ7v7QaJehMGXQiJjjukvuSrobLyn9DHjJ9b5StiiID03FKZpT1eCGWqV-NcN45BxZEHwb157Scx9qJli6U",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173470610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "273",
+		"clicks": "3",
+		"cpc": "1.91",
+		"cpm": "20.989011",
+		"cpp": "26.775701",
+		"ctr": "1.098901",
+		"frequency": "1.275701",
+		"reach": "214",
+		"spend": "5.73",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQKfUlI_D-L3Yn1BKVYrjwuK2lrnqDNiDvt8afn12NC7YqP2P5WnevAD9iH8sGwJoWWNVsl1ZHDsV0OwrzrPjEvP_tG7aRIRm5YN-NF6Rpe7WTMCXvc8HqQATtmVejKdUHoWQhot_zhe3ztb6zDTPzw4",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173470610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "142",
+		"clicks": "2",
+		"cpc": "0.99",
+		"cpm": "13.943662",
+		"cpp": "18.504673",
+		"ctr": "1.408451",
+		"frequency": "1.327103",
+		"reach": "107",
+		"spend": "1.98",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI7a-VqQVT9AyHmi57qfaD_zlb5GgmPSfXp2KXpfCMcSvvR-qRfZLYDS28rO1-zByUezGxeTX46UdmdiTzbn2JdPNM9QBsu6qVeDP7XIkU8FnxCA_yT-DIVofb5C_SOLHhd4ye-2fOwBBZEr0GAYtN9",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173480610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "2",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "2",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "087f7fe0005447268e6c52df1d949766",
+			"url": "https://www.facebook.com/ads/image/?d=AQKwjlMzFiIhj9Pvql43MONR9yYSxsDN2nDQoU9O2GJKrFoqTUqYH0jFMqIYLwucVmg3QXkXkSey_c-UqWDvRjKGaKhAxKpOXq9EqyzjSsla0bBS4MjmKv1RozcoFfVkMRHOGX_JyruTWM29z_DzADQx",
+			"name": "3.1 Story.png",
+			"id": "23853119107060610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173490610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1997",
+		"clicks": "21",
+		"cpc": "1.941905",
+		"cpm": "20.420631",
+		"cpp": "21.565309",
+		"ctr": "1.051577",
+		"frequency": "1.056055",
+		"reach": "1891",
+		"spend": "40.78",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.500751"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQIud83zEBtDRI5_lmgGB_EzorQ67AikinZKpVjBbXmT1KFLbPSq7nAlQEsrcU0F_SPXkmIi-TIKLpX2aQT0-NAKK6HvkBkTjdnawxL_T2nOZ0Nh8l3h14QKSr11Ry5qLfR2XBzuqcr4R_J4y0zeSATE",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173490610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1144",
+		"clicks": "8",
+		"cpc": "2.2525",
+		"cpm": "15.751748",
+		"cpp": "17.178265",
+		"ctr": "0.699301",
+		"frequency": "1.090562",
+		"reach": "1049",
+		"spend": "18.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.524476"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQJmF5SLkEC0haHRv5IE3nDwYNUuX8x94HKLdx--mViFsn-oytN8qX6bHcpnEAi0gFhRiOlwRoNtdxi1k25fcPGt4vAHlylgE3-UeL9oOMG38-pj2RAnHuxjL_WMA8y6o0w33asck9l3lJdnAGbhjhh4",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173500610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "460",
+		"clicks": "16",
+		"cpc": "0.87625",
+		"cpm": "30.478261",
+		"cpp": "33.946731",
+		"ctr": "3.478261",
+		"frequency": "1.113801",
+		"reach": "413",
+		"spend": "14.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "2.391304"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJLxQYy4dr06CM2WwJj_7tu27UR9Rw1aI6_Sr7rbNrX2NFI4WBU9HGzuF0xvtXwtl9fRRfad8wXtzgNliRB9rxyyCuW2A06NtUun4RY7OD8_RzexMpgBPiO8LYIoFtCra-yLCOEt59esLqrvxfNeDG",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173500610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "187",
+		"clicks": "4",
+		"cpc": "0.95",
+		"cpm": "20.320856",
+		"cpp": "23.170732",
+		"ctr": "2.139037",
+		"frequency": "1.140244",
+		"reach": "164",
+		"spend": "3.8",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI7a-VqQVT9AyHmi57qfaD_zlb5GgmPSfXp2KXpfCMcSvvR-qRfZLYDS28rO1-zByUezGxeTX46UdmdiTzbn2JdPNM9QBsu6qVeDP7XIkU8FnxCA_yT-DIVofb5C_SOLHhd4ye-2fOwBBZEr0GAYtN9",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173510610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "4",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1.333333",
+		"reach": "3",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQKEPGcRplAqhhduBc-Os8mO0-X3nLOkHXkjT9hPe5REUiZD7sGqz9NGmMxdRBTXpK6zncaOBhaCjYYP_NozB75En-iPokrhQLNmcmcf0tiEdfQ0-7_zFoxIXX3eSqAlce5V6CvHJfkSedhhjL8WK1gB",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173530610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "161",
+		"clicks": "5",
+		"cpc": "1.044",
+		"cpm": "32.42236",
+		"cpp": "34.342105",
+		"ctr": "3.10559",
+		"frequency": "1.059211",
+		"reach": "152",
+		"spend": "5.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.242236"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJLxQYy4dr06CM2WwJj_7tu27UR9Rw1aI6_Sr7rbNrX2NFI4WBU9HGzuF0xvtXwtl9fRRfad8wXtzgNliRB9rxyyCuW2A06NtUun4RY7OD8_RzexMpgBPiO8LYIoFtCra-yLCOEt59esLqrvxfNeDG",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173530610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "58",
+		"clicks": "0",
+		"cpm": "11.896552",
+		"cpp": "12.777778",
+		"ctr": "0",
+		"frequency": "1.074074",
+		"reach": "54",
+		"spend": "0.69",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI7a-VqQVT9AyHmi57qfaD_zlb5GgmPSfXp2KXpfCMcSvvR-qRfZLYDS28rO1-zByUezGxeTX46UdmdiTzbn2JdPNM9QBsu6qVeDP7XIkU8FnxCA_yT-DIVofb5C_SOLHhd4ye-2fOwBBZEr0GAYtN9",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173540610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "1",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "5fe200d58fc41bf8bd7c76e4eabca81f",
+			"url": "https://www.facebook.com/ads/image/?d=AQKEPGcRplAqhhduBc-Os8mO0-X3nLOkHXkjT9hPe5REUiZD7sGqz9NGmMxdRBTXpK6zncaOBhaCjYYP_NozB75En-iPokrhQLNmcmcf0tiEdfQ0-7_zFoxIXX3eSqAlce5V6CvHJfkSedhhjL8WK1gB",
+			"name": "4 Story.png_105_105",
+			"id": "23853119093130610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173550610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "2364",
+		"clicks": "22",
+		"cpc": "2.178636",
+		"cpm": "20.274958",
+		"cpp": "21.049627",
+		"ctr": "0.930626",
+		"frequency": "1.038208",
+		"reach": "2277",
+		"spend": "47.93",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.676819"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQIud83zEBtDRI5_lmgGB_EzorQ67AikinZKpVjBbXmT1KFLbPSq7nAlQEsrcU0F_SPXkmIi-TIKLpX2aQT0-NAKK6HvkBkTjdnawxL_T2nOZ0Nh8l3h14QKSr11Ry5qLfR2XBzuqcr4R_J4y0zeSATE",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173550610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1406",
+		"clicks": "12",
+		"cpc": "1.94",
+		"cpm": "16.55761",
+		"cpp": "17.962963",
+		"ctr": "0.853485",
+		"frequency": "1.084877",
+		"reach": "1296",
+		"spend": "23.28",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.497866"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQJmF5SLkEC0haHRv5IE3nDwYNUuX8x94HKLdx--mViFsn-oytN8qX6bHcpnEAi0gFhRiOlwRoNtdxi1k25fcPGt4vAHlylgE3-UeL9oOMG38-pj2RAnHuxjL_WMA8y6o0w33asck9l3lJdnAGbhjhh4",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173570610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"impressions": "286",
+		"clicks": "2",
+		"cpc": "4.305",
+		"cpm": "30.104895",
+		"cpp": "32.007435",
+		"ctr": "0.699301",
+		"frequency": "1.063197",
+		"reach": "269",
+		"spend": "8.61",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.34965"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "b1173f9b9c982b73d359df28d7179372",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJLxQYy4dr06CM2WwJj_7tu27UR9Rw1aI6_Sr7rbNrX2NFI4WBU9HGzuF0xvtXwtl9fRRfad8wXtzgNliRB9rxyyCuW2A06NtUun4RY7OD8_RzexMpgBPiO8LYIoFtCra-yLCOEt59esLqrvxfNeDG",
+			"name": "3.2.png_105_105",
+			"id": "23853119077140610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173570610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"impressions": "86",
+		"clicks": "4",
+		"cpc": "0.49",
+		"cpm": "22.790698",
+		"cpp": "23.902439",
+		"ctr": "4.651163",
+		"frequency": "1.04878",
+		"reach": "82",
+		"spend": "1.96",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.162791"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "fe487d3bd7c5d930cf838fc787eca5b6",
+			"url": "https://www.facebook.com/ads/image/?d=AQI7a-VqQVT9AyHmi57qfaD_zlb5GgmPSfXp2KXpfCMcSvvR-qRfZLYDS28rO1-zByUezGxeTX46UdmdiTzbn2JdPNM9QBsu6qVeDP7XIkU8FnxCA_yT-DIVofb5C_SOLHhd4ye-2fOwBBZEr0GAYtN9",
+			"name": "3.2 Story.png_105_105",
+			"id": "23853119090720610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173590610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"impressions": "2412",
+		"clicks": "28",
+		"cpc": "1.566429",
+		"cpm": "18.18408",
+		"cpp": "19.136126",
+		"ctr": "1.160862",
+		"frequency": "1.052356",
+		"reach": "2292",
+		"spend": "43.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.580431"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "3143ee5d9a4460807d6dcf9aff4cf71e",
+			"url": "https://www.facebook.com/ads/image/?d=AQIud83zEBtDRI5_lmgGB_EzorQ67AikinZKpVjBbXmT1KFLbPSq7nAlQEsrcU0F_SPXkmIi-TIKLpX2aQT0-NAKK6HvkBkTjdnawxL_T2nOZ0Nh8l3h14QKSr11Ry5qLfR2XBzuqcr4R_J4y0zeSATE",
+			"name": "3.3.png_105",
+			"id": "23853119079950610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853119173590610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"impressions": "1358",
+		"clicks": "18",
+		"cpc": "1.246111",
+		"cpm": "16.516937",
+		"cpp": "17.901038",
+		"ctr": "1.325479",
+		"frequency": "1.083799",
+		"reach": "1253",
+		"spend": "22.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.104566"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "4235e1eb09a581f628d9badd04229622",
+			"url": "https://www.facebook.com/ads/image/?d=AQJmF5SLkEC0haHRv5IE3nDwYNUuX8x94HKLdx--mViFsn-oytN8qX6bHcpnEAi0gFhRiOlwRoNtdxi1k25fcPGt4vAHlylgE3-UeL9oOMG38-pj2RAnHuxjL_WMA8y6o0w33asck9l3lJdnAGbhjhh4",
+			"name": "3.3 Story.png_105_105",
+			"id": "23853119096680610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853126100430610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "3",
+		"clicks": "0",
+		"cpm": "6.666667",
+		"cpp": "6.666667",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "3",
+		"spend": "0.02",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "31b8c4ee4e84efe6844f41d4ef7c5fc4",
+			"url": "https://www.facebook.com/ads/image/?d=AQJvCNLIvfPHUoP4zUJv1c5RMduXVg7BjhdwUpu15xao4o94zElOmOybieuSwlTmEZcziGb41mF3Q3E9Xy3X37s9rm1JhozBwV-sGf6kR5TxKk2hkr6wkF4raG4_SRniBFWXv-lkqXtdwZ-zyg7vkcrY",
+			"name": "3.1.2 Story.png",
+			"id": "23853126234070610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853126243820610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "4",
+		"clicks": "0",
+		"cpm": "2.5",
+		"cpp": "2.5",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "4",
+		"spend": "0.01",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "8d60b45968f7070bc3e7523cea928b9b",
+			"url": "https://www.facebook.com/ads/image/?d=AQLPEDcGVGDPcO09nlU-TyHXYBHsTWYjYA1GHiKi8rqw7waF3XE4Q8nwHMcuBxvvQpd8EuMW9zZKUzWxNo3VYD3-N7mEuv9knu6wN-5QLz6oF8ct78zyzWvAwPJb29IvJ0-DXAk_jDZgYvxW2mcP-hem",
+			"name": "3.1.2.png",
+			"id": "23853126228900610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853126243820610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"impressions": "8",
+		"clicks": "0",
+		"cpm": "18.75",
+		"cpp": "18.75",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "8",
+		"spend": "0.15",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "31b8c4ee4e84efe6844f41d4ef7c5fc4",
+			"url": "https://www.facebook.com/ads/image/?d=AQJvCNLIvfPHUoP4zUJv1c5RMduXVg7BjhdwUpu15xao4o94zElOmOybieuSwlTmEZcziGb41mF3Q3E9Xy3X37s9rm1JhozBwV-sGf6kR5TxKk2hkr6wkF4raG4_SRniBFWXv-lkqXtdwZ-zyg7vkcrY",
+			"name": "3.1.2 Story.png",
+			"id": "23853126234070610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853126243870610",
+		"campaign_id": "23853117431220610",
+		"campaign_name": "CV GERAL TC 09.02",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1",
+		"clicks": "0",
+		"cpm": "0",
+		"cpp": "0",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "1",
+		"spend": "0",
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "31b8c4ee4e84efe6844f41d4ef7c5fc4",
+			"url": "https://www.facebook.com/ads/image/?d=AQJvCNLIvfPHUoP4zUJv1c5RMduXVg7BjhdwUpu15xao4o94zElOmOybieuSwlTmEZcziGb41mF3Q3E9Xy3X37s9rm1JhozBwV-sGf6kR5TxKk2hkr6wkF4raG4_SRniBFWXv-lkqXtdwZ-zyg7vkcrY",
+			"name": "3.1.2 Story.png",
+			"id": "23853126234070610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495360610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476130610",
+		"adset_name": "Shark Tank",
+		"impressions": "686",
+		"clicks": "6",
+		"cpc": "5.335",
+		"cpm": "46.661808",
+		"cpp": "50.56872",
+		"ctr": "0.874636",
+		"frequency": "1.083728",
+		"reach": "633",
+		"spend": "32.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.145773"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK6VpGl3Kws9YwwZb8u6NjEQ8qPISmIYPqShTVzywxTDHMxN1jtjGepdKJPAyAOhdTd6d56K93UeIud_vdPxPjO1xBqWKUdB7Uzu0--siNfXxDR4qI9SQF-IoeSkcU5u5a5YZu_XgEZXgt_dHkXy1-j",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495360610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476130610",
+		"adset_name": "Shark Tank",
+		"impressions": "3267",
+		"clicks": "13",
+		"cpc": "3.491538",
+		"cpm": "13.89348",
+		"cpp": "15.246893",
+		"ctr": "0.397919",
+		"frequency": "1.097414",
+		"reach": "2977",
+		"spend": "45.39",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.367309"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQKkPKFuCBChnu946-jMkpsIGyaJIfTX2Wb0i95aQRphynr2ShGLyAljnHz6VUoFwSo8WNA5-9Ws6ebWcu-3UWcIrFJolklMCTMQ8iJXn8oa5Vfp9Smrri2Vbj14AWb6TK5Az8ypsBTrv79rr9Vi1bkB",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495370610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476150610",
+		"adset_name": "Plataformas",
+		"impressions": "1114",
+		"clicks": "8",
+		"cpc": "4.105",
+		"cpm": "29.479354",
+		"cpp": "31.607315",
+		"ctr": "0.718133",
+		"frequency": "1.072185",
+		"reach": "1039",
+		"spend": "32.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.5386"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK6VpGl3Kws9YwwZb8u6NjEQ8qPISmIYPqShTVzywxTDHMxN1jtjGepdKJPAyAOhdTd6d56K93UeIud_vdPxPjO1xBqWKUdB7Uzu0--siNfXxDR4qI9SQF-IoeSkcU5u5a5YZu_XgEZXgt_dHkXy1-j",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495370610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476150610",
+		"adset_name": "Plataformas",
+		"impressions": "2643",
+		"clicks": "19",
+		"cpc": "2.287895",
+		"cpm": "16.447219",
+		"cpp": "18.037344",
+		"ctr": "0.71888",
+		"frequency": "1.09668",
+		"reach": "2410",
+		"spend": "43.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.378358"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQKkPKFuCBChnu946-jMkpsIGyaJIfTX2Wb0i95aQRphynr2ShGLyAljnHz6VUoFwSo8WNA5-9Ws6ebWcu-3UWcIrFJolklMCTMQ8iJXn8oa5Vfp9Smrri2Vbj14AWb6TK5Az8ypsBTrv79rr9Vi1bkB",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495380610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476100610",
+		"adset_name": "PROP EMP",
+		"impressions": "1354",
+		"clicks": "11",
+		"cpc": "3.55",
+		"cpm": "28.840473",
+		"cpp": "30.365474",
+		"ctr": "0.812408",
+		"frequency": "1.052877",
+		"reach": "1286",
+		"spend": "39.05",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.073855"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK6VpGl3Kws9YwwZb8u6NjEQ8qPISmIYPqShTVzywxTDHMxN1jtjGepdKJPAyAOhdTd6d56K93UeIud_vdPxPjO1xBqWKUdB7Uzu0--siNfXxDR4qI9SQF-IoeSkcU5u5a5YZu_XgEZXgt_dHkXy1-j",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495380610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476100610",
+		"adset_name": "PROP EMP",
+		"impressions": "1498",
+		"clicks": "6",
+		"cpc": "6.44",
+		"cpm": "25.794393",
+		"cpp": "28.101818",
+		"ctr": "0.400534",
+		"frequency": "1.089455",
+		"reach": "1375",
+		"spend": "38.64",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.267023"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495390610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476270610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1273",
+		"clicks": "10",
+		"cpc": "3.552",
+		"cpm": "27.902592",
+		"cpp": "30.025359",
+		"ctr": "0.785546",
+		"frequency": "1.076078",
+		"reach": "1183",
+		"spend": "35.52",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.157109"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK7tLBQKqq6G7JKuF0qqGcVvzpKuNxjXADOagvyBXXKOduum9P3n8jEGdsV_YDhb5nrqul-YHjxYz3Wvp8PpGD_2XhJPNZk9JA6lLo2aR49zQvfWqournhfXyd07ylrqBU2ViQQV3dQgSiSo_OlKpHd",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495390610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476270610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "2085",
+		"clicks": "8",
+		"cpc": "5.2975",
+		"cpm": "20.326139",
+		"cpp": "22.223388",
+		"ctr": "0.383693",
+		"frequency": "1.09334",
+		"reach": "1907",
+		"spend": "42.38",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.383693"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495400610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476090610",
+		"adset_name": "ABERTO",
+		"impressions": "545",
+		"clicks": "4",
+		"cpc": "3.4075",
+		"cpm": "25.009174",
+		"cpp": "26.262042",
+		"ctr": "0.733945",
+		"frequency": "1.050096",
+		"reach": "519",
+		"spend": "13.63",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.183486"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK7tLBQKqq6G7JKuF0qqGcVvzpKuNxjXADOagvyBXXKOduum9P3n8jEGdsV_YDhb5nrqul-YHjxYz3Wvp8PpGD_2XhJPNZk9JA6lLo2aR49zQvfWqournhfXyd07ylrqBU2ViQQV3dQgSiSo_OlKpHd",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495400610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476090610",
+		"adset_name": "ABERTO",
+		"impressions": "3697",
+		"clicks": "22",
+		"cpc": "2.850909",
+		"cpm": "16.965107",
+		"cpp": "19.587758",
+		"ctr": "0.595077",
+		"frequency": "1.154591",
+		"reach": "3202",
+		"spend": "62.72",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.432783"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495410610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129475790610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1226",
+		"clicks": "7",
+		"cpc": "4.692857",
+		"cpm": "26.794454",
+		"cpp": "28.270224",
+		"ctr": "0.570962",
+		"frequency": "1.055077",
+		"reach": "1162",
+		"spend": "32.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.163132"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK7tLBQKqq6G7JKuF0qqGcVvzpKuNxjXADOagvyBXXKOduum9P3n8jEGdsV_YDhb5nrqul-YHjxYz3Wvp8PpGD_2XhJPNZk9JA6lLo2aR49zQvfWqournhfXyd07ylrqBU2ViQQV3dQgSiSo_OlKpHd",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495410610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129475790610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1884",
+		"clicks": "11",
+		"cpc": "3.987273",
+		"cpm": "23.280255",
+		"cpp": "25.323326",
+		"ctr": "0.583864",
+		"frequency": "1.08776",
+		"reach": "1732",
+		"spend": "43.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.424628"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495420610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476080610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1268",
+		"clicks": "11",
+		"cpc": "3.653636",
+		"cpm": "31.695584",
+		"cpp": "33.408146",
+		"ctr": "0.867508",
+		"frequency": "1.054032",
+		"reach": "1203",
+		"spend": "40.19",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.315457"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK7tLBQKqq6G7JKuF0qqGcVvzpKuNxjXADOagvyBXXKOduum9P3n8jEGdsV_YDhb5nrqul-YHjxYz3Wvp8PpGD_2XhJPNZk9JA6lLo2aR49zQvfWqournhfXyd07ylrqBU2ViQQV3dQgSiSo_OlKpHd",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495420610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476080610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1889",
+		"clicks": "13",
+		"cpc": "2.878462",
+		"cpm": "19.809423",
+		"cpp": "22.011765",
+		"ctr": "0.688195",
+		"frequency": "1.111176",
+		"reach": "1700",
+		"spend": "37.42",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.529381"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495430610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476160610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "1129",
+		"clicks": "8",
+		"cpc": "3.93125",
+		"cpm": "27.85651",
+		"cpp": "34.22198",
+		"ctr": "0.708592",
+		"frequency": "1.228509",
+		"reach": "919",
+		"spend": "31.45",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.44287"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "ecc0e189b140c7d0035f5207a5dec872",
+			"url": "https://www.facebook.com/ads/image/?d=AQK7tLBQKqq6G7JKuF0qqGcVvzpKuNxjXADOagvyBXXKOduum9P3n8jEGdsV_YDhb5nrqul-YHjxYz3Wvp8PpGD_2XhJPNZk9JA6lLo2aR49zQvfWqournhfXyd07ylrqBU2ViQQV3dQgSiSo_OlKpHd",
+			"name": "1.1.png",
+			"id": "23853117257390610"
+		},
+		"date_preset": "last_3d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"account_name": "Zap Único",
+		"account_currency": "BRL",
+		"ad_id": "23853129495430610",
+		"campaign_id": "23853129475800610",
+		"campaign_name": "CV ECOM TC 10.02",
+		"adset_id": "23853129476160610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "2571",
+		"clicks": "9",
+		"cpc": "4.951111",
+		"cpm": "17.331778",
+		"cpp": "27.303922",
+		"ctr": "0.350058",
+		"frequency": "1.575368",
+		"reach": "1632",
+		"spend": "44.56",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.233372"
+			}
+		],
+		"date_start": "2023-02-11",
+		"date_stop": "2023-02-13",
+		"image_asset": {
+			"hash": "f664d655e7e5378922a5b7b4e2f6e6ba",
+			"url": "https://www.facebook.com/ads/image/?d=AQLJdyBjZtHI1cqAb_cRXEZEFkCiq8D3CaYAfif02fJy5lE1xQvtunaV6CqP9R2K0vlZ3QdyskTg5JqWPkJ91be8sys6vHNRkYLbEe5NxUzFCuplzSUfFfKt_Olf-fqSzpmlX5fm2wEECMmjsKGs0vBt",
+			"name": "1.1 Story.png",
+			"id": "23853117265240610"
+		},
+		"date_preset": "last_3d"
+	}
+]

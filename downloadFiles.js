@@ -16,14 +16,30 @@ clients = ['5379057635480936', '741302997038971', '1224883661342179', '695922761
         '2300449873536260', '2989375761361362']
 
 
-    async function mainDownload() {
-        await getAdAccounts(clients)
-        await getCampaignInsights(clients)
-        await getCampaings(clients)
-        await getAdSetInsights(clients)
-        await getAdSets(clients)
-        await getAdInsights(clients)
-        await getAds(clients)
+    /**
+     * 
+     * @param {Array} clients It's the Facebook ad's account of the clients
+     * @param {String} data_preset Could be one of this: 'today', 'yesterday', 'last_3d', 'last_7d', 'last_14d', 'last_30d' or 'maximum'
+     */
+    
+    async function downloadFacebookData(clients, data_preset) {
+        //await getAdAccounts(clients)
+        await getCampaignInsights(clients, data_preset)
+        //await getCampaings(clients)
+        await getAdSetInsights(clients, data_preset)
+        //await getAdSets(clients)
+        await getAdInsights(clients, data_preset)
+        //await getAds(clients)
     }
 
-    mainDownload();
+    /* 
+    * ---- Make the calls to download facebook data -----
+    */
+
+    downloadFacebookData(clients, 'today');
+    downloadFacebookData(clients, 'yesterday');
+    downloadFacebookData(clients, 'last_3d');
+    downloadFacebookData(clients, 'last_7d');
+    downloadFacebookData(clients, 'last_14d');
+    downloadFacebookData(clients, 'last_30d');
+    downloadFacebookData(clients, 'maximum');

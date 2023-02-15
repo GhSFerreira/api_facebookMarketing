@@ -1,0 +1,3360 @@
+[
+	{
+		"account_id": "5379057635480936",
+		"campaign_id": "23854262822620728",
+		"adset_id": "23854262822600728",
+		"adset_name": "ABERTO",
+		"impressions": "1052",
+		"clicks": "8",
+		"cpc": "1.1475",
+		"cpm": "8.726236",
+		"cpp": "9.642857",
+		"ctr": "0.760456",
+		"frequency": "1.105042",
+		"reach": "952",
+		"spend": "9.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.190114"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "5379057635480936",
+		"campaign_id": "23854262822620728",
+		"adset_id": "23854262822680728",
+		"adset_name": "BRONZE",
+		"impressions": "849",
+		"clicks": "15",
+		"cpc": "0.563333",
+		"cpm": "9.952886",
+		"cpp": "10.988296",
+		"ctr": "1.766784",
+		"frequency": "1.104031",
+		"reach": "769",
+		"spend": "8.45",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.471143"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "5379057635480936",
+		"campaign_id": "23854262822620728",
+		"adset_id": "23854262822690728",
+		"adset_name": "BEACH",
+		"impressions": "341",
+		"clicks": "4",
+		"cpc": "0.725",
+		"cpm": "8.504399",
+		"cpp": "9.265176",
+		"ctr": "1.173021",
+		"frequency": "1.089457",
+		"reach": "313",
+		"spend": "2.9",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.58651"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "777481793418802",
+		"campaign_id": "23853320954670324",
+		"adset_id": "23853320954650324",
+		"adset_name": "AB 25 A 64 FEM",
+		"impressions": "663",
+		"clicks": "7",
+		"cpc": "1.597143",
+		"cpm": "16.862745",
+		"cpp": "18.090615",
+		"ctr": "1.055807",
+		"frequency": "1.072816",
+		"reach": "618",
+		"spend": "11.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.301659"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "777481793418802",
+		"campaign_id": "23853320954670324",
+		"adset_id": "23853320954660324",
+		"adset_name": "FC 25 A 64 FEM",
+		"impressions": "2520",
+		"clicks": "43",
+		"cpc": "0.963256",
+		"cpm": "16.436508",
+		"cpp": "18.982585",
+		"ctr": "1.706349",
+		"frequency": "1.154904",
+		"reach": "2182",
+		"spend": "41.42",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.634921"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850265619550116",
+		"adset_id": "23850265827280116",
+		"adset_name": "Qualidade de vida",
+		"impressions": "2849",
+		"clicks": "41",
+		"cpc": "0.989268",
+		"cpm": "14.236574",
+		"cpp": "14.96679",
+		"ctr": "1.439101",
+		"frequency": "1.051292",
+		"reach": "2710",
+		"spend": "40.56",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.3861"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850369385460116",
+		"adset_id": "23850369385560116",
+		"adset_name": "ABERTO",
+		"impressions": "3218",
+		"clicks": "58",
+		"cpc": "0.590345",
+		"cpm": "10.640149",
+		"cpp": "10.907932",
+		"ctr": "1.802362",
+		"frequency": "1.025167",
+		"reach": "3139",
+		"spend": "34.24",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.248602"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850265619550116",
+		"adset_id": "23851306035670116",
+		"adset_name": "ALTA RENDA",
+		"impressions": "747",
+		"clicks": "12",
+		"cpc": "0.958333",
+		"cpm": "15.394913",
+		"cpp": "15.84022",
+		"ctr": "1.606426",
+		"frequency": "1.028926",
+		"reach": "726",
+		"spend": "11.5",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850369385460116",
+		"adset_id": "23851306200230116",
+		"adset_name": "ALTA RENDA",
+		"impressions": "1596",
+		"clicks": "23",
+		"cpc": "0.771739",
+		"cpm": "11.121554",
+		"cpp": "11.518494",
+		"ctr": "1.441103",
+		"frequency": "1.035691",
+		"reach": "1541",
+		"spend": "17.75",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.250627"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853181859160738",
+		"adset_id": "23853181859250738",
+		"adset_name": "ABERTO 4 - 25 a 50 FEM",
+		"impressions": "2309",
+		"clicks": "12",
+		"cpc": "3.235",
+		"cpm": "16.812473",
+		"cpp": "24.663278",
+		"ctr": "0.519706",
+		"frequency": "1.466963",
+		"reach": "1574",
+		"spend": "38.82",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.173235"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853181859160738",
+		"adset_id": "23853181859330738",
+		"adset_name": "ABERTO 3 - 25 a 50 FEM",
+		"impressions": "3508",
+		"clicks": "27",
+		"cpc": "1.951852",
+		"cpm": "15.022805",
+		"cpp": "24.085923",
+		"ctr": "0.769669",
+		"frequency": "1.603291",
+		"reach": "2188",
+		"spend": "52.7",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.028506"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853240172410738",
+		"adset_id": "23853240172550738",
+		"adset_name": "ABERTO - 25 a 60 FEM",
+		"impressions": "1582",
+		"clicks": "17",
+		"cpc": "1.749412",
+		"cpm": "18.798989",
+		"cpp": "27.110301",
+		"ctr": "1.074589",
+		"frequency": "1.442115",
+		"reach": "1097",
+		"spend": "29.74",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.252845"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853240172410738",
+		"adset_id": "23853240215230738",
+		"adset_name": "ABERTO - 25 a 60 FEM — Cópia",
+		"impressions": "1617",
+		"clicks": "18",
+		"cpc": "1.683889",
+		"cpm": "18.744589",
+		"cpp": "27.429864",
+		"ctr": "1.113173",
+		"frequency": "1.463348",
+		"reach": "1105",
+		"spend": "30.31",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.309215"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853240172410738",
+		"adset_id": "23853240215250738",
+		"adset_name": "ABERTO - 25 a 60 FEM — Cópia",
+		"impressions": "1725",
+		"clicks": "13",
+		"cpc": "2.309231",
+		"cpm": "17.402899",
+		"cpp": "25.724079",
+		"ctr": "0.753623",
+		"frequency": "1.478149",
+		"reach": "1167",
+		"spend": "30.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.057971"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852355875370451",
+		"adset_id": "23852355875360451",
+		"adset_name": "ESPORTES 25 - 50 ANOS MULHERES",
+		"impressions": "3175",
+		"clicks": "34",
+		"cpc": "1.159706",
+		"cpm": "12.418898",
+		"cpp": "20.127616",
+		"ctr": "1.070866",
+		"frequency": "1.620725",
+		"reach": "1959",
+		"spend": "39.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.062992"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852355875370451",
+		"adset_id": "23852355875510451",
+		"adset_name": "ESTÉTICA 25- 50 ANOS MULHERES",
+		"impressions": "4561",
+		"clicks": "62",
+		"cpc": "0.935645",
+		"cpm": "12.718702",
+		"cpp": "19.617856",
+		"ctr": "1.359351",
+		"frequency": "1.542442",
+		"reach": "2957",
+		"spend": "58.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.1754"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852356012130451",
+		"adset_id": "23852356012210451",
+		"adset_name": "ESPORTES 25 - 50 ANOS MULHERES",
+		"impressions": "9827",
+		"clicks": "61",
+		"cpc": "1.381967",
+		"cpm": "8.578406",
+		"cpp": "14.727463",
+		"ctr": "0.620739",
+		"frequency": "1.716806",
+		"reach": "5724",
+		"spend": "84.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.396866"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852356012130451",
+		"adset_id": "23852356012300451",
+		"adset_name": "COMPRAS 25 - 50 FEM",
+		"impressions": "5091",
+		"clicks": "17",
+		"cpc": "2.890588",
+		"cpm": "9.652328",
+		"cpp": "15.327511",
+		"ctr": "0.333923",
+		"frequency": "1.58796",
+		"reach": "3206",
+		"spend": "49.14",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.176783"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422042860451",
+		"adset_id": "23852422043140451",
+		"adset_name": "ABERTO - 25 A 50 AMBOS",
+		"impressions": "3483",
+		"clicks": "52",
+		"cpc": "0.578462",
+		"cpm": "8.636233",
+		"cpp": "12.772824",
+		"ctr": "1.492966",
+		"frequency": "1.478981",
+		"reach": "2355",
+		"spend": "30.08",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.200976"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422042860451",
+		"adset_id": "23852422088460451",
+		"adset_name": "ABERTO - 25 A 50 FEM — Cópia",
+		"impressions": "1502",
+		"clicks": "4",
+		"cpc": "5.09",
+		"cpm": "13.55526",
+		"cpp": "18.730451",
+		"ctr": "0.266312",
+		"frequency": "1.381785",
+		"reach": "1087",
+		"spend": "20.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.066578"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422042860451",
+		"adset_id": "23852422088470451",
+		"adset_name": "ABERTO - 25 A 50 FEM — Cópia",
+		"impressions": "2496",
+		"clicks": "7",
+		"cpc": "4.217143",
+		"cpm": "11.826923",
+		"cpp": "17.192778",
+		"ctr": "0.280449",
+		"frequency": "1.453698",
+		"reach": "1717",
+		"spend": "29.52",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.120192"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422042860451",
+		"adset_id": "23852422088480451",
+		"adset_name": "ABERTO - 25 A 50 FEM — Cópia",
+		"impressions": "1489",
+		"clicks": "6",
+		"cpc": "3.31",
+		"cpm": "13.337811",
+		"cpp": "18.842505",
+		"ctr": "0.402955",
+		"frequency": "1.412713",
+		"reach": "1054",
+		"spend": "19.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.201478"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422042860451",
+		"adset_id": "23852422088540451",
+		"adset_name": "ABERTO - 25 A 50 FEM — Cópia",
+		"impressions": "2490",
+		"clicks": "14",
+		"cpc": "2.107857",
+		"cpm": "11.851406",
+		"cpp": "16.950029",
+		"ctr": "0.562249",
+		"frequency": "1.430213",
+		"reach": "1741",
+		"spend": "29.51",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.240964"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422102390451",
+		"adset_id": "23852422102580451",
+		"adset_name": "ABERTO - 25 A 60 FEM",
+		"impressions": "2258",
+		"clicks": "33",
+		"cpc": "0.952727",
+		"cpm": "13.923826",
+		"cpp": "19.662289",
+		"ctr": "1.46147",
+		"frequency": "1.412133",
+		"reach": "1599",
+		"spend": "31.44",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.265722"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422102390451",
+		"adset_id": "23852422122320451",
+		"adset_name": "ABERTO - 25 A 60 FEM — Cópia",
+		"impressions": "2108",
+		"clicks": "35",
+		"cpc": "0.909714",
+		"cpm": "15.104364",
+		"cpp": "21.52806",
+		"ctr": "1.660342",
+		"frequency": "1.425287",
+		"reach": "1479",
+		"spend": "31.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.332068"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852422102390451",
+		"adset_id": "23852422122330451",
+		"adset_name": "ABERTO - 25 A 60 FEM — Cópia",
+		"impressions": "1979",
+		"clicks": "31",
+		"cpc": "1.005161",
+		"cpm": "15.745326",
+		"cpp": "22.385057",
+		"ctr": "1.566448",
+		"frequency": "1.421695",
+		"reach": "1392",
+		"spend": "31.16",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.404245"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852891504200092",
+		"adset_id": "23852891504190092",
+		"adset_name": "ABERTO 03 - 30 a 60 FEM",
+		"impressions": "5576",
+		"clicks": "79",
+		"cpc": "1.207468",
+		"cpm": "17.107245",
+		"cpp": "25.732398",
+		"ctr": "1.416786",
+		"frequency": "1.504181",
+		"reach": "3707",
+		"spend": "95.39",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.215208"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852891559390092",
+		"adset_id": "23852891559320092",
+		"adset_name": "ABERTO 1 - 25 - 45 FEM",
+		"impressions": "2198",
+		"clicks": "11",
+		"cpc": "2.440909",
+		"cpm": "12.215651",
+		"cpp": "15.101237",
+		"ctr": "0.500455",
+		"frequency": "1.23622",
+		"reach": "1778",
+		"spend": "26.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.136488"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852891559390092",
+		"adset_id": "23852891723830092",
+		"adset_name": "ABERTO 2 - 25 - 45 FEM",
+		"impressions": "3112",
+		"clicks": "18",
+		"cpc": "2.149444",
+		"cpm": "12.432519",
+		"cpp": "16.114119",
+		"ctr": "0.578406",
+		"frequency": "1.296127",
+		"reach": "2401",
+		"spend": "38.69",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.096401"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920763870092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "2116",
+		"clicks": "9",
+		"cpc": "2.588889",
+		"cpm": "11.011342",
+		"cpp": "13.902148",
+		"ctr": "0.425331",
+		"frequency": "1.26253",
+		"reach": "1676",
+		"spend": "23.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.047259"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792660092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "2875",
+		"clicks": "16",
+		"cpc": "2.12625",
+		"cpm": "11.833043",
+		"cpp": "15.173952",
+		"ctr": "0.556522",
+		"frequency": "1.282337",
+		"reach": "2242",
+		"spend": "34.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.278261"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792670092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "3140",
+		"clicks": "8",
+		"cpc": "4.17125",
+		"cpm": "10.627389",
+		"cpp": "13.869493",
+		"ctr": "0.254777",
+		"frequency": "1.305071",
+		"reach": "2406",
+		"spend": "33.37",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.063694"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792680092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "1855",
+		"clicks": "6",
+		"cpc": "3.975",
+		"cpm": "12.857143",
+		"cpp": "16.795775",
+		"ctr": "0.32345",
+		"frequency": "1.306338",
+		"reach": "1420",
+		"spend": "23.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.053908"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792710092",
+		"adset_name": "ABERTO - 25 A 50 AMBOS",
+		"impressions": "3674",
+		"clicks": "53",
+		"cpc": "0.637736",
+		"cpm": "9.199782",
+		"cpp": "12.058509",
+		"ctr": "1.442569",
+		"frequency": "1.310738",
+		"reach": "2803",
+		"spend": "33.8",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.136091"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792790092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "2984",
+		"clicks": "7",
+		"cpc": "4.924286",
+		"cpm": "11.551609",
+		"cpp": "15.039267",
+		"ctr": "0.234584",
+		"frequency": "1.30192",
+		"reach": "2292",
+		"spend": "34.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.100536"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920763910092",
+		"adset_id": "23852920792800092",
+		"adset_name": "ABERTO - 25 A 50 FEM",
+		"impressions": "1807",
+		"clicks": "8",
+		"cpc": "2.89375",
+		"cpm": "12.811289",
+		"cpp": "16.824128",
+		"ctr": "0.442723",
+		"frequency": "1.313227",
+		"reach": "1376",
+		"spend": "23.15",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.110681"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920812000092",
+		"adset_id": "23852920812050092",
+		"adset_name": "ABERTO - 30 a 60 FEM",
+		"impressions": "1892",
+		"clicks": "20",
+		"cpc": "1.5195",
+		"cpm": "16.062368",
+		"cpp": "20.772386",
+		"ctr": "1.057082",
+		"frequency": "1.293233",
+		"reach": "1463",
+		"spend": "30.39",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.211416"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920812000092",
+		"adset_id": "23852920835840092",
+		"adset_name": "ABERTO - 30 a 60 FEM — Cópia",
+		"impressions": "1516",
+		"clicks": "22",
+		"cpc": "0.986818",
+		"cpm": "14.32058",
+		"cpp": "18.91115",
+		"ctr": "1.451187",
+		"frequency": "1.320557",
+		"reach": "1148",
+		"spend": "21.71",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.527704"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852920812000092",
+		"adset_id": "23852920835880092",
+		"adset_name": "ABERTO - 30 a 60 FEM — Cópia",
+		"impressions": "1946",
+		"clicks": "12",
+		"cpc": "2.5475",
+		"cpm": "15.709147",
+		"cpp": "20.059055",
+		"ctr": "0.61665",
+		"frequency": "1.276903",
+		"reach": "1524",
+		"spend": "30.57",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.051387"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853653988850650",
+		"adset_id": "23853653988870650",
+		"adset_name": "Rosto - 30 A 60 FEM",
+		"impressions": "3075",
+		"clicks": "45",
+		"cpc": "0.954667",
+		"cpm": "13.970732",
+		"cpp": "21.383773",
+		"ctr": "1.463415",
+		"frequency": "1.530612",
+		"reach": "2009",
+		"spend": "42.96",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.130081"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853653988850650",
+		"adset_id": "23853654027430650",
+		"adset_name": "Cuidados naturais com a pele - 30 A 60 FEM",
+		"impressions": "4494",
+		"clicks": "34",
+		"cpc": "1.486471",
+		"cpm": "11.246106",
+		"cpp": "17.109005",
+		"ctr": "0.756564",
+		"frequency": "1.521327",
+		"reach": "2954",
+		"spend": "50.54",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.089008"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853686627620650",
+		"adset_id": "23853686627600650",
+		"adset_name": "ABERTO 25 A 60 FEM",
+		"impressions": "1747",
+		"clicks": "23",
+		"cpc": "1.316087",
+		"cpm": "17.326846",
+		"cpp": "26.072351",
+		"ctr": "1.316543",
+		"frequency": "1.504737",
+		"reach": "1161",
+		"spend": "30.27",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.228964"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853686627620650",
+		"adset_id": "23853686627680650",
+		"adset_name": "ABERTO 25 A 60 FEM",
+		"impressions": "1477",
+		"clicks": "9",
+		"cpc": "3.328889",
+		"cpm": "20.28436",
+		"cpp": "31.175858",
+		"ctr": "0.609343",
+		"frequency": "1.536941",
+		"reach": "961",
+		"spend": "29.96",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.13541"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853686627620650",
+		"adset_id": "23853686627720650",
+		"adset_name": "ABERTO 25 A 60 FEM",
+		"impressions": "1969",
+		"clicks": "20",
+		"cpc": "1.5155",
+		"cpm": "15.393601",
+		"cpp": "22.075747",
+		"ctr": "1.015744",
+		"frequency": "1.434086",
+		"reach": "1373",
+		"spend": "30.31",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.203149"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593233330387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2142",
+		"clicks": "3",
+		"cpc": "9.753333",
+		"cpm": "13.660131",
+		"cpp": "17.406306",
+		"ctr": "0.140056",
+		"frequency": "1.274242",
+		"reach": "1681",
+		"spend": "29.26",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.046685"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593233480387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2150",
+		"clicks": "15",
+		"cpc": "1.980667",
+		"cpm": "13.818605",
+		"cpp": "17.497055",
+		"ctr": "0.697674",
+		"frequency": "1.266196",
+		"reach": "1698",
+		"spend": "29.71",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.139535"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593233540387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2403",
+		"clicks": "10",
+		"cpc": "2.932",
+		"cpm": "12.201415",
+		"cpp": "15.168132",
+		"ctr": "0.416146",
+		"frequency": "1.243145",
+		"reach": "1933",
+		"spend": "29.32",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.041615"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242540387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2141",
+		"clicks": "14",
+		"cpc": "2.124286",
+		"cpm": "13.890705",
+		"cpp": "17.351225",
+		"ctr": "0.6539",
+		"frequency": "1.249125",
+		"reach": "1714",
+		"spend": "29.74",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.280243"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242610387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2284",
+		"clicks": "10",
+		"cpc": "2.904",
+		"cpm": "12.714536",
+		"cpp": "16.259798",
+		"ctr": "0.437828",
+		"frequency": "1.278835",
+		"reach": "1786",
+		"spend": "29.04",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.131349"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242620387",
+		"adset_name": "ABERTO 25 A 50 AMBOS",
+		"impressions": "2951",
+		"clicks": "51",
+		"cpc": "0.576667",
+		"cpm": "9.966113",
+		"cpp": "13.09439",
+		"ctr": "1.728228",
+		"frequency": "1.313891",
+		"reach": "2246",
+		"spend": "29.41",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.203321"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242630387",
+		"adset_name": "ABERTO 25 A 50 AMBOS",
+		"impressions": "2512",
+		"clicks": "36",
+		"cpc": "0.826389",
+		"cpm": "11.843153",
+		"cpp": "15.470619",
+		"ctr": "1.433121",
+		"frequency": "1.306292",
+		"reach": "1923",
+		"spend": "29.75",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.119427"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242640387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2156",
+		"clicks": "11",
+		"cpc": "2.677273",
+		"cpm": "13.659555",
+		"cpp": "17.384888",
+		"ctr": "0.510204",
+		"frequency": "1.272727",
+		"reach": "1694",
+		"spend": "29.45",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.139147"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593242670387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2083",
+		"clicks": "14",
+		"cpc": "2.107143",
+		"cpm": "14.162266",
+		"cpp": "17.664671",
+		"ctr": "0.672108",
+		"frequency": "1.247305",
+		"reach": "1670",
+		"spend": "29.5",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.192031"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852593233410387",
+		"adset_id": "23852593247210387",
+		"adset_name": "ABERTO 25 A 50 FEM",
+		"impressions": "2324",
+		"clicks": "15",
+		"cpc": "1.934667",
+		"cpm": "12.487091",
+		"cpp": "16.275939",
+		"ctr": "0.645439",
+		"frequency": "1.303421",
+		"reach": "1783",
+		"spend": "29.02",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.172117"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "642693930878840",
+		"campaign_id": "23852625282880093",
+		"adset_id": "23852625282870093",
+		"adset_name": "HOLISTICO 28 A 60 AMBOS",
+		"impressions": "836",
+		"clicks": "19",
+		"cpc": "0.777368",
+		"cpm": "17.667464",
+		"cpp": "19.107374",
+		"ctr": "2.272727",
+		"frequency": "1.081501",
+		"reach": "773",
+		"spend": "14.77",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.196172"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "642693930878840",
+		"campaign_id": "23852625282880093",
+		"adset_id": "23852625282990093",
+		"adset_name": "ABERTO 28 A 60 AMBOS",
+		"impressions": "399",
+		"clicks": "14",
+		"cpc": "0.657143",
+		"cpm": "23.057644",
+		"cpp": "24.274406",
+		"ctr": "3.508772",
+		"frequency": "1.05277",
+		"reach": "379",
+		"spend": "9.2",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.503759"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "642693930878840",
+		"campaign_id": "23852625282880093",
+		"adset_id": "23852625283000093",
+		"adset_name": "SAUDE 28 A 60 AMBOS",
+		"impressions": "323",
+		"clicks": "13",
+		"cpc": "0.629231",
+		"cpm": "25.325077",
+		"cpp": "27.542088",
+		"ctr": "4.024768",
+		"frequency": "1.087542",
+		"reach": "297",
+		"spend": "8.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.928793"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396638980093",
+		"adset_name": "LABIO",
+		"impressions": "1704",
+		"clicks": "7",
+		"cpc": "2.514286",
+		"cpm": "10.328639",
+		"cpp": "12.818645",
+		"ctr": "0.410798",
+		"frequency": "1.241078",
+		"reach": "1373",
+		"spend": "17.6",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.234742"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396639060093",
+		"adset_name": "ABERTO",
+		"impressions": "2468",
+		"clicks": "6",
+		"cpc": "4.5",
+		"cpm": "10.940032",
+		"cpp": "13.782542",
+		"ctr": "0.243112",
+		"frequency": "1.259826",
+		"reach": "1959",
+		"spend": "27",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.081037"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396718900093",
+		"adset_name": "ALTO VALOR",
+		"impressions": "522",
+		"clicks": "5",
+		"cpc": "1.632",
+		"cpm": "15.632184",
+		"cpp": "18.672769",
+		"ctr": "0.957854",
+		"frequency": "1.194508",
+		"reach": "437",
+		"spend": "8.16",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.191571"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852439027950093",
+		"adset_id": "23852439027890093",
+		"adset_name": "SEG + SEM 1%",
+		"impressions": "1300",
+		"clicks": "1",
+		"cpc": "15.45",
+		"cpm": "11.884615",
+		"cpp": "16.331924",
+		"ctr": "0.076923",
+		"frequency": "1.374207",
+		"reach": "946",
+		"spend": "15.45",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852439027950093",
+		"adset_id": "23852439027940093",
+		"adset_name": "ABERTO",
+		"impressions": "1433",
+		"clicks": "3",
+		"cpc": "3.593333",
+		"cpm": "7.52268",
+		"cpp": "10.921986",
+		"ctr": "0.209351",
+		"frequency": "1.451874",
+		"reach": "987",
+		"spend": "10.78",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.069784"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852458658920093",
+		"adset_id": "23852458658990093",
+		"adset_name": "Instagram Post",
+		"impressions": "18881",
+		"clicks": "75",
+		"cpc": "0.564933",
+		"cpm": "2.244055",
+		"cpp": "2.467964",
+		"ctr": "0.397225",
+		"frequency": "1.099779",
+		"reach": "17168",
+		"spend": "42.37",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.386632"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852459439210093",
+		"adset_id": "23852459439190093",
+		"adset_name": "QUEIXO",
+		"impressions": "2429",
+		"clicks": "5",
+		"cpc": "3.244",
+		"cpm": "6.677645",
+		"cpp": "8.550343",
+		"ctr": "0.205846",
+		"frequency": "1.280443",
+		"reach": "1897",
+		"spend": "16.22",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.082338"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852459439210093",
+		"adset_id": "23852459439200093",
+		"adset_name": "ABERTO",
+		"impressions": "5199",
+		"clicks": "12",
+		"cpc": "3.000833",
+		"cpm": "6.926332",
+		"cpp": "9.276146",
+		"ctr": "0.230814",
+		"frequency": "1.339258",
+		"reach": "3882",
+		"spend": "36.01",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.096172"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476290560093",
+		"adset_id": "23852476290570093",
+		"adset_name": "PAPADA",
+		"impressions": "1229",
+		"clicks": "20",
+		"cpc": "0.5745",
+		"cpm": "9.349064",
+		"cpp": "10.168142",
+		"ctr": "1.627339",
+		"frequency": "1.087611",
+		"reach": "1130",
+		"spend": "11.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.569569"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476290560093",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "3049",
+		"clicks": "19",
+		"cpc": "1.581053",
+		"cpm": "9.852411",
+		"cpp": "11.527245",
+		"ctr": "0.623155",
+		"frequency": "1.169992",
+		"reach": "2606",
+		"spend": "30.04",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.229583"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476362490093",
+		"adset_id": "23852476362500093",
+		"adset_name": "NARIZ",
+		"impressions": "2605",
+		"clicks": "10",
+		"cpc": "2.286",
+		"cpm": "8.775432",
+		"cpp": "11.205882",
+		"ctr": "0.383877",
+		"frequency": "1.276961",
+		"reach": "2040",
+		"spend": "22.86",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.153551"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476362490093",
+		"adset_id": "23852476362520093",
+		"adset_name": "ABERTO",
+		"impressions": "2396",
+		"clicks": "11",
+		"cpc": "1.773636",
+		"cpm": "8.142738",
+		"cpp": "10.333686",
+		"ctr": "0.459099",
+		"frequency": "1.269068",
+		"reach": "1888",
+		"spend": "19.51",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.166945"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852713476280093",
+		"adset_id": "23852713476320093",
+		"adset_name": "Instagram Post",
+		"impressions": "15074",
+		"clicks": "143",
+		"cpc": "0.284965",
+		"cpm": "2.70333",
+		"cpp": "2.890891",
+		"ctr": "0.948653",
+		"frequency": "1.069381",
+		"reach": "14096",
+		"spend": "40.75",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.968555"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184760181",
+		"adset_name": "Qualidade de vida",
+		"impressions": "823",
+		"clicks": "5",
+		"cpc": "1.63",
+		"cpm": "9.902795",
+		"cpp": "10.462131",
+		"ctr": "0.607533",
+		"frequency": "1.056483",
+		"reach": "779",
+		"spend": "8.15",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.243013"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184790181",
+		"adset_name": "ABERTO",
+		"impressions": "1075",
+		"clicks": "8",
+		"cpc": "1.24375",
+		"cpm": "9.255814",
+		"cpp": "9.735812",
+		"ctr": "0.744186",
+		"frequency": "1.051859",
+		"reach": "1022",
+		"spend": "9.95",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.55814"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184800181",
+		"adset_name": "Condicionamento físico",
+		"impressions": "1293",
+		"clicks": "18",
+		"cpc": "0.75",
+		"cpm": "10.440835",
+		"cpp": "11.029412",
+		"ctr": "1.392111",
+		"frequency": "1.056373",
+		"reach": "1224",
+		"spend": "13.5",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.773395"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623530800044",
+		"adset_name": "ESTETICA - 35 A 60 FEM - 23.01",
+		"impressions": "226",
+		"clicks": "3",
+		"cpc": "2.06",
+		"cpm": "27.345133",
+		"cpp": "30",
+		"ctr": "1.327434",
+		"frequency": "1.097087",
+		"reach": "206",
+		"spend": "6.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.442478"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623552550044",
+		"adset_name": "ESPORTES - 35 A 60 FEM - 23.01",
+		"impressions": "513",
+		"clicks": "22",
+		"cpc": "0.566818",
+		"cpm": "24.307992",
+		"cpp": "27.167756",
+		"ctr": "4.288499",
+		"frequency": "1.117647",
+		"reach": "459",
+		"spend": "12.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.364522"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623559470044",
+		"adset_name": "ALTO VALOR - 35 A 60 FEM - 23.01 — Cópia",
+		"impressions": "97",
+		"clicks": "4",
+		"cpc": "0.59",
+		"cpm": "24.329897",
+		"cpp": "25.934066",
+		"ctr": "4.123711",
+		"frequency": "1.065934",
+		"reach": "91",
+		"spend": "2.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "2.061856"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23852356449460202",
+		"adset_id": "23852356449470202",
+		"adset_name": "ABERTO",
+		"impressions": "1268",
+		"clicks": "26",
+		"cpc": "0.623462",
+		"cpm": "12.783912",
+		"cpp": "13.330592",
+		"ctr": "2.050473",
+		"frequency": "1.042763",
+		"reach": "1216",
+		"spend": "16.21",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.025237"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23853081897560202",
+		"adset_id": "23853081897610202",
+		"adset_name": "ABERTO 1",
+		"impressions": "1307",
+		"clicks": "18",
+		"cpc": "1.478889",
+		"cpm": "20.367253",
+		"cpp": "23.412489",
+		"ctr": "1.3772",
+		"frequency": "1.149516",
+		"reach": "1137",
+		"spend": "26.62",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.076511"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23852356449460202",
+		"adset_id": "23853154810630202",
+		"adset_name": "ABERTO — C1",
+		"impressions": "669",
+		"clicks": "10",
+		"cpc": "1.056",
+		"cpm": "15.784753",
+		"cpp": "16.577708",
+		"ctr": "1.494768",
+		"frequency": "1.050235",
+		"reach": "637",
+		"spend": "10.56",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.896861"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23853536279820202",
+		"adset_id": "23853536280180202",
+		"adset_name": "ABERTO",
+		"impressions": "1065",
+		"clicks": "14",
+		"cpc": "1.085714",
+		"cpm": "14.2723",
+		"cpp": "14.990138",
+		"ctr": "1.314554",
+		"frequency": "1.050296",
+		"reach": "1014",
+		"spend": "15.2",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.751174"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23853536279820202",
+		"adset_id": "23853536280220202",
+		"adset_name": "ABERTO — C1",
+		"impressions": "974",
+		"clicks": "11",
+		"cpc": "1.140909",
+		"cpm": "12.88501",
+		"cpp": "13.436831",
+		"ctr": "1.129363",
+		"frequency": "1.042827",
+		"reach": "934",
+		"spend": "12.55",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.513347"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23853536279820202",
+		"adset_id": "23853536294580202",
+		"adset_name": "ABERTO — C2",
+		"impressions": "935",
+		"clicks": "9",
+		"cpc": "1.312222",
+		"cpm": "12.631016",
+		"cpp": "13.166109",
+		"ctr": "0.962567",
+		"frequency": "1.042363",
+		"reach": "897",
+		"spend": "11.81",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.641711"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1039431480165166",
+		"campaign_id": "23853536279820202",
+		"adset_id": "23853536294590202",
+		"adset_name": "ABERTO — C3",
+		"impressions": "864",
+		"clicks": "11",
+		"cpc": "1.258182",
+		"cpm": "16.018519",
+		"cpp": "16.981595",
+		"ctr": "1.273148",
+		"frequency": "1.060123",
+		"reach": "815",
+		"spend": "13.84",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.578704"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "836010440997598",
+		"campaign_id": "23853239802880416",
+		"adset_id": "23853239802870416",
+		"adset_name": "ESPORTE",
+		"impressions": "714",
+		"clicks": "15",
+		"cpc": "0.842",
+		"cpm": "17.689076",
+		"cpp": "18.794643",
+		"ctr": "2.10084",
+		"frequency": "1.0625",
+		"reach": "672",
+		"spend": "12.63",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.560224"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "836010440997598",
+		"campaign_id": "23853239802880416",
+		"adset_id": "23853239803050416",
+		"adset_name": "SAÚDE",
+		"impressions": "989",
+		"clicks": "29",
+		"cpc": "0.512759",
+		"cpm": "15.035389",
+		"cpp": "16.689113",
+		"ctr": "2.932255",
+		"frequency": "1.109989",
+		"reach": "891",
+		"spend": "14.87",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.415571"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709670765",
+		"adset_name": "ENG IG 365 + SEM 1%",
+		"impressions": "1102",
+		"clicks": "32",
+		"cpc": "0.31125",
+		"cpm": "9.038113",
+		"cpp": "10.473186",
+		"ctr": "2.903811",
+		"frequency": "1.15878",
+		"reach": "951",
+		"spend": "9.96",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.544465"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709690765",
+		"adset_name": "MODA",
+		"impressions": "554",
+		"clicks": "10",
+		"cpc": "0.243",
+		"cpm": "4.386282",
+		"cpp": "4.483395",
+		"ctr": "1.805054",
+		"frequency": "1.02214",
+		"reach": "542",
+		"spend": "2.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.541516"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709730765",
+		"adset_name": "ESTÉTICA",
+		"impressions": "1152",
+		"clicks": "11",
+		"cpc": "0.35",
+		"cpm": "3.342014",
+		"cpp": "3.434434",
+		"ctr": "0.954861",
+		"frequency": "1.027654",
+		"reach": "1121",
+		"spend": "3.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.173611"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828080765",
+		"adset_name": "MODA",
+		"impressions": "183",
+		"clicks": "2",
+		"cpc": "1.175",
+		"cpm": "12.84153",
+		"cpp": "13.055556",
+		"ctr": "1.092896",
+		"frequency": "1.016667",
+		"reach": "180",
+		"spend": "2.35",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.092896"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828100765",
+		"adset_name": "ESTÉTICA",
+		"impressions": "520",
+		"clicks": "2",
+		"cpc": "2.735",
+		"cpm": "10.519231",
+		"cpp": "10.874751",
+		"ctr": "0.384615",
+		"frequency": "1.033797",
+		"reach": "503",
+		"spend": "5.47",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.384615"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828110765",
+		"adset_name": "SEG + SEM 1%",
+		"impressions": "774",
+		"clicks": "14",
+		"cpc": "0.65",
+		"cpm": "11.757106",
+		"cpp": "13.245997",
+		"ctr": "1.808786",
+		"frequency": "1.126638",
+		"reach": "687",
+		"spend": "9.1",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.645995"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23852997244550620",
+		"adset_id": "23852997244560620",
+		"adset_name": "ABERTO - 22 A 55 FEM",
+		"impressions": "691",
+		"clicks": "13",
+		"cpc": "0.935385",
+		"cpm": "17.597685",
+		"cpp": "18.068351",
+		"ctr": "1.881331",
+		"frequency": "1.026746",
+		"reach": "673",
+		"spend": "12.16",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.723589"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23852997244550620",
+		"adset_id": "23852997244570620",
+		"adset_name": "MODA",
+		"impressions": "301",
+		"clicks": "5",
+		"cpc": "1.18",
+		"cpm": "19.601329",
+		"cpp": "20.136519",
+		"ctr": "1.66113",
+		"frequency": "1.027304",
+		"reach": "293",
+		"spend": "5.9",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.664452"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23852997244550620",
+		"adset_id": "23852997244580620",
+		"adset_name": "SEM 1% - 22 A 55 FEM",
+		"impressions": "427",
+		"clicks": "4",
+		"cpc": "1.8875",
+		"cpm": "17.681499",
+		"cpp": "18.504902",
+		"ctr": "0.936768",
+		"frequency": "1.046569",
+		"reach": "408",
+		"spend": "7.55",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.234192"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273070602",
+		"adset_name": "ABERTO",
+		"impressions": "1374",
+		"clicks": "40",
+		"cpc": "0.3095",
+		"cpm": "9.010189",
+		"cpp": "9.687011",
+		"ctr": "2.911208",
+		"frequency": "1.075117",
+		"reach": "1278",
+		"spend": "12.38",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.819505"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273080602",
+		"adset_name": "MODA",
+		"impressions": "462",
+		"clicks": "11",
+		"cpc": "0.378182",
+		"cpm": "9.004329",
+		"cpp": "9.765258",
+		"ctr": "2.380952",
+		"frequency": "1.084507",
+		"reach": "426",
+		"spend": "4.16",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.731602"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273090602",
+		"adset_name": "SEG IG + FB + SEM 1%",
+		"impressions": "1061",
+		"clicks": "26",
+		"cpc": "0.368846",
+		"cpm": "9.038643",
+		"cpp": "10.105374",
+		"ctr": "2.450518",
+		"frequency": "1.118019",
+		"reach": "949",
+		"spend": "9.59",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.413761"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "4676",
+		"clicks": "10",
+		"cpc": "2.391",
+		"cpm": "5.113345",
+		"cpp": "7.162972",
+		"ctr": "0.213858",
+		"frequency": "1.400839",
+		"reach": "3338",
+		"spend": "23.91",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.064157"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "2939",
+		"clicks": "7",
+		"cpc": "1.632857",
+		"cpm": "3.889078",
+		"cpp": "5.373766",
+		"ctr": "0.238176",
+		"frequency": "1.381758",
+		"reach": "2127",
+		"spend": "11.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.170126"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "4008",
+		"clicks": "9",
+		"cpc": "1.852222",
+		"cpm": "4.159182",
+		"cpp": "6.259857",
+		"ctr": "0.224551",
+		"frequency": "1.505069",
+		"reach": "2663",
+		"spend": "16.67",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.149701"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852515504730363",
+		"adset_id": "23852515504800363",
+		"adset_name": "ABERTO 24 a 34 ambos",
+		"impressions": "482",
+		"clicks": "5",
+		"cpc": "1.742",
+		"cpm": "18.070539",
+		"cpp": "19.885845",
+		"ctr": "1.037344",
+		"frequency": "1.100457",
+		"reach": "438",
+		"spend": "8.71",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.414938"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852515504730363",
+		"adset_id": "23852515521320363",
+		"adset_name": "ABERTO 35 a 44 ambos",
+		"impressions": "661",
+		"clicks": "4",
+		"cpc": "1.7825",
+		"cpm": "10.786687",
+		"cpp": "11.883333",
+		"ctr": "0.605144",
+		"frequency": "1.101667",
+		"reach": "600",
+		"spend": "7.13",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.605144"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852515504730363",
+		"adset_id": "23852515526880363",
+		"adset_name": "ABERTO 45 a 54 ambos",
+		"impressions": "381",
+		"clicks": "6",
+		"cpc": "1.741667",
+		"cpm": "27.427822",
+		"cpp": "31.762918",
+		"ctr": "1.574803",
+		"frequency": "1.158055",
+		"reach": "329",
+		"spend": "10.45",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.787402"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852636305050363",
+		"adset_id": "23852636305070363",
+		"adset_name": "ABERTO - 24 a 54 ambos",
+		"impressions": "498",
+		"clicks": "0",
+		"cpm": "21.044177",
+		"cpp": "23.032967",
+		"ctr": "0",
+		"frequency": "1.094505",
+		"reach": "455",
+		"spend": "10.48",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852636305050363",
+		"adset_id": "23852636332850363",
+		"adset_name": "ABERTO - 24 a 54 ambos - C1",
+		"impressions": "577",
+		"clicks": "8",
+		"cpc": "1.3225",
+		"cpm": "18.336222",
+		"cpp": "19.665428",
+		"ctr": "1.386482",
+		"frequency": "1.072491",
+		"reach": "538",
+		"spend": "10.58",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.519931"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852636305050363",
+		"adset_id": "23852636334330363",
+		"adset_name": "ABERTO - 24 a 54 ambos - C2",
+		"impressions": "678",
+		"clicks": "2",
+		"cpc": "5.255",
+		"cpm": "15.501475",
+		"cpp": "16.816",
+		"ctr": "0.294985",
+		"frequency": "1.0848",
+		"reach": "625",
+		"spend": "10.51",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226298850653",
+		"adset_id": "23852226298880653",
+		"adset_name": "ABERTO",
+		"impressions": "265",
+		"clicks": "9",
+		"cpc": "0.36",
+		"cpm": "12.226415",
+		"cpp": "13.333333",
+		"ctr": "3.396226",
+		"frequency": "1.090535",
+		"reach": "243",
+		"spend": "3.24",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "1.886792"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226298850653",
+		"adset_id": "23852226577160653",
+		"adset_name": "ROSTO",
+		"impressions": "1069",
+		"clicks": "30",
+		"cpc": "0.483333",
+		"cpm": "13.564079",
+		"cpp": "15.041494",
+		"ctr": "2.806361",
+		"frequency": "1.108921",
+		"reach": "964",
+		"spend": "14.5",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.935454"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665480653",
+		"adset_name": "SEG IG + SEM IG 1%",
+		"impressions": "476",
+		"clicks": "10",
+		"cpc": "0.403",
+		"cpm": "8.466387",
+		"cpp": "8.935698",
+		"ctr": "2.10084",
+		"frequency": "1.055432",
+		"reach": "451",
+		"spend": "4.03",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.630252"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665620653",
+		"adset_name": "AXILA",
+		"impressions": "1995",
+		"clicks": "52",
+		"cpc": "0.322885",
+		"cpm": "8.41604",
+		"cpp": "9.129962",
+		"ctr": "2.606516",
+		"frequency": "1.084829",
+		"reach": "1839",
+		"spend": "16.79",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.551378"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665630653",
+		"adset_name": "ABERTO",
+		"impressions": "786",
+		"clicks": "18",
+		"cpc": "0.302222",
+		"cpm": "6.92112",
+		"cpp": "7.292225",
+		"ctr": "2.290076",
+		"frequency": "1.053619",
+		"reach": "746",
+		"spend": "5.44",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.381679"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1288644968294464",
+		"campaign_id": "23853386097730195",
+		"adset_id": "23853491257460195",
+		"adset_name": "ESTÉTICA 25 A 45 FEM — ALTO VALOR",
+		"impressions": "5",
+		"clicks": "1",
+		"cpc": "1.94",
+		"cpm": "388",
+		"cpp": "388",
+		"ctr": "20",
+		"frequency": "1",
+		"reach": "5",
+		"spend": "1.94",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "1288644968294464",
+		"campaign_id": "23853386097730195",
+		"adset_id": "23853491289140195",
+		"adset_name": "ABERTO 25 A 45 FEM",
+		"impressions": "5",
+		"clicks": "0",
+		"cpm": "68",
+		"cpp": "68",
+		"ctr": "0",
+		"frequency": "1",
+		"reach": "5",
+		"spend": "0.34",
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115825920610",
+		"adset_name": "PB PV SITE 15D - CADASTRO - RMKTG",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "329",
+		"clicks": "4",
+		"cpc": "1.1725",
+		"cpm": "14.255319",
+		"cpp": "22.548077",
+		"ctr": "1.215805",
+		"frequency": "1.581731",
+		"reach": "208",
+		"spend": "4.69",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.911854"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115825930610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1030",
+		"clicks": "6",
+		"cpc": "2.28",
+		"cpm": "13.281553",
+		"cpp": "14.678112",
+		"ctr": "0.582524",
+		"frequency": "1.10515",
+		"reach": "932",
+		"spend": "13.68",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.38835"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115840190610",
+		"adset_name": "SEG FB + SEM 1% SEG FB",
+		"impressions": "934",
+		"clicks": "4",
+		"cpc": "1.95",
+		"cpm": "8.351178",
+		"cpp": "8.965517",
+		"ctr": "0.428266",
+		"frequency": "1.073563",
+		"reach": "870",
+		"spend": "7.8",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.107066"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291760610",
+		"adset_name": "ABERTO",
+		"impressions": "1527",
+		"clicks": "16",
+		"cpc": "1.66375",
+		"cpm": "17.432875",
+		"cpp": "18.270419",
+		"ctr": "1.047806",
+		"frequency": "1.048044",
+		"reach": "1457",
+		"spend": "26.62",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.654879"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291770610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1433",
+		"clicks": "15",
+		"cpc": "1.756",
+		"cpm": "18.381019",
+		"cpp": "19.296703",
+		"ctr": "1.046755",
+		"frequency": "1.049817",
+		"reach": "1365",
+		"spend": "26.34",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.558269"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291780610",
+		"adset_name": "PROP EMP",
+		"impressions": "1504",
+		"clicks": "20",
+		"cpc": "1.341",
+		"cpm": "17.832447",
+		"cpp": "18.395062",
+		"ctr": "1.329787",
+		"frequency": "1.03155",
+		"reach": "1458",
+		"spend": "26.82",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.398936"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291790610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1322",
+		"clicks": "10",
+		"cpc": "2.67",
+		"cpm": "20.196672",
+		"cpp": "21.325879",
+		"ctr": "0.75643",
+		"frequency": "1.055911",
+		"reach": "1252",
+		"spend": "26.7",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.605144"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291800610",
+		"adset_name": "Shark Tank",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "1"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "1"
+			}
+		],
+		"impressions": "1630",
+		"clicks": "16",
+		"cpc": "1.655625",
+		"cpm": "16.251534",
+		"cpp": "17.336387",
+		"ctr": "0.981595",
+		"frequency": "1.066754",
+		"reach": "1528",
+		"spend": "26.49",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.613497"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291810610",
+		"adset_name": "Plataformas",
+		"impressions": "1721",
+		"clicks": "21",
+		"cpc": "1.270476",
+		"cpm": "15.502615",
+		"cpp": "16.479308",
+		"ctr": "1.220221",
+		"frequency": "1.063002",
+		"reach": "1619",
+		"spend": "26.68",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.755375"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291820610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1423",
+		"clicks": "17",
+		"cpc": "1.560588",
+		"cpm": "18.64371",
+		"cpp": "19.210717",
+		"ctr": "1.194659",
+		"frequency": "1.030413",
+		"reach": "1381",
+		"spend": "26.53",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.702741"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"impressions": "1390",
+		"clicks": "16",
+		"cpc": "1.638125",
+		"cpm": "18.856115",
+		"cpp": "19.781132",
+		"ctr": "1.151079",
+		"frequency": "1.049057",
+		"reach": "1325",
+		"spend": "26.21",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.863309"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "1594",
+		"clicks": "16",
+		"cpc": "1.624375",
+		"cpm": "16.304893",
+		"cpp": "18.657574",
+		"ctr": "1.003764",
+		"frequency": "1.144293",
+		"reach": "1393",
+		"spend": "25.99",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.564617"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431340610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1334",
+		"clicks": "16",
+		"cpc": "1.66",
+		"cpm": "19.910045",
+		"cpp": "20.637141",
+		"ctr": "1.1994",
+		"frequency": "1.036519",
+		"reach": "1287",
+		"spend": "26.56",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.749625"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"impressions": "1515",
+		"clicks": "15",
+		"cpc": "1.765333",
+		"cpm": "17.478548",
+		"cpp": "18.363384",
+		"ctr": "0.990099",
+		"frequency": "1.050624",
+		"reach": "1442",
+		"spend": "26.48",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.726073"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "1"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "1"
+			}
+		],
+		"impressions": "1445",
+		"clicks": "11",
+		"cpc": "2.487273",
+		"cpm": "18.934256",
+		"cpp": "23.384615",
+		"ctr": "0.761246",
+		"frequency": "1.235043",
+		"reach": "1170",
+		"spend": "27.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.276817"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431400610",
+		"adset_name": "PROP EMP",
+		"impressions": "1431",
+		"clicks": "18",
+		"cpc": "1.454444",
+		"cpm": "18.294899",
+		"cpp": "19.221733",
+		"ctr": "1.257862",
+		"frequency": "1.050661",
+		"reach": "1362",
+		"spend": "26.18",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.768693"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1437",
+		"clicks": "23",
+		"cpc": "1.14913",
+		"cpm": "18.392484",
+		"cpp": "19.096821",
+		"ctr": "1.600557",
+		"frequency": "1.038295",
+		"reach": "1384",
+		"spend": "26.43",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.974252"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "1"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "1"
+			}
+		],
+		"impressions": "1164",
+		"clicks": "20",
+		"cpc": "1.305",
+		"cpm": "22.42268",
+		"cpp": "23.705722",
+		"ctr": "1.718213",
+		"frequency": "1.057221",
+		"reach": "1101",
+		"spend": "26.1",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.859107"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129475790610",
+		"adset_name": "1% CADASTRO",
+		"impressions": "1208",
+		"clicks": "3",
+		"cpc": "8.766667",
+		"cpm": "21.771523",
+		"cpp": "22.613929",
+		"ctr": "0.248344",
+		"frequency": "1.038693",
+		"reach": "1163",
+		"spend": "26.3",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.082781"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476080610",
+		"adset_name": "DONOS PG FB",
+		"impressions": "1100",
+		"clicks": "8",
+		"cpc": "3.29125",
+		"cpm": "23.936364",
+		"cpp": "24.981025",
+		"ctr": "0.727273",
+		"frequency": "1.043643",
+		"reach": "1054",
+		"spend": "26.33",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.363636"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476090610",
+		"adset_name": "ABERTO",
+		"impressions": "1097",
+		"clicks": "6",
+		"cpc": "4.393333",
+		"cpm": "24.02917",
+		"cpp": "24.985782",
+		"ctr": "0.546946",
+		"frequency": "1.03981",
+		"reach": "1055",
+		"spend": "26.36",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.182315"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476100610",
+		"adset_name": "PROP EMP",
+		"impressions": "959",
+		"clicks": "6",
+		"cpc": "4.308333",
+		"cpm": "26.955162",
+		"cpp": "27.97619",
+		"ctr": "0.625652",
+		"frequency": "1.037879",
+		"reach": "924",
+		"spend": "25.85",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.208551"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476130610",
+		"adset_name": "Shark Tank",
+		"impressions": "897",
+		"clicks": "6",
+		"cpc": "4.435",
+		"cpm": "29.665552",
+		"cpp": "31.453901",
+		"ctr": "0.668896",
+		"frequency": "1.060284",
+		"reach": "846",
+		"spend": "26.61",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.334448"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476150610",
+		"adset_name": "Plataformas",
+		"impressions": "1276",
+		"clicks": "14",
+		"cpc": "1.902857",
+		"cpm": "20.877743",
+		"cpp": "22.034739",
+		"ctr": "1.097179",
+		"frequency": "1.055418",
+		"reach": "1209",
+		"spend": "26.64",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.470219"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476160610",
+		"adset_name": "ENG IG + FB 365",
+		"impressions": "993",
+		"clicks": "5",
+		"cpc": "5.158",
+		"cpm": "25.971803",
+		"cpp": "30.269953",
+		"ctr": "0.503525",
+		"frequency": "1.165493",
+		"reach": "852",
+		"spend": "25.79",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.20141"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476270610",
+		"adset_name": "ENG IG + FB 30D",
+		"impressions": "1217",
+		"clicks": "7",
+		"cpc": "3.808571",
+		"cpm": "21.906327",
+		"cpp": "22.650807",
+		"ctr": "0.575185",
+		"frequency": "1.033985",
+		"reach": "1177",
+		"spend": "26.66",
+		"website_ctr": [
+			{
+				"action_type": "link_click",
+				"value": "0.328677"
+			}
+		],
+		"date_start": "2023-02-13",
+		"date_stop": "2023-02-13",
+		"date_preset": "yesterday"
+	}
+]
