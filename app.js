@@ -9,6 +9,7 @@ const port = 3000;
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
     data = req.query.data_preset
+    console.log(req);
     console.log(data);
     res.json({msg: data});
   
@@ -33,12 +34,17 @@ app.get('/adsinsights', async (req, res) => {
 
     try {
       fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsinsights" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
-
-    } catch (error) {
-        res.sendStatus(500);
+      
+    } catch (err) {
+      console.error(err);
+      res.sendStatus(500);
     }
   })
 
@@ -47,8 +53,12 @@ app.get('/adsets', async (req, res) => {
    
     try {
       fs.readFile(path.join(__dirname, "output", "adsets" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
 
     } catch (error) {
@@ -61,8 +71,12 @@ app.get('/adsetsinsights', async (req, res) => {
 
     try {
       fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsetsinsights" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
 
     } catch (error) {
@@ -75,8 +89,12 @@ app.get('/campaigns', async (req, res) => {
 
     try {
       fs.readFile(path.join(__dirname, "output", "campaigns" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
 
     } catch (error) {
@@ -90,8 +108,12 @@ app.get('/campaigninsights', async (req, res) => {
     
     try {
       fs.readFile(path.join(__dirname, "output", req.query.data_preset, "campaigninsights" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
 
     } catch (error) {
@@ -105,8 +127,12 @@ app.get('/accounts', async (req, res) => {
     
     try {     
       fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
+        if (err){
+          res.status(404).send('Arquivo não encontrado!');
+          console.error(err);
+        }else{
+          res.json(JSON.parse(data));
+        }
       });
 
     } catch (error) {

@@ -55,8 +55,8 @@ module.exports = {
                                 level: "ad",
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
-                                breakdowns: "image_asset",
-                                fields: '["account_id", "account_name", "account_currency", "ad_id", "campaign_id", "campaign_name", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
+                                filtering: '[{field:"ad.impressions",operator:"GREATER_THAN",value:0}]',
+                                fields: '["account_id", "ad_id", "ad_name", "campaign_id", "adset_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
                             }
                         
                         });
@@ -189,11 +189,11 @@ module.exports = {
                     try {
                         response = await axios.get(nextPage);
                     } catch (error) {
-                        console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
+                        console.log(`${error} - Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
                         break;
                     }
     
-                    if(!!response.data.paging.hasOwnProperty('next')){
+                    if(response.data.paging.hasOwnProperty('next')){
                         nextPage = response.data.paging.next;
     
                     }else{
@@ -211,13 +211,14 @@ module.exports = {
                                 level: "adset",
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
-                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr"]'
+                                filtering: '[{field:"adset.impressions",operator:"GREATER_THAN",value:0}]',
+                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
                             }
                         
                         })
                         
                     } catch (error) {
-                        console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
+                        console.log(`${error} - Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
                         break;
                     }
                     
@@ -366,7 +367,8 @@ module.exports = {
                                 level: "campaign",
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
-                                fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "website_ctr","social_spend"]'
+                                filtering: '[{field:"campaign.impressions",operator:"GREATER_THAN",value:0}]',
+                                fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
                             }
                         
                         })
