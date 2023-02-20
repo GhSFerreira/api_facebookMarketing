@@ -56,7 +56,7 @@ module.exports = {
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
                                 filtering: '[{field:"ad.impressions",operator:"GREATER_THAN",value:0}]',
-                                fields: '["account_id", "ad_id", "ad_name", "campaign_id", "adset_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
+                                fields: '["account_id", "ad_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         });
@@ -83,6 +83,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", data_preset ,"adsinsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log(`--- Arquivo ${data_preset}/adsinsights.json salvo! ---`);
                 return 1;
               });
         } catch (error) {
@@ -134,6 +135,7 @@ module.exports = {
                         response = await axios.get(urlClientAds,{
                             params: {
                                 access_token: faceVariables.token,
+                                effective_status: '["ACTIVE"]',
                                 fields: '["id", "name", "account_id", "adset_id", "campaign_id", "status", "effective_status"]'
                             }                    
                         })
@@ -157,6 +159,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", "ads" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log('--- Arquivo ads.json salvo! ---');
                 return 1;
               });
         } catch (error) {
@@ -211,8 +214,8 @@ module.exports = {
                                 level: "adset",
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
-                                filtering: '[{field:"adset.impressions",operator:"GREATER_THAN",value:0}]',
-                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
+                                filtering: '[{field:"adset.effective_status","operator":"IN","value":["ACTIVE"]}]',
+                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         })
@@ -238,6 +241,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", data_preset,"adsetsinsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log(`--- Arquivo ${data_preset}/adsetsinsights.json salvo! ---`);
                 return 1;
               });
         } catch (error) {
@@ -288,6 +292,7 @@ module.exports = {
                         response = await axios.get(urlClientAdSet,{
                             params: {
                                 access_token: faceVariables.token,
+                                effective_status: '["ACTIVE"]',
                                 fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","configured_status","effective_status", "created_time","destination_type", "optimization_goal"]'
                             }
                         
@@ -313,6 +318,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", "adsets" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log('--- Arquivo adsets.json salvo! ---');
                 return 1;
               });
         } catch (error) {
@@ -367,8 +373,8 @@ module.exports = {
                                 level: "campaign",
                                 date_preset: data_preset,
                                 access_token: faceVariables.token,
-                                filtering: '[{field:"campaign.impressions",operator:"GREATER_THAN",value:0}]',
-                                fields: '["campaign_id","campaign_name","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend"]'
+                                filtering: '[{field:"campaign.effective_status","operator":"IN","value":["ACTIVE"]}]',
+                                fields: '["campaign_id","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         })
@@ -392,6 +398,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", data_preset, "campaigninsights" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log(`--- Arquivo ${data_preset}/campaigninsights.json salvo! ---`);
                 return 1;
               });
         } catch (error) {
@@ -401,7 +408,6 @@ module.exports = {
         return 0;
      
     },
-
 
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getCampaings(clients) {
@@ -444,6 +450,7 @@ module.exports = {
                         response = await axios.get(urlClientCampaigns,{
                             params: {
                                 access_token: faceVariables.token,
+                                effective_status: '["ACTIVE"]', 
                                 fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time"]'
                             }
                         
@@ -468,6 +475,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", "campaigns" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log('--- Arquivo campaigns.json salvo! ---');
                 return 1;
               });
         } catch (error) {
@@ -511,6 +519,7 @@ module.exports = {
         try {
             fs.writeFile(path.join(__dirname, "output", "accounts" + ".json"), temp, (err, data) => {
                 if (err) throw err
+                console.log('--- Arquivo accounts.json salvo! ---');
                 return 1;
               });
         } catch (error) {
@@ -519,7 +528,5 @@ module.exports = {
 
         return 0;
     },
-
-
 }
 

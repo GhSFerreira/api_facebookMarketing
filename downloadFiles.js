@@ -23,31 +23,26 @@ clients = ['5379057635480936', '741302997038971', '1224883661342179', '695922761
 
     /**
      * 
-     * @param {Array} clients It's the Facebook ad's account of the clients
      * @param {String} data_preset Could be one of this: 'today', 'yesterday', 'last_3d', 'last_7d', 'last_14d', 'last_30d' or 'maximum'
      */
-    async function downloadFacebookData(clients, data_preset) {
+    async function downloadInsights(data_preset) {
         await getCampaignInsights(clients, data_preset)
         await getAdSetInsights(clients, data_preset)
         await getAdInsights(clients, data_preset)
     }
 
-    async function downloadFacebookDataWithDataPreset(clients) {
-        //await getAdAccounts(clients)
-        //await getCampaings(clients)
-        //await getAdSets(clients)
-        await getAds(clients)
+    async function downloadAccountCampaigns() {
+        await getAdAccounts(clients)
+        await getCampaings(clients)
     }
 
-    /* 
-    * ---- Make the calls to download facebook data -----
-    */
+    async function downloadAdset() {
+         await getAdSets(clients)
+    }
+    async function downloadAds() {
+         await getAds(clients)
+    }
 
-    downloadFacebookDataWithDataPreset(clients)
-/*     downloadFacebookData(clients, 'today');
-    downloadFacebookData(clients, 'yesterday');
-    downloadFacebookData(clients, 'last_3d');
-    downloadFacebookData(clients, 'last_7d');
-    downloadFacebookData(clients, 'last_14d');
-    downloadFacebookData(clients, 'last_30d');
-    downloadFacebookData(clients, 'last_90d'); */
+    module.exports = {
+        downloadAdset, downloadAds, downloadAccountCampaigns, downloadInsights
+    }
