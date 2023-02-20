@@ -1,5 +1,5 @@
 const { default: axios } = require("axios");
-const faceVariables = require('./config/faceVariables');
+const env = require('dotenv').config();
 const https = require('https');
 const http = require('http');
 const fs = require('fs');
@@ -9,6 +9,7 @@ const path = require('path');
 axios.defaults.timeout = 60000
 axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
+
 
 module.exports = {
     
@@ -20,7 +21,7 @@ module.exports = {
             
             console.log(`Baixando insight dos anúncios (${data_preset}) =>  ${clients[i]}`);
     
-            urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
+            urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/insights"
             var response = {};
             var nextPage = 0;
     
@@ -54,7 +55,7 @@ module.exports = {
                             params: {
                                 level: "ad",
                                 date_preset: data_preset,
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"ad.impressions",operator:"GREATER_THAN",value:0}]',
                                 fields: '["account_id", "ad_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
@@ -102,7 +103,7 @@ module.exports = {
             
             console.log('Baixando anúncios => ' + clients[i]);
     
-            urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/ads"
+            urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/ads"
             var response = {};
             var nextPage = 0;
     
@@ -134,7 +135,7 @@ module.exports = {
                     try {
                         response = await axios.get(urlClientAds,{
                             params: {
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 effective_status: '["ACTIVE"]',
                                 fields: '["id", "name", "account_id", "adset_id", "campaign_id", "status", "effective_status"]'
                             }                    
@@ -179,7 +180,7 @@ module.exports = {
             
             console.log(`Baixando insights conjunto de anuncios (${data_preset}) => ${clients[i]}`);
     
-            urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
+            urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/insights"
             var response = {};
             var nextPage = 0;
     
@@ -213,7 +214,7 @@ module.exports = {
                             params: {
                                 level: "adset",
                                 date_preset: data_preset,
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"adset.effective_status","operator":"IN","value":["ACTIVE"]}]',
                                 fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
@@ -260,7 +261,7 @@ module.exports = {
             
             console.log('Baixando info conjunto de anúncios => ' + clients[i]);
     
-            urlClientAdSet = faceVariables.apiEndpoint + "act_"+ clients[i] +"/adsets"
+            urlClientAdSet = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/adsets"
             var response = {};
             var nextPage = 0;
     
@@ -291,9 +292,9 @@ module.exports = {
                     try {
                         response = await axios.get(urlClientAdSet,{
                             params: {
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 effective_status: '["ACTIVE"]',
-                                fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","configured_status","effective_status", "created_time","destination_type", "optimization_goal"]'
+                                fields: '["id", "account_id", "campaign_id", "billing_event", "budget_remaining","effective_status", "created_time","destination_type", "optimization_goal"]'
                             }
                         
                         })
@@ -338,7 +339,7 @@ module.exports = {
             
             console.log(`Baixando inights das campanhas (${data_preset}) => ${clients[i]}`);
     
-            urlClientAds = faceVariables.apiEndpoint + "act_"+ clients[i] +"/insights"
+            urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/insights"
             var response = {};
             var nextPage = 0;
     
@@ -372,7 +373,7 @@ module.exports = {
                             params: {
                                 level: "campaign",
                                 date_preset: data_preset,
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"campaign.effective_status","operator":"IN","value":["ACTIVE"]}]',
                                 fields: '["campaign_id","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
@@ -417,7 +418,7 @@ module.exports = {
             
             console.log('Baixando campanhas => ' + clients[i]);
     
-            urlClientCampaigns = faceVariables.apiEndpoint + "act_"+ clients[i] +"/campaigns"
+            urlClientCampaigns = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/campaigns"
             var response = {};
             var nextPage = 0;
     
@@ -449,7 +450,7 @@ module.exports = {
                     try {
                         response = await axios.get(urlClientCampaigns,{
                             params: {
-                                access_token: faceVariables.token,
+                                access_token: process.env.FACEBOOK_TOKEN,
                                 effective_status: '["ACTIVE"]', 
                                 fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time"]'
                             }
@@ -493,13 +494,13 @@ module.exports = {
             
             console.log('Baixando contas de anúncio => ' + clients[i]);
     
-            urlClientCampaigns = faceVariables.apiEndpoint + "act_"+ clients[i];
+            urlClientCampaigns = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i];
             var response = {};
                 
             try {
                 response = await axios.get(urlClientCampaigns,{
                     params: {
-                        access_token: faceVariables.token,
+                        aaccess_token: process.env.FACEBOOK_TOKEN,
                         fields: '["id", "account_id", "account_status", "age", "business_name", "business_city", "business_state", "currency", "name", "balance"]'
                     }
                 
