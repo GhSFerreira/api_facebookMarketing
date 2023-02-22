@@ -1,0 +1,4950 @@
+[
+	{
+		"campaign_id": "23853898530980678",
+		"account_id": "1224883661342179",
+		"impressions": "27100",
+		"clicks": "315",
+		"cpc": "2.226286",
+		"cpm": "25.877491",
+		"cpp": "82.396898",
+		"ctr": "1.162362",
+		"frequency": "3.184115",
+		"reach": "8511",
+		"spend": "701.28",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "123"
+			},
+			{
+				"action_type": "video_view",
+				"value": "4324"
+			},
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "45"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "4458"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "4458"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853412361040324",
+		"account_id": "777481793418802",
+		"impressions": "1684",
+		"clicks": "21",
+		"cpc": "1.548571",
+		"cpm": "19.311164",
+		"cpp": "26.942833",
+		"ctr": "1.247031",
+		"frequency": "1.395195",
+		"reach": "1207",
+		"spend": "32.52",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852851139380290",
+		"account_id": "681552533401703",
+		"impressions": "31292",
+		"clicks": "198",
+		"cpc": "2.05404",
+		"cpm": "12.996932",
+		"cpp": "27.65914",
+		"ctr": "0.63275",
+		"frequency": "2.128128",
+		"reach": "14704",
+		"spend": "406.7",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1047"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "34"
+			},
+			{
+				"action_type": "link_click",
+				"value": "59"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "7"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "32"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1152"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1152"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23850265619550116",
+		"account_id": "3257630361162338",
+		"impressions": "375898",
+		"clicks": "4731",
+		"cpc": "0.93613",
+		"cpm": "11.781999",
+		"cpp": "41.167399",
+		"ctr": "1.258586",
+		"frequency": "3.494093",
+		"reach": "107581",
+		"spend": "4428.83",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "62"
+			},
+			{
+				"action_type": "video_view",
+				"value": "59597"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "829"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1241"
+			},
+			{
+				"action_type": "comment",
+				"value": "50"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "279"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "61792"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "61792"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23850369385460116",
+		"account_id": "3257630361162338",
+		"impressions": "323287",
+		"clicks": "4379",
+		"cpc": "0.997257",
+		"cpm": "13.50809",
+		"cpp": "43.209717",
+		"ctr": "1.354524",
+		"frequency": "3.198803",
+		"reach": "101065",
+		"spend": "4366.99",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "66"
+			},
+			{
+				"action_type": "video_view",
+				"value": "59793"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "981"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1218"
+			},
+			{
+				"action_type": "comment",
+				"value": "66"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "276"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "62134"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "62134"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852459354740738",
+		"account_id": "4175309355897018",
+		"impressions": "83848",
+		"clicks": "734",
+		"cpc": "1.970613",
+		"cpm": "17.25062",
+		"cpp": "84.173068",
+		"ctr": "0.875394",
+		"frequency": "4.879423",
+		"reach": "17184",
+		"spend": "1446.43",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "186"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "137"
+			},
+			{
+				"action_type": "video_view",
+				"value": "16008"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16345"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16345"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852766884780738",
+		"account_id": "4175309355897018",
+		"impressions": "93299",
+		"clicks": "865",
+		"cpc": "1.168266",
+		"cpm": "10.831306",
+		"cpp": "64.580138",
+		"ctr": "0.927127",
+		"frequency": "5.962359",
+		"reach": "15648",
+		"spend": "1010.55",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "217"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "144"
+			},
+			{
+				"action_type": "video_view",
+				"value": "11980"
+			},
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "12353"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "12353"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853306487500738",
+		"account_id": "4175309355897018",
+		"impressions": "9950",
+		"clicks": "65",
+		"cpc": "2.022",
+		"cpm": "13.209045",
+		"cpp": "30.80872",
+		"ctr": "0.653266",
+		"frequency": "2.332396",
+		"reach": "4266",
+		"spend": "131.43",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "18"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "video_view",
+				"value": "688"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "717"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "717"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853306516560738",
+		"account_id": "4175309355897018",
+		"impressions": "11260",
+		"clicks": "59",
+		"cpc": "2.233051",
+		"cpm": "11.70071",
+		"cpp": "28.175791",
+		"ctr": "0.523979",
+		"frequency": "2.408041",
+		"reach": "4676",
+		"spend": "131.75",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "23"
+			},
+			{
+				"action_type": "video_view",
+				"value": "740"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "771"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "771"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "6312950275348",
+		"account_id": "185103568247084",
+		"impressions": "49414",
+		"clicks": "222",
+		"cpc": "2.235",
+		"cpm": "10.041081",
+		"cpp": "40.117238",
+		"ctr": "0.449265",
+		"frequency": "3.99531",
+		"reach": "12368",
+		"spend": "496.17",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "58"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "25"
+			},
+			{
+				"action_type": "video_view",
+				"value": "5682"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "8"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5766"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5766"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "6314960029748",
+		"account_id": "185103568247084",
+		"impressions": "206259",
+		"clicks": "1156",
+		"cpc": "1.915709",
+		"cpm": "10.736792",
+		"cpp": "83.379518",
+		"ctr": "0.56046",
+		"frequency": "7.765776",
+		"reach": "26560",
+		"spend": "2214.56",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "279"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "103"
+			},
+			{
+				"action_type": "video_view",
+				"value": "23060"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "26"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23451"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "23451"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "6315079801348",
+		"account_id": "185103568247084",
+		"impressions": "311661",
+		"clicks": "1344",
+		"cpc": "2.171443",
+		"cpm": "9.364085",
+		"cpp": "118.135525",
+		"ctr": "0.431238",
+		"frequency": "12.615811",
+		"reach": "24704",
+		"spend": "2918.42",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "446"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "137"
+			},
+			{
+				"action_type": "video_view",
+				"value": "20136"
+			},
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "27"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "20735"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "20735"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "6323121976548",
+		"account_id": "185103568247084",
+		"impressions": "22423",
+		"clicks": "107",
+		"cpc": "2.069439",
+		"cpm": "9.875128",
+		"cpp": "35.389164",
+		"ctr": "0.477189",
+		"frequency": "3.583666",
+		"reach": "6257",
+		"spend": "221.43",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "24"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1845"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1875"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1875"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "6323123389748",
+		"account_id": "185103568247084",
+		"impressions": "17125",
+		"clicks": "59",
+		"cpc": "3.011695",
+		"cpm": "10.376058",
+		"cpp": "40.029286",
+		"ctr": "0.344526",
+		"frequency": "3.857851",
+		"reach": "4439",
+		"spend": "177.69",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1556"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1573"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1573"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852485463910451",
+		"account_id": "271414754852131",
+		"impressions": "22491",
+		"clicks": "144",
+		"cpc": "1.537153",
+		"cpm": "9.841714",
+		"cpp": "20.255307",
+		"ctr": "0.640256",
+		"frequency": "2.058108",
+		"reach": "10928",
+		"spend": "221.35",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "36"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2459"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2506"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2506"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852485553050451",
+		"account_id": "271414754852131",
+		"impressions": "17003",
+		"clicks": "70",
+		"cpc": "2.542429",
+		"cpm": "10.466976",
+		"cpp": "24.821478",
+		"ctr": "0.411692",
+		"frequency": "2.371409",
+		"reach": "7170",
+		"spend": "177.97",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "20"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1716"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1739"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1739"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852485586210451",
+		"account_id": "271414754852131",
+		"impressions": "10390",
+		"clicks": "151",
+		"cpc": "0.873974",
+		"cpm": "12.701636",
+		"cpp": "27.72479",
+		"ctr": "1.453321",
+		"frequency": "2.182773",
+		"reach": "4760",
+		"spend": "131.97",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "42"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "15"
+			},
+			{
+				"action_type": "video_view",
+				"value": "649"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "710"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "710"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852485609040451",
+		"account_id": "271414754852131",
+		"impressions": "10449",
+		"clicks": "123",
+		"cpc": "1.07878",
+		"cpm": "12.698823",
+		"cpp": "27.173869",
+		"ctr": "1.177146",
+		"frequency": "2.139873",
+		"reach": "4883",
+		"spend": "132.69",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "42"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "31"
+			},
+			{
+				"action_type": "video_view",
+				"value": "756"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "8"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "831"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "831"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852865723680092",
+		"account_id": "295572612624483",
+		"impressions": "27235",
+		"clicks": "774",
+		"cpc": "0.213217",
+		"cpm": "6.059482",
+		"cpp": "12.755449",
+		"ctr": "2.841931",
+		"frequency": "2.105039",
+		"reach": "12938",
+		"spend": "165.03",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "3"
+			},
+			{
+				"action_type": "link_click",
+				"value": "6"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "11"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "85"
+			},
+			{
+				"action_type": "post",
+				"value": "52"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "412"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "569"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "569"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852889982170092",
+		"account_id": "295572612624483",
+		"impressions": "9016",
+		"clicks": "160",
+		"cpc": "0.372688",
+		"cpm": "6.613798",
+		"cpp": "11.098083",
+		"ctr": "1.774623",
+		"frequency": "1.67802",
+		"reach": "5373",
+		"spend": "59.63",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "3"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "34"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "63"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "108"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "108"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852987989800092",
+		"account_id": "295572612624483",
+		"impressions": "21091",
+		"clicks": "111",
+		"cpc": "1.809189",
+		"cpm": "9.521597",
+		"cpp": "19.230106",
+		"ctr": "0.526291",
+		"frequency": "2.01963",
+		"reach": "10443",
+		"spend": "200.82",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "26"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "16"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2517"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2560"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2560"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852988097550092",
+		"account_id": "295572612624483",
+		"impressions": "16846",
+		"clicks": "55",
+		"cpc": "2.968727",
+		"cpm": "9.692509",
+		"cpp": "21.332637",
+		"ctr": "0.326487",
+		"frequency": "2.200941",
+		"reach": "7654",
+		"spend": "163.28",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "16"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2018"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2038"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2038"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852988269110092",
+		"account_id": "295572612624483",
+		"impressions": "10593",
+		"clicks": "73",
+		"cpc": "1.830411",
+		"cpm": "12.61399",
+		"cpp": "24.790353",
+		"ctr": "0.689134",
+		"frequency": "1.965306",
+		"reach": "5390",
+		"spend": "133.62",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "22"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "16"
+			},
+			{
+				"action_type": "video_view",
+				"value": "597"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "635"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "635"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852988306820092",
+		"account_id": "295572612624483",
+		"impressions": "11224",
+		"clicks": "85",
+		"cpc": "1.567882",
+		"cpm": "11.873664",
+		"cpp": "23.233961",
+		"ctr": "0.757306",
+		"frequency": "1.956764",
+		"reach": "5736",
+		"spend": "133.27",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "30"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "20"
+			},
+			{
+				"action_type": "video_view",
+				"value": "600"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "651"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "651"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23850512453040034",
+		"account_id": "875572066232392",
+		"impressions": "10386",
+		"clicks": "79",
+		"cpc": "1.321899",
+		"cpm": "10.054882",
+		"cpp": "17.967997",
+		"ctr": "0.760639",
+		"frequency": "1.786992",
+		"reach": "5812",
+		"spend": "104.43",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "10"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "20"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1353"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1386"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1386"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23850945905450034",
+		"account_id": "875572066232392",
+		"impressions": "45928",
+		"clicks": "737",
+		"cpc": "0.568412",
+		"cpm": "9.121233",
+		"cpp": "17.714817",
+		"ctr": "1.604686",
+		"frequency": "1.942152",
+		"reach": "23648",
+		"spend": "418.92",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "comment",
+				"value": "11"
+			},
+			{
+				"action_type": "link_click",
+				"value": "70"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "61"
+			},
+			{
+				"action_type": "video_view",
+				"value": "7053"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "21"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "7202"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "7202"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23851460947570034",
+		"account_id": "875572066232392",
+		"impressions": "28624",
+		"clicks": "498",
+		"cpc": "0.419859",
+		"cpm": "7.304709",
+		"cpp": "19.001272",
+		"ctr": "1.739799",
+		"frequency": "2.601236",
+		"reach": "11004",
+		"spend": "209.09",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "47"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "66"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "26"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "16"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "147"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "147"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852543826190034",
+		"account_id": "875572066232392",
+		"impressions": "11319",
+		"clicks": "45",
+		"cpc": "2.909333",
+		"cpm": "11.566393",
+		"cpp": "17.381837",
+		"ctr": "0.397562",
+		"frequency": "1.502788",
+		"reach": "7532",
+		"spend": "130.92",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "32"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "34"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "34"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852543998610034",
+		"account_id": "875572066232392",
+		"impressions": "12929",
+		"clicks": "45",
+		"cpc": "2.859778",
+		"cpm": "9.953593",
+		"cpp": "15.463831",
+		"ctr": "0.348055",
+		"frequency": "1.553593",
+		"reach": "8322",
+		"spend": "128.69",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "38"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "38"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "38"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852544027080034",
+		"account_id": "875572066232392",
+		"impressions": "9474",
+		"clicks": "32",
+		"cpc": "3.998125",
+		"cpm": "13.504328",
+		"cpp": "20.288614",
+		"ctr": "0.337767",
+		"frequency": "1.502379",
+		"reach": "6306",
+		"spend": "127.94",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "24"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "25"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "25"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852677939940034",
+		"account_id": "875572066232392",
+		"impressions": "19429",
+		"clicks": "57",
+		"cpc": "3.375789",
+		"cpm": "9.903752",
+		"cpp": "19.397177",
+		"ctr": "0.293376",
+		"frequency": "1.958569",
+		"reach": "9920",
+		"spend": "192.42",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "50"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "52"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "52"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852948225210034",
+		"account_id": "875572066232392",
+		"impressions": "30197",
+		"clicks": "380",
+		"cpc": "0.2415",
+		"cpm": "3.039044",
+		"cpp": "6.536325",
+		"ctr": "1.258403",
+		"frequency": "2.150783",
+		"reach": "14040",
+		"spend": "91.77",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "221"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "227"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "227"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853080154240034",
+		"account_id": "875572066232392",
+		"impressions": "34920",
+		"clicks": "302",
+		"cpc": "1.088775",
+		"cpm": "9.416094",
+		"cpp": "25.937525",
+		"ctr": "0.864834",
+		"frequency": "2.754595",
+		"reach": "12677",
+		"spend": "328.81",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "82"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "42"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2822"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "12"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2946"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2946"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853089918710034",
+		"account_id": "875572066232392",
+		"impressions": "16351",
+		"clicks": "165",
+		"cpc": "0.984667",
+		"cpm": "9.936395",
+		"cpp": "26.66065",
+		"ctr": "1.009113",
+		"frequency": "2.683131",
+		"reach": "6094",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "53"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "12"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "65"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "65"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853090027650034",
+		"account_id": "875572066232392",
+		"impressions": "21599",
+		"clicks": "161",
+		"cpc": "1.00913",
+		"cpm": "7.522108",
+		"cpp": "21.542031",
+		"ctr": "0.745405",
+		"frequency": "2.863829",
+		"reach": "7542",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "66"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "72"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "72"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853090036650034",
+		"account_id": "875572066232392",
+		"impressions": "19045",
+		"clicks": "449",
+		"cpc": "0.361849",
+		"cpm": "8.530848",
+		"cpp": "21.171488",
+		"ctr": "2.357574",
+		"frequency": "2.481757",
+		"reach": "7674",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "84"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "48"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "7"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "144"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "144"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853760897840650",
+		"account_id": "4151784184913199",
+		"impressions": "10032",
+		"clicks": "61",
+		"cpc": "2.152459",
+		"cpm": "13.088118",
+		"cpp": "25.076394",
+		"ctr": "0.608054",
+		"frequency": "1.915966",
+		"reach": "5236",
+		"spend": "131.3",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "28"
+			},
+			{
+				"action_type": "post",
+				"value": "3"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "video_view",
+				"value": "609"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "650"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "650"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853760948260650",
+		"account_id": "4151784184913199",
+		"impressions": "10065",
+		"clicks": "63",
+		"cpc": "2.092857",
+		"cpm": "13.099851",
+		"cpp": "26.26494",
+		"ctr": "0.625931",
+		"frequency": "2.00498",
+		"reach": "5020",
+		"spend": "131.85",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "21"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "12"
+			},
+			{
+				"action_type": "video_view",
+				"value": "554"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "589"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "589"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852668546190387",
+		"account_id": "4087472977951779",
+		"impressions": "20329",
+		"clicks": "133",
+		"cpc": "1.909098",
+		"cpm": "12.490039",
+		"cpp": "26.823368",
+		"ctr": "0.654238",
+		"frequency": "2.147581",
+		"reach": "9466",
+		"spend": "253.91",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "28"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "18"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2246"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2297"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2297"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852668634410387",
+		"account_id": "4087472977951779",
+		"impressions": "14175",
+		"clicks": "71",
+		"cpc": "2.568169",
+		"cpm": "12.863492",
+		"cpp": "27.029351",
+		"ctr": "0.500882",
+		"frequency": "2.101245",
+		"reach": "6746",
+		"spend": "182.34",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1461"
+			},
+			{
+				"action_type": "link_click",
+				"value": "19"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1487"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1487"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852070152340093",
+		"account_id": "1067360354209953",
+		"impressions": "26325",
+		"clicks": "185",
+		"cpc": "0.540541",
+		"cpm": "3.79867",
+		"cpp": "4.079634",
+		"ctr": "0.702754",
+		"frequency": "1.073964",
+		"reach": "24512",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "185"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "198"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "198"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852070171820093",
+		"account_id": "1067360354209953",
+		"impressions": "6932",
+		"clicks": "195",
+		"cpc": "0.25641",
+		"cpm": "7.212926",
+		"cpp": "7.418398",
+		"ctr": "2.813041",
+		"frequency": "1.028487",
+		"reach": "6740",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "196"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "50"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2284"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2532"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2532"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852072199000093",
+		"account_id": "1067360354209953",
+		"impressions": "1703",
+		"clicks": "13",
+		"cpc": "0.951538",
+		"cpm": "7.263652",
+		"cpp": "7.794581",
+		"ctr": "0.763359",
+		"frequency": "1.073094",
+		"reach": "1587",
+		"spend": "12.37",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "21"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852074794720093",
+		"account_id": "1067360354209953",
+		"impressions": "20274",
+		"clicks": "118",
+		"cpc": "0.847458",
+		"cpm": "4.932426",
+		"cpp": "5.812602",
+		"ctr": "0.582026",
+		"frequency": "1.178447",
+		"reach": "17204",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "119"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "119"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "119"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852089805410093",
+		"account_id": "1067360354209953",
+		"impressions": "37140",
+		"clicks": "254",
+		"cpc": "0.590551",
+		"cpm": "4.038772",
+		"cpp": "4.468541",
+		"ctr": "0.683899",
+		"frequency": "1.106411",
+		"reach": "33568",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "258"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "260"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "260"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852110344990093",
+		"account_id": "1067360354209953",
+		"impressions": "14489",
+		"clicks": "495",
+		"cpc": "0.080808",
+		"cpm": "2.760715",
+		"cpp": "2.881844",
+		"ctr": "3.416385",
+		"frequency": "1.043876",
+		"reach": "13880",
+		"spend": "40",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "496"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "69"
+			},
+			{
+				"action_type": "video_view",
+				"value": "5052"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5629"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5629"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852110441150093",
+		"account_id": "1067360354209953",
+		"impressions": "59003",
+		"clicks": "248",
+		"cpc": "0.604839",
+		"cpm": "2.542244",
+		"cpp": "2.789348",
+		"ctr": "0.420318",
+		"frequency": "1.097199",
+		"reach": "53776",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "249"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "251"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "251"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852114737960093",
+		"account_id": "1067360354209953",
+		"impressions": "9081",
+		"clicks": "85",
+		"cpc": "0.588235",
+		"cpm": "5.506002",
+		"cpp": "6.021195",
+		"ctr": "0.93602",
+		"frequency": "1.093569",
+		"reach": "8304",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "88"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "17"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "112"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "111"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852118543600093",
+		"account_id": "1067360354209953",
+		"impressions": "48726",
+		"clicks": "685",
+		"cpc": "0.218978",
+		"cpm": "3.078439",
+		"cpp": "3.997868",
+		"ctr": "1.40582",
+		"frequency": "1.298667",
+		"reach": "37520",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "713"
+			},
+			{
+				"action_type": "post",
+				"value": "36"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "4596"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "19"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "97"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5354"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5354"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852122913150093",
+		"account_id": "1067360354209953",
+		"impressions": "9959",
+		"clicks": "274",
+		"cpc": "0.182482",
+		"cpm": "5.020584",
+		"cpp": "5.393743",
+		"ctr": "2.75128",
+		"frequency": "1.074326",
+		"reach": "9270",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "278"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "166"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "447"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "447"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852136054000093",
+		"account_id": "1067360354209953",
+		"impressions": "29966",
+		"clicks": "127",
+		"cpc": "0.787402",
+		"cpm": "3.337115",
+		"cpp": "3.634778",
+		"ctr": "0.423814",
+		"frequency": "1.089197",
+		"reach": "27512",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "128"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "130"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "130"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852136089520093",
+		"account_id": "1067360354209953",
+		"impressions": "21967",
+		"clicks": "162",
+		"cpc": "0.617284",
+		"cpm": "4.552283",
+		"cpp": "5.129257",
+		"ctr": "0.73747",
+		"frequency": "1.126744",
+		"reach": "19496",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "163"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "12"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "235"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "182"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852136112260093",
+		"account_id": "1067360354209953",
+		"impressions": "8053",
+		"clicks": "489",
+		"cpc": "0.102249",
+		"cpm": "6.208866",
+		"cpp": "6.361323",
+		"ctr": "6.072271",
+		"frequency": "1.024555",
+		"reach": "7860",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "488"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "26"
+			},
+			{
+				"action_type": "video_view",
+				"value": "3524"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "4044"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "4044"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852136121050093",
+		"account_id": "1067360354209953",
+		"impressions": "13190",
+		"clicks": "239",
+		"cpc": "0.41841",
+		"cpm": "7.581501",
+		"cpp": "9.248127",
+		"ctr": "1.811979",
+		"frequency": "1.219828",
+		"reach": "10813",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "252"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "30"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2042"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2333"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2333"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852136140050093",
+		"account_id": "1067360354209953",
+		"impressions": "74966",
+		"clicks": "322",
+		"cpc": "0.621118",
+		"cpm": "2.667876",
+		"cpp": "3.236665",
+		"ctr": "0.429528",
+		"frequency": "1.213199",
+		"reach": "61792",
+		"spend": "200",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "324"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "81"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "467"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "419"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852160323610093",
+		"account_id": "1067360354209953",
+		"impressions": "50239",
+		"clicks": "227",
+		"cpc": "0.594714",
+		"cpm": "2.687155",
+		"cpp": "3.052641",
+		"ctr": "0.45184",
+		"frequency": "1.136012",
+		"reach": "44224",
+		"spend": "135",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "225"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "229"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "229"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852276158640093",
+		"account_id": "1067360354209953",
+		"impressions": "6134",
+		"clicks": "28",
+		"cpc": "1.285714",
+		"cpm": "5.868927",
+		"cpp": "8.701958",
+		"ctr": "0.456472",
+		"frequency": "1.482717",
+		"reach": "4137",
+		"spend": "36",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "28"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "28"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852396639000093",
+		"account_id": "1067360354209953",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "9"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "9"
+			}
+		],
+		"impressions": "251069",
+		"clicks": "1386",
+		"cpc": "1.616162",
+		"cpm": "8.92185",
+		"cpp": "30.30262",
+		"ctr": "0.552039",
+		"frequency": "3.39645",
+		"reach": "73921",
+		"spend": "2240",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "12"
+			},
+			{
+				"action_type": "link_click",
+				"value": "420"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "484"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "43"
+			},
+			{
+				"action_type": "post",
+				"value": "29"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "8"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "183"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "988"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "988"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852458658920093",
+		"account_id": "1067360354209953",
+		"impressions": "587469",
+		"clicks": "2593",
+		"cpc": "0.691755",
+		"cpm": "3.053302",
+		"cpp": "7.440722",
+		"ctr": "0.441385",
+		"frequency": "2.436943",
+		"reach": "241068",
+		"spend": "1793.72",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "2615"
+			},
+			{
+				"action_type": "post",
+				"value": "17"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "27"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2632"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2632"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852459439210093",
+		"account_id": "1067360354209953",
+		"impressions": "240885",
+		"clicks": "783",
+		"cpc": "2.201418",
+		"cpm": "7.155738",
+		"cpp": "24.863832",
+		"ctr": "0.325051",
+		"frequency": "3.47467",
+		"reach": "69326",
+		"spend": "1723.71",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "24"
+			},
+			{
+				"action_type": "link_click",
+				"value": "295"
+			},
+			{
+				"action_type": "post",
+				"value": "23"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "320"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "103"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "666"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "666"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852470008040093",
+		"account_id": "1067360354209953",
+		"impressions": "24892",
+		"clicks": "71",
+		"cpc": "1.098592",
+		"cpm": "3.133537",
+		"cpp": "3.541591",
+		"ctr": "0.285232",
+		"frequency": "1.130222",
+		"reach": "22024",
+		"spend": "78",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "72"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "72"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "72"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852472177230093",
+		"account_id": "1067360354209953",
+		"impressions": "7337",
+		"clicks": "54",
+		"cpc": "1.925926",
+		"cpm": "14.174731",
+		"cpp": "18.54163",
+		"ctr": "0.735996",
+		"frequency": "1.308076",
+		"reach": "5609",
+		"spend": "104",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "34"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "59"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "58"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852476290560093",
+		"account_id": "1067360354209953",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "20"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "20"
+			}
+		],
+		"impressions": "113568",
+		"clicks": "1485",
+		"cpc": "0.880088",
+		"cpm": "11.507907",
+		"cpp": "24.948554",
+		"ctr": "1.307587",
+		"frequency": "2.167949",
+		"reach": "52385",
+		"spend": "1306.93",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "383"
+			},
+			{
+				"action_type": "post",
+				"value": "125"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "420"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "48"
+			},
+			{
+				"action_type": "comment",
+				"value": "32"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "7"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "190"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "20"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1008"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1008"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852476362490093",
+		"account_id": "1067360354209953",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "120212",
+		"clicks": "791",
+		"cpc": "1.65158",
+		"cpm": "10.867467",
+		"cpp": "28.184329",
+		"ctr": "0.658004",
+		"frequency": "2.593459",
+		"reach": "46352",
+		"spend": "1306.4",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "25"
+			},
+			{
+				"action_type": "post",
+				"value": "25"
+			},
+			{
+				"action_type": "link_click",
+				"value": "199"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "302"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "105"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "556"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "556"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852498589300093",
+		"account_id": "1067360354209953",
+		"impressions": "14932",
+		"clicks": "141",
+		"cpc": "1.888298",
+		"cpm": "17.830833",
+		"cpp": "34.056025",
+		"ctr": "0.944281",
+		"frequency": "1.909951",
+		"reach": "7818",
+		"spend": "266.25",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "36"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "69"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "21"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "122"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "122"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852499960930093",
+		"account_id": "1067360354209953",
+		"impressions": "26412",
+		"clicks": "110",
+		"cpc": "0.963636",
+		"cpm": "4.013327",
+		"cpp": "4.733834",
+		"ctr": "0.416477",
+		"frequency": "1.179528",
+		"reach": "22392",
+		"spend": "106",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "110"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "110"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "110"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852517914590093",
+		"account_id": "1067360354209953",
+		"impressions": "24249",
+		"clicks": "107",
+		"cpc": "0.981028",
+		"cpm": "4.328838",
+		"cpp": "5.007155",
+		"ctr": "0.441255",
+		"frequency": "1.156697",
+		"reach": "20964",
+		"spend": "104.97",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "107"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "108"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "108"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852519524720093",
+		"account_id": "1067360354209953",
+		"impressions": "13979",
+		"clicks": "147",
+		"cpc": "0.71415",
+		"cpm": "7.509836",
+		"cpp": "8.344992",
+		"ctr": "1.051577",
+		"frequency": "1.111208",
+		"reach": "12580",
+		"spend": "104.98",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "147"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "46"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "207"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "205"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852519765210093",
+		"account_id": "1067360354209953",
+		"impressions": "7919",
+		"clicks": "38",
+		"cpc": "1.973684",
+		"cpm": "9.470893",
+		"cpp": "10.856977",
+		"ctr": "0.479859",
+		"frequency": "1.146352",
+		"reach": "6908",
+		"spend": "75",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "39"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "34"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "74"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "74"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852523505170093",
+		"account_id": "1067360354209953",
+		"impressions": "3191",
+		"clicks": "13",
+		"cpc": "4.15",
+		"cpm": "16.906926",
+		"cpp": "34.319338",
+		"ctr": "0.407396",
+		"frequency": "2.029898",
+		"reach": "1572",
+		"spend": "53.95",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "14"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "15"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "15"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852528072520093",
+		"account_id": "1067360354209953",
+		"impressions": "27995",
+		"clicks": "605",
+		"cpc": "0.216529",
+		"cpm": "4.679407",
+		"cpp": "6.10438",
+		"ctr": "2.1611",
+		"frequency": "1.30452",
+		"reach": "21460",
+		"spend": "131",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "648"
+			},
+			{
+				"action_type": "post",
+				"value": "16"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2686"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "19"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "116"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3352"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3352"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852540754230093",
+		"account_id": "1067360354209953",
+		"impressions": "1662",
+		"clicks": "27",
+		"cpc": "1.37037",
+		"cpm": "22.262335",
+		"cpp": "26.33452",
+		"ctr": "1.624549",
+		"frequency": "1.182918",
+		"reach": "1405",
+		"spend": "37",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "26"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "32"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852565552510093",
+		"account_id": "1067360354209953",
+		"impressions": "22201",
+		"clicks": "201",
+		"cpc": "0.512438",
+		"cpm": "4.639431",
+		"cpp": "5.300535",
+		"ctr": "0.905365",
+		"frequency": "1.142497",
+		"reach": "19432",
+		"spend": "103",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "211"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "19"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2537"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2769"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2769"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852589210160093",
+		"account_id": "1067360354209953",
+		"impressions": "36491",
+		"clicks": "126",
+		"cpc": "0.571429",
+		"cpm": "1.973089",
+		"cpp": "2.317199",
+		"ctr": "0.345291",
+		"frequency": "1.174401",
+		"reach": "31072",
+		"spend": "72",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "127"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "127"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "127"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852637965650093",
+		"account_id": "1067360354209953",
+		"impressions": "24742",
+		"clicks": "62",
+		"cpc": "0.83871",
+		"cpm": "2.101689",
+		"cpp": "2.585778",
+		"ctr": "0.250586",
+		"frequency": "1.230333",
+		"reach": "20110",
+		"spend": "52",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "62"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "63"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "63"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852655162540093",
+		"account_id": "1067360354209953",
+		"impressions": "31335",
+		"clicks": "419",
+		"cpc": "0.24821",
+		"cpm": "3.318972",
+		"cpp": "4.234183",
+		"ctr": "1.337163",
+		"frequency": "1.275751",
+		"reach": "24562",
+		"spend": "104",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "444"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2687"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "58"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3152"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3152"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852656743890093",
+		"account_id": "1067360354209953",
+		"impressions": "27227",
+		"clicks": "278",
+		"cpc": "0.359676",
+		"cpm": "3.672457",
+		"cpp": "4.066122",
+		"ctr": "1.021045",
+		"frequency": "1.107194",
+		"reach": "24591",
+		"spend": "99.99",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "283"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "176"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "484"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "468"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852667777900093",
+		"account_id": "1067360354209953",
+		"impressions": "37075",
+		"clicks": "416",
+		"cpc": "0.314712",
+		"cpm": "3.531221",
+		"cpp": "4.456244",
+		"ctr": "1.12205",
+		"frequency": "1.261956",
+		"reach": "29379",
+		"spend": "130.92",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "439"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "9"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2733"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "59"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3194"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3194"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852669385110093",
+		"account_id": "1067360354209953",
+		"impressions": "16927",
+		"clicks": "85",
+		"cpc": "0.729412",
+		"cpm": "3.662787",
+		"cpp": "5.588103",
+		"ctr": "0.502156",
+		"frequency": "1.525642",
+		"reach": "11095",
+		"spend": "62",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "87"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "88"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "88"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852713476280093",
+		"account_id": "1067360354209953",
+		"impressions": "58982",
+		"clicks": "611",
+		"cpc": "0.261866",
+		"cpm": "2.712692",
+		"cpp": "3.586157",
+		"ctr": "1.035909",
+		"frequency": "1.321992",
+		"reach": "44616",
+		"spend": "160",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "625"
+			},
+			{
+				"action_type": "post",
+				"value": "18"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "23"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "63"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "643"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "643"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852729599630093",
+		"account_id": "1067360354209953",
+		"impressions": "15081",
+		"clicks": "97",
+		"cpc": "0.752577",
+		"cpm": "4.840528",
+		"cpp": "5.027548",
+		"ctr": "0.643193",
+		"frequency": "1.038636",
+		"reach": "14520",
+		"spend": "73",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "97"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "63"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "181"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "161"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852779281190093",
+		"account_id": "1067360354209953",
+		"impressions": "29212",
+		"clicks": "303",
+		"cpc": "0.244224",
+		"cpm": "2.533206",
+		"cpp": "2.791189",
+		"ctr": "1.037245",
+		"frequency": "1.101841",
+		"reach": "26512",
+		"spend": "74",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "305"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "306"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "306"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852779739010093",
+		"account_id": "1067360354209953",
+		"impressions": "6814",
+		"clicks": "114",
+		"cpc": "0.315614",
+		"cpm": "5.280305",
+		"cpp": "5.503212",
+		"ctr": "1.673026",
+		"frequency": "1.042215",
+		"reach": "6538",
+		"spend": "35.98",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "15"
+			},
+			{
+				"action_type": "link_click",
+				"value": "114"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "99"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "265"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "241"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852793933990093",
+		"account_id": "1067360354209953",
+		"impressions": "6780",
+		"clicks": "78",
+		"cpc": "0.212564",
+		"cpm": "2.445428",
+		"cpp": "2.522824",
+		"ctr": "1.150442",
+		"frequency": "1.031649",
+		"reach": "6572",
+		"spend": "16.58",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "79"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "79"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "79"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23850508184780181",
+		"account_id": "400516895251196",
+		"impressions": "300586",
+		"clicks": "1963",
+		"cpc": "1.374274",
+		"cpm": "8.974803",
+		"cpp": "35.895628",
+		"ctr": "0.653058",
+		"frequency": "3.999601",
+		"reach": "75154",
+		"spend": "2697.7",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "30257"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "597"
+			},
+			{
+				"action_type": "post",
+				"value": "65"
+			},
+			{
+				"action_type": "link_click",
+				"value": "855"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "50"
+			},
+			{
+				"action_type": "comment",
+				"value": "37"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "432"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "31861"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "31861"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23851975299780719",
+		"account_id": "1743636892663201",
+		"impressions": "89110",
+		"clicks": "1577",
+		"cpc": "0.509696",
+		"cpm": "9.0202",
+		"cpp": "22.746413",
+		"ctr": "1.769723",
+		"frequency": "2.521719",
+		"reach": "35337",
+		"spend": "803.79",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "229"
+			},
+			{
+				"action_type": "post",
+				"value": "20"
+			},
+			{
+				"action_type": "link_click",
+				"value": "713"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "27"
+			},
+			{
+				"action_type": "comment",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "265"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "998"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "998"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852620558980044",
+		"account_id": "270650331445899",
+		"impressions": "40311",
+		"clicks": "1353",
+		"cpc": "0.486866",
+		"cpm": "16.341197",
+		"cpp": "46.210452",
+		"ctr": "3.356404",
+		"frequency": "2.82785",
+		"reach": "14255",
+		"spend": "658.73",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "comment",
+				"value": "31"
+			},
+			{
+				"action_type": "link_click",
+				"value": "433"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "277"
+			},
+			{
+				"action_type": "video_view",
+				"value": "3540"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "227"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "4294"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "4294"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852646709710765",
+		"account_id": "342694184711341",
+		"impressions": "29232",
+		"clicks": "492",
+		"cpc": "0.34811",
+		"cpm": "5.85899",
+		"cpp": "9.294513",
+		"ctr": "1.683087",
+		"frequency": "1.586368",
+		"reach": "18427",
+		"spend": "171.27",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "101"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "58"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "110"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "110"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852646828120765",
+		"account_id": "342694184711341",
+		"impressions": "13408",
+		"clicks": "140",
+		"cpc": "1.222643",
+		"cpm": "12.766259",
+		"cpp": "22.804423",
+		"ctr": "1.044153",
+		"frequency": "1.786304",
+		"reach": "7506",
+		"spend": "171.17",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "65"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "26"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "65"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "65"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853284554920620",
+		"account_id": "174477231018854",
+		"impressions": "8566",
+		"clicks": "210",
+		"cpc": "0.627905",
+		"cpm": "15.393416",
+		"cpp": "23.67325",
+		"ctr": "2.451553",
+		"frequency": "1.537882",
+		"reach": "5570",
+		"spend": "131.86",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "5"
+			},
+			{
+				"action_type": "post",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "59"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "76"
+			},
+			{
+				"action_type": "video_view",
+				"value": "823"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "6"
+			},
+			{
+				"action_type": "onsite_conversion.view_content",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "17"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_search",
+				"value": "1"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "976"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "976"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "9"
+			},
+			{
+				"action_type": "omni_search",
+				"value": "1"
+			},
+			{
+				"action_type": "search",
+				"value": "1"
+			},
+			{
+				"action_type": "view_content",
+				"value": "6"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852936273060602",
+		"account_id": "965051157423153",
+		"impressions": "47495",
+		"clicks": "1126",
+		"cpc": "0.315551",
+		"cpm": "7.480998",
+		"cpp": "12.617991",
+		"ctr": "2.370776",
+		"frequency": "1.686672",
+		"reach": "28159",
+		"spend": "355.31",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "8"
+			},
+			{
+				"action_type": "comment",
+				"value": "7"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "684"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "239"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "147"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "943"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "943"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853280392150504",
+		"account_id": "1213358582729786",
+		"impressions": "229860",
+		"clicks": "938",
+		"cpc": "1.383667",
+		"cpm": "5.646393",
+		"cpp": "17.814563",
+		"ctr": "0.408074",
+		"frequency": "3.155034",
+		"reach": "72855",
+		"spend": "1297.88",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "37"
+			},
+			{
+				"action_type": "link_click",
+				"value": "331"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "153"
+			},
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "110"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "536"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "536"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852515504730363",
+		"account_id": "950862468692256",
+		"impressions": "25344",
+		"clicks": "279",
+		"cpc": "1.750609",
+		"cpm": "19.271622",
+		"cpp": "37.596798",
+		"ctr": "1.100852",
+		"frequency": "1.950889",
+		"reach": "12991",
+		"spend": "488.42",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "126"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "16"
+			},
+			{
+				"action_type": "video_view",
+				"value": "778"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "923"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "923"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "15"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "15"
+			},
+			{
+				"action_type": "lead",
+				"value": "15"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852674997040363",
+		"account_id": "950862468692256",
+		"impressions": "5134",
+		"clicks": "40",
+		"cpc": "3.0035",
+		"cpm": "23.400857",
+		"cpp": "33.766161",
+		"ctr": "0.77912",
+		"frequency": "1.442945",
+		"reach": "3558",
+		"spend": "120.14",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "21"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "23"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "3"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "3"
+			},
+			{
+				"action_type": "lead",
+				"value": "3"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852226298850653",
+		"account_id": "3018739935085616",
+		"impressions": "162482",
+		"clicks": "5849",
+		"cpc": "0.317736",
+		"cpm": "11.437821",
+		"cpp": "28.988754",
+		"ctr": "3.599783",
+		"frequency": "2.534465",
+		"reach": "64109",
+		"spend": "1858.44",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "33798"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "615"
+			},
+			{
+				"action_type": "post",
+				"value": "47"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1655"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "48"
+			},
+			{
+				"action_type": "comment",
+				"value": "103"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "16"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1046"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "36266"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "36266"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23852226665490653",
+		"account_id": "3018739935085616",
+		"impressions": "336814",
+		"clicks": "7589",
+		"cpc": "0.291074",
+		"cpm": "6.558397",
+		"cpp": "14.744093",
+		"ctr": "2.253172",
+		"frequency": "2.248124",
+		"reach": "149820",
+		"spend": "2208.96",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "55031"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1021"
+			},
+			{
+				"action_type": "post",
+				"value": "112"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1865"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "205"
+			},
+			{
+				"action_type": "comment",
+				"value": "57"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "18"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1324"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "58291"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "58291"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853386097730195",
+		"account_id": "1288644968294464",
+		"impressions": "59396",
+		"clicks": "471",
+		"cpc": "1.949066",
+		"cpm": "15.455755",
+		"cpp": "36.13359",
+		"ctr": "0.792983",
+		"frequency": "2.337873",
+		"reach": "25406",
+		"spend": "918.01",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "11561"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "31"
+			},
+			{
+				"action_type": "post",
+				"value": "18"
+			},
+			{
+				"action_type": "link_click",
+				"value": "136"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "40"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "11756"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "11756"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853115825900610",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "19227",
+		"clicks": "131",
+		"cpc": "1.952977",
+		"cpm": "13.306288",
+		"cpp": "20.612311",
+		"ctr": "0.681334",
+		"frequency": "1.549065",
+		"reach": "12412",
+		"spend": "255.84",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "78"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "23"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "11"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "53"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "2391"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "83"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "83"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "23"
+			},
+			{
+				"action_type": "lead",
+				"value": "11"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "2391"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "23"
+			},
+			{
+				"action_type": "view_content",
+				"value": "2391"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853117291580610",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "15"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "15"
+			}
+		],
+		"impressions": "90707",
+		"clicks": "1073",
+		"cpc": "1.602749",
+		"cpm": "18.959397",
+		"cpp": "33.969699",
+		"ctr": "1.18293",
+		"frequency": "1.791708",
+		"reach": "50626",
+		"spend": "1719.75",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "564"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "122"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "327"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "109"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "15"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "63"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "426"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "692"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "692"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "109"
+			},
+			{
+				"action_type": "lead",
+				"value": "63"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "426"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "109"
+			},
+			{
+				"action_type": "view_content",
+				"value": "426"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853117431220610",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "29"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "29"
+			}
+		],
+		"impressions": "103411",
+		"clicks": "1267",
+		"cpc": "1.517861",
+		"cpm": "18.596958",
+		"cpp": "33.352931",
+		"ctr": "1.225208",
+		"frequency": "1.793462",
+		"reach": "57660",
+		"spend": "1923.13",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "16"
+			},
+			{
+				"action_type": "link_click",
+				"value": "809"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "79"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "29"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "692"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "173"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "83"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "856"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "918"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "918"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "173"
+			},
+			{
+				"action_type": "lead",
+				"value": "83"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "856"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "173"
+			},
+			{
+				"action_type": "view_content",
+				"value": "856"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"campaign_id": "23853129475800610",
+		"account_id": "2300449873536260",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "57352",
+		"clicks": "307",
+		"cpc": "3.851075",
+		"cpm": "20.614451",
+		"cpp": "29.909181",
+		"ctr": "0.535291",
+		"frequency": "1.450884",
+		"reach": "39529",
+		"spend": "1182.28",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "170"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "62"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "100"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "1715"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "30"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "14"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "249"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "249"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "1715"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "30"
+			},
+			{
+				"action_type": "lead",
+				"value": "14"
+			},
+			{
+				"action_type": "view_content",
+				"value": "1715"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	}
+]

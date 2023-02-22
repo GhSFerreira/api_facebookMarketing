@@ -6,10 +6,10 @@ const fs = require('fs');
 const path = require('path');
 
 /* --- Configurações do axios --- */
-axios.defaults.timeout = 60000
+/* axios.defaults.timeout = 60000
 axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
-
+ */
 
 module.exports = {
     

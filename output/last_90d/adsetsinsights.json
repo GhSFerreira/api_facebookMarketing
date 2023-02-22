@@ -1,0 +1,9156 @@
+[
+	{
+		"account_id": "1224883661342179",
+		"campaign_id": "23853898530980678",
+		"adset_id": "23853898530900678",
+		"adset_name": "BELEZA",
+		"impressions": "7043",
+		"clicks": "87",
+		"cpc": "1.976322",
+		"cpm": "24.412892",
+		"cpp": "43.364439",
+		"ctr": "1.235269",
+		"frequency": "1.776293",
+		"reach": "3965",
+		"spend": "171.94",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "33"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1134"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "10"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1168"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1168"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1224883661342179",
+		"campaign_id": "23853898530980678",
+		"adset_id": "23853898530970678",
+		"adset_name": "ABERTO",
+		"impressions": "9593",
+		"clicks": "119",
+		"cpc": "2.203193",
+		"cpm": "27.330345",
+		"cpp": "56.921407",
+		"ctr": "1.240488",
+		"frequency": "2.082718",
+		"reach": "4606",
+		"spend": "262.18",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "53"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1515"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "23"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1574"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1574"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "777481793418802",
+		"campaign_id": "23853412361040324",
+		"adset_id": "23853412361120324",
+		"adset_name": "00 - [ESTÉTICA]",
+		"impressions": "1684",
+		"clicks": "21",
+		"cpc": "1.548571",
+		"cpm": "19.311164",
+		"cpp": "26.942833",
+		"ctr": "1.247031",
+		"frequency": "1.395195",
+		"reach": "1207",
+		"spend": "32.52",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "681552533401703",
+		"campaign_id": "23852851139380290",
+		"adset_id": "23852851139840290",
+		"adset_name": "ABERTO 25 A 45 FEM",
+		"impressions": "16102",
+		"clicks": "100",
+		"cpc": "1.8262",
+		"cpm": "11.341448",
+		"cpp": "19.477389",
+		"ctr": "0.621041",
+		"frequency": "1.717363",
+		"reach": "9376",
+		"spend": "182.62",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "18"
+			},
+			{
+				"action_type": "link_click",
+				"value": "29"
+			},
+			{
+				"action_type": "video_view",
+				"value": "175"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "18"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "229"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "229"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "681552533401703",
+		"campaign_id": "23852851139380290",
+		"adset_id": "23852853400990290",
+		"adset_name": "ESTÉTICA 25 A 45 FEM",
+		"impressions": "15190",
+		"clicks": "98",
+		"cpc": "2.286531",
+		"cpm": "14.75181",
+		"cpp": "24.953229",
+		"ctr": "0.645161",
+		"frequency": "1.691537",
+		"reach": "8980",
+		"spend": "224.08",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "872"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "16"
+			},
+			{
+				"action_type": "link_click",
+				"value": "30"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "14"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "923"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "923"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850265619550116",
+		"adset_id": "23850265827280116",
+		"adset_name": "Qualidade de vida",
+		"impressions": "293479",
+		"clicks": "3846",
+		"cpc": "0.866414",
+		"cpm": "11.354237",
+		"cpp": "33.281696",
+		"ctr": "1.310486",
+		"frequency": "2.931214",
+		"reach": "100122",
+		"spend": "3332.23",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "47585"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "721"
+			},
+			{
+				"action_type": "link_click",
+				"value": "892"
+			},
+			{
+				"action_type": "comment",
+				"value": "43"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "53"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "220"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "49304"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "49304"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850369385460116",
+		"adset_id": "23850369385560116",
+		"adset_name": "ABERTO",
+		"impressions": "220141",
+		"clicks": "2892",
+		"cpc": "1.071314",
+		"cpm": "14.073889",
+		"cpp": "34.088549",
+		"ctr": "1.313703",
+		"frequency": "2.422113",
+		"reach": "90888",
+		"spend": "3098.24",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "44048"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "793"
+			},
+			{
+				"action_type": "link_click",
+				"value": "847"
+			},
+			{
+				"action_type": "comment",
+				"value": "38"
+			},
+			{
+				"action_type": "post",
+				"value": "49"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "212"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "45779"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "45779"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850265619550116",
+		"adset_id": "23851306035670116",
+		"adset_name": "ALTA RENDA",
+		"impressions": "82419",
+		"clicks": "885",
+		"cpc": "1.239096",
+		"cpm": "13.305184",
+		"cpp": "34.036874",
+		"ctr": "1.073782",
+		"frequency": "2.558166",
+		"reach": "32218",
+		"spend": "1096.6",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "video_view",
+				"value": "12012"
+			},
+			{
+				"action_type": "link_click",
+				"value": "349"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "108"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "comment",
+				"value": "7"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "59"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "12488"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "12488"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3257630361162338",
+		"campaign_id": "23850369385460116",
+		"adset_id": "23851306200230116",
+		"adset_name": "ALTA RENDA",
+		"impressions": "103146",
+		"clicks": "1487",
+		"cpc": "0.853228",
+		"cpm": "12.300525",
+		"cpp": "34.230406",
+		"ctr": "1.441646",
+		"frequency": "2.782841",
+		"reach": "37065",
+		"spend": "1268.75",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "17"
+			},
+			{
+				"action_type": "video_view",
+				"value": "15745"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "188"
+			},
+			{
+				"action_type": "link_click",
+				"value": "371"
+			},
+			{
+				"action_type": "comment",
+				"value": "28"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "64"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16355"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16355"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23852459354740738",
+		"adset_id": "23852459354800738",
+		"adset_name": "BOTOX - NOVEMBRO - VENDAS",
+		"impressions": "83848",
+		"clicks": "734",
+		"cpc": "1.970613",
+		"cpm": "17.25062",
+		"cpp": "84.173068",
+		"ctr": "0.875394",
+		"frequency": "4.879423",
+		"reach": "17184",
+		"spend": "1446.43",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "186"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "137"
+			},
+			{
+				"action_type": "video_view",
+				"value": "16008"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16345"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16345"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23852766884780738",
+		"adset_id": "23852766884770738",
+		"adset_name": "BOTOX - DEZEMBRO - NATAL E FIM DE ANO 2",
+		"impressions": "93299",
+		"clicks": "865",
+		"cpc": "1.168266",
+		"cpm": "10.831306",
+		"cpp": "64.580138",
+		"ctr": "0.927127",
+		"frequency": "5.962359",
+		"reach": "15648",
+		"spend": "1010.55",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "217"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "144"
+			},
+			{
+				"action_type": "video_view",
+				"value": "11980"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "12353"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "12353"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853306487500738",
+		"adset_id": "23853306487490738",
+		"adset_name": "AB 28 a 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4655",
+		"clicks": "39",
+		"cpc": "1.688718",
+		"cpm": "14.148228",
+		"cpp": "26.114195",
+		"ctr": "0.837809",
+		"frequency": "1.845757",
+		"reach": "2522",
+		"spend": "65.86",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "688"
+			},
+			{
+				"action_type": "link_click",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "697"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "697"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853306487500738",
+		"adset_id": "23853306498920738",
+		"adset_name": "AB 28 a 64+ FEM - BTX 8 FEV 23 CARD (CN)",
+		"impressions": "5295",
+		"clicks": "26",
+		"cpc": "2.521923",
+		"cpm": "12.383381",
+		"cpp": "23.468146",
+		"ctr": "0.491029",
+		"frequency": "1.895132",
+		"reach": "2794",
+		"spend": "65.57",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "14"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "6"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "20"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "20"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853306516560738",
+		"adset_id": "23853306516570738",
+		"adset_name": "AB 28 a 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4817",
+		"clicks": "36",
+		"cpc": "1.833333",
+		"cpm": "13.701474",
+		"cpp": "26.117926",
+		"ctr": "0.747353",
+		"frequency": "1.906213",
+		"reach": "2527",
+		"spend": "66",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "740"
+			},
+			{
+				"action_type": "link_click",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "752"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "752"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4175309355897018",
+		"campaign_id": "23853306516560738",
+		"adset_id": "23853306516590738",
+		"adset_name": "AB 28 a 64+ FEM - BTX 8 FEV 23 CARD (CN)",
+		"impressions": "6443",
+		"clicks": "23",
+		"cpc": "2.858696",
+		"cpm": "10.204874",
+		"cpp": "20.324575",
+		"ctr": "0.356977",
+		"frequency": "1.991654",
+		"reach": "3235",
+		"spend": "65.75",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "17"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "19"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "19"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6312950275348",
+		"adset_id": "6312950274748",
+		"adset_name": "DEPILAÇÃO - VENDAS - NOVEMBRO BLACK 4 - INSTAGRAM",
+		"impressions": "49414",
+		"clicks": "222",
+		"cpc": "2.235",
+		"cpm": "10.041081",
+		"cpp": "40.117238",
+		"ctr": "0.449265",
+		"frequency": "3.99531",
+		"reach": "12368",
+		"spend": "496.17",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "58"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "25"
+			},
+			{
+				"action_type": "video_view",
+				"value": "5682"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "8"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5766"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5766"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6314960029748",
+		"adset_id": "6314960031348",
+		"adset_name": "DEPILAÇÃO - CONJUNTO DEZEMBRO",
+		"impressions": "206259",
+		"clicks": "1156",
+		"cpc": "1.915709",
+		"cpm": "10.736792",
+		"cpp": "83.379518",
+		"ctr": "0.56046",
+		"frequency": "7.765776",
+		"reach": "26560",
+		"spend": "2214.56",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "279"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "103"
+			},
+			{
+				"action_type": "video_view",
+				"value": "23060"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "26"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23451"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "23451"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6315079801348",
+		"adset_id": "6315079801148",
+		"adset_name": "DEPILAÇÃO - CONJUNTO DEZEMBRO NATAL",
+		"impressions": "311661",
+		"clicks": "1344",
+		"cpc": "2.171443",
+		"cpm": "9.364085",
+		"cpp": "118.135525",
+		"ctr": "0.431238",
+		"frequency": "12.615811",
+		"reach": "24704",
+		"spend": "2918.42",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "446"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "137"
+			},
+			{
+				"action_type": "video_view",
+				"value": "20136"
+			},
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "27"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "20735"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "20735"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323121976548",
+		"adset_id": "6323121975548",
+		"adset_name": "AB 25 A 45 FEM - DEP 11 FEV 23 COPY",
+		"impressions": "6177",
+		"clicks": "31",
+		"cpc": "1.918387",
+		"cpm": "9.627651",
+		"cpp": "20.656478",
+		"ctr": "0.501862",
+		"frequency": "2.145537",
+		"reach": "2879",
+		"spend": "59.47",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "3"
+			},
+			{
+				"action_type": "video_view",
+				"value": "402"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "413"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "413"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323121976548",
+		"adset_id": "6323122792748",
+		"adset_name": "AB 25 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "5323",
+		"clicks": "29",
+		"cpc": "2.053793",
+		"cpm": "11.189179",
+		"cpp": "24.359918",
+		"ctr": "0.544806",
+		"frequency": "2.177096",
+		"reach": "2445",
+		"spend": "59.56",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "521"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "529"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "529"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323121976548",
+		"adset_id": "6323123015948",
+		"adset_name": "AB 25 A 45 FEM - DEP 14 FEV 23 COPY",
+		"impressions": "5813",
+		"clicks": "30",
+		"cpc": "1.977333",
+		"cpm": "10.204714",
+		"cpp": "21.132882",
+		"ctr": "0.516085",
+		"frequency": "2.070894",
+		"reach": "2807",
+		"spend": "59.32",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "9"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "541"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "551"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "551"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323123389748",
+		"adset_id": "6323123389348",
+		"adset_name": "AB 25 A 45 FEM - DEP 14 FEV 23 COPY",
+		"impressions": "5676",
+		"clicks": "15",
+		"cpc": "3.939333",
+		"cpm": "10.4105",
+		"cpp": "21.487273",
+		"ctr": "0.264271",
+		"frequency": "2.064",
+		"reach": "2750",
+		"spend": "59.09",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "571"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "579"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "579"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323123389748",
+		"adset_id": "6323123389948",
+		"adset_name": "AB 25 A 45 FEM - DEP 11 FEV 23 COPY",
+		"impressions": "6110",
+		"clicks": "26",
+		"cpc": "2.284231",
+		"cpm": "9.720131",
+		"cpp": "19.92953",
+		"ctr": "0.425532",
+		"frequency": "2.050336",
+		"reach": "2980",
+		"spend": "59.39",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "428"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "435"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "435"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323123389748",
+		"adset_id": "6323123390548",
+		"adset_name": "AB 25 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "5339",
+		"clicks": "18",
+		"cpc": "3.289444",
+		"cpm": "11.090092",
+		"cpp": "25.325064",
+		"ctr": "0.337142",
+		"frequency": "2.283576",
+		"reach": "2338",
+		"spend": "59.21",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "557"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "559"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "559"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "185103568247084",
+		"campaign_id": "6323121976548",
+		"adset_id": "6323175385148",
+		"adset_name": "AB 25 A 45 AMBOS - DEP 7 FEV 23 DEPO MASC",
+		"impressions": "5110",
+		"clicks": "17",
+		"cpc": "2.534118",
+		"cpm": "8.430528",
+		"cpp": "18.371002",
+		"ctr": "0.332681",
+		"frequency": "2.179104",
+		"reach": "2345",
+		"spend": "43.08",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "381"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "382"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "382"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485463910451",
+		"adset_id": "23852485463900451",
+		"adset_name": "AB 25 - 45 FEM — DEP 11 FEV 23 COPY",
+		"impressions": "6271",
+		"clicks": "41",
+		"cpc": "1.456585",
+		"cpm": "9.523202",
+		"cpp": "15.691014",
+		"ctr": "0.653803",
+		"frequency": "1.647662",
+		"reach": "3806",
+		"spend": "59.72",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "14"
+			},
+			{
+				"action_type": "video_view",
+				"value": "436"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "452"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "452"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485463910451",
+		"adset_id": "23852485494940451",
+		"adset_name": "AB 25 - 45 FEM — DEP 12 FEV 23 REELS",
+		"impressions": "4806",
+		"clicks": "17",
+		"cpc": "3.471176",
+		"cpm": "12.278402",
+		"cpp": "18.297674",
+		"ctr": "0.353725",
+		"frequency": "1.490233",
+		"reach": "3225",
+		"spend": "59.01",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "640"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "648"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "648"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485463910451",
+		"adset_id": "23852485503010451",
+		"adset_name": "AB 25 - 45 FEM — DEP 14 FEV 23 COPY",
+		"impressions": "5702",
+		"clicks": "45",
+		"cpc": "1.322444",
+		"cpm": "10.436689",
+		"cpp": "18.204344",
+		"ctr": "0.789197",
+		"frequency": "1.744264",
+		"reach": "3269",
+		"spend": "59.51",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "622"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "631"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "631"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485553050451",
+		"adset_id": "23852485553010451",
+		"adset_name": "AB 25 - 45 FEM — DEP 11 FEV 23 COPY",
+		"impressions": "6202",
+		"clicks": "23",
+		"cpc": "2.591304",
+		"cpm": "9.609803",
+		"cpp": "16.038751",
+		"ctr": "0.370848",
+		"frequency": "1.668999",
+		"reach": "3716",
+		"spend": "59.6",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "5"
+			},
+			{
+				"action_type": "video_view",
+				"value": "466"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "472"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "472"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485553050451",
+		"adset_id": "23852485553040451",
+		"adset_name": "AB 25 - 45 FEM — DEP 14 FEV 23 COPY",
+		"impressions": "5833",
+		"clicks": "32",
+		"cpc": "1.854063",
+		"cpm": "10.171438",
+		"cpp": "19.671751",
+		"ctr": "0.548603",
+		"frequency": "1.934019",
+		"reach": "3016",
+		"spend": "59.33",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "600"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "610"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "610"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485553050451",
+		"adset_id": "23852485553070451",
+		"adset_name": "AB 25 - 45 FEM — DEP 12 FEV 23 REELS",
+		"impressions": "4968",
+		"clicks": "15",
+		"cpc": "3.936",
+		"cpm": "11.884058",
+		"cpp": "18.929144",
+		"ctr": "0.301932",
+		"frequency": "1.592818",
+		"reach": "3119",
+		"spend": "59.04",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "650"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "657"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "657"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485586210451",
+		"adset_id": "23852485586220451",
+		"adset_name": "AB - 28 A 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4539",
+		"clicks": "77",
+		"cpc": "0.858442",
+		"cpm": "14.562679",
+		"cpp": "26.27186",
+		"ctr": "1.696409",
+		"frequency": "1.804054",
+		"reach": "2516",
+		"spend": "66.1",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "649"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "671"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "671"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485586210451",
+		"adset_id": "23852485605620451",
+		"adset_name": "AB - 28 A 64+ FEM - BTX 8 FEV 23 CARD (CDR)",
+		"impressions": "5851",
+		"clicks": "74",
+		"cpc": "0.890135",
+		"cpm": "11.257905",
+		"cpp": "21.051454",
+		"ctr": "1.264741",
+		"frequency": "1.869926",
+		"reach": "3129",
+		"spend": "65.87",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "29"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "39"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "39"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485609040451",
+		"adset_id": "23852485609060451",
+		"adset_name": "AB - 28 A 64+ FEM - BTX 8 FEV 23 CARD (CDR)",
+		"impressions": "5819",
+		"clicks": "57",
+		"cpc": "1.165263",
+		"cpm": "11.414332",
+		"cpp": "21.234015",
+		"ctr": "0.97955",
+		"frequency": "1.860294",
+		"reach": "3128",
+		"spend": "66.42",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "36"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "50"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "50"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485609040451",
+		"adset_id": "23852485609070451",
+		"adset_name": "AB - 28 A 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4630",
+		"clicks": "66",
+		"cpc": "1.004091",
+		"cpm": "14.313175",
+		"cpp": "25.856418",
+		"ctr": "1.425486",
+		"frequency": "1.806477",
+		"reach": "2563",
+		"spend": "66.27",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "18"
+			},
+			{
+				"action_type": "video_view",
+				"value": "756"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "781"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "781"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "271414754852131",
+		"campaign_id": "23852485463910451",
+		"adset_id": "23852490280460451",
+		"adset_name": "AB 25 - 45 AMBOS — DEP 7 FEV 23 DEPO MASC",
+		"impressions": "5712",
+		"clicks": "41",
+		"cpc": "1.051463",
+		"cpm": "7.547269",
+		"cpp": "12.420052",
+		"ctr": "0.717787",
+		"frequency": "1.645635",
+		"reach": "3471",
+		"spend": "43.11",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "video_view",
+				"value": "761"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "775"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "775"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852865723680092",
+		"adset_id": "23852865723860092",
+		"adset_name": "VAGA GERENTE LAGES",
+		"impressions": "27235",
+		"clicks": "774",
+		"cpc": "0.213217",
+		"cpm": "6.059482",
+		"cpp": "12.755449",
+		"ctr": "2.841931",
+		"frequency": "2.105039",
+		"reach": "12938",
+		"spend": "165.03",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "11"
+			},
+			{
+				"action_type": "link_click",
+				"value": "6"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "85"
+			},
+			{
+				"action_type": "post",
+				"value": "52"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "412"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "569"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "569"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852889982170092",
+		"adset_id": "23852889982150092",
+		"adset_name": "VAGA GERENTE JOAÇABA",
+		"impressions": "9016",
+		"clicks": "160",
+		"cpc": "0.372688",
+		"cpm": "6.613798",
+		"cpp": "11.098083",
+		"ctr": "1.774623",
+		"frequency": "1.67802",
+		"reach": "5373",
+		"spend": "59.63",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "3"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "34"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "63"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "108"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "108"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852987989800092",
+		"adset_id": "23852987989790092",
+		"adset_name": "AB - 22 A 45 FEM - DEP 11 FEV 23 COPY",
+		"impressions": "5393",
+		"clicks": "27",
+		"cpc": "2.008148",
+		"cpm": "10.053773",
+		"cpp": "15.346731",
+		"ctr": "0.500649",
+		"frequency": "1.526465",
+		"reach": "3533",
+		"spend": "54.22",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "413"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "422"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "422"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852987989800092",
+		"adset_id": "23852987989880092",
+		"adset_name": "AB - 22 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "4803",
+		"clicks": "20",
+		"cpc": "2.717",
+		"cpm": "11.313762",
+		"cpp": "17.377678",
+		"ctr": "0.416406",
+		"frequency": "1.535977",
+		"reach": "3127",
+		"spend": "54.34",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "3"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "746"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "751"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "751"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852987989800092",
+		"adset_id": "23852988086340092",
+		"adset_name": "AB - 22 A 45 FEM - DEP 14 FEV 23 COPY",
+		"impressions": "5546",
+		"clicks": "36",
+		"cpc": "1.503056",
+		"cpm": "9.756581",
+		"cpp": "15.679513",
+		"ctr": "0.649116",
+		"frequency": "1.60707",
+		"reach": "3451",
+		"spend": "54.11",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "15"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "696"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "713"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "713"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988097550092",
+		"adset_id": "23852988097530092",
+		"adset_name": "BK - 22 A 45 FEM - DEP 14 FEV 23 COPY",
+		"impressions": "5636",
+		"clicks": "23",
+		"cpc": "2.348261",
+		"cpm": "9.583038",
+		"cpp": "16.984277",
+		"ctr": "0.408091",
+		"frequency": "1.772327",
+		"reach": "3180",
+		"spend": "54.01",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "video_view",
+				"value": "715"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "724"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "724"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988097550092",
+		"adset_id": "23852988097570092",
+		"adset_name": "BK - 22 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "5565",
+		"clicks": "18",
+		"cpc": "3.037222",
+		"cpm": "9.823899",
+		"cpp": "15.421721",
+		"ctr": "0.32345",
+		"frequency": "1.569817",
+		"reach": "3545",
+		"spend": "54.67",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "816"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "821"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "821"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988097550092",
+		"adset_id": "23852988097580092",
+		"adset_name": "BK - 22 A 45 FEM - DEP 11 FEV 23 COPY",
+		"impressions": "5645",
+		"clicks": "14",
+		"cpc": "3.9",
+		"cpm": "9.672276",
+		"cpp": "13.935681",
+		"ctr": "0.248007",
+		"frequency": "1.440786",
+		"reach": "3918",
+		"spend": "54.6",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "487"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "493"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "493"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988269110092",
+		"adset_id": "23852988269080092",
+		"adset_name": "AB - 28 A 65+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4424",
+		"clicks": "38",
+		"cpc": "1.743947",
+		"cpm": "14.979656",
+		"cpp": "24.644849",
+		"ctr": "0.858951",
+		"frequency": "1.645221",
+		"reach": "2689",
+		"spend": "66.27",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "7"
+			},
+			{
+				"action_type": "video_view",
+				"value": "597"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "605"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "605"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988306820092",
+		"adset_id": "23852988306830092",
+		"adset_name": "RT - 28 A 65+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4331",
+		"clicks": "42",
+		"cpc": "1.588571",
+		"cpm": "15.405218",
+		"cpp": "26.486701",
+		"ctr": "0.969753",
+		"frequency": "1.719333",
+		"reach": "2519",
+		"spend": "66.72",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "11"
+			},
+			{
+				"action_type": "video_view",
+				"value": "600"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "619"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "619"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988269110092",
+		"adset_id": "23852988395210092",
+		"adset_name": "AB - 28 A 65+ FEM - BTX 8 FEV 23 CARD (JBA)",
+		"impressions": "6169",
+		"clicks": "35",
+		"cpc": "1.924286",
+		"cpm": "10.917491",
+		"cpp": "19.791361",
+		"ctr": "0.567353",
+		"frequency": "1.812812",
+		"reach": "3403",
+		"spend": "67.35",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "21"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "30"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852988306820092",
+		"adset_id": "23852988413210092",
+		"adset_name": "RT - 28 A 65+ FEM - BTX 8 FEV 23 CARD (JBA)",
+		"impressions": "6893",
+		"clicks": "43",
+		"cpc": "1.547674",
+		"cpm": "9.654722",
+		"cpp": "17.680659",
+		"ctr": "0.623821",
+		"frequency": "1.831296",
+		"reach": "3764",
+		"spend": "66.55",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "23"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "32"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "32"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "295572612624483",
+		"campaign_id": "23852987989800092",
+		"adset_id": "23852994905860092",
+		"adset_name": "AB - 22 A 45 AMBOS - DEP 7 FEV 23 DEPO MASC",
+		"impressions": "5349",
+		"clicks": "28",
+		"cpc": "1.3625",
+		"cpm": "7.132174",
+		"cpp": "11.698865",
+		"ctr": "0.523462",
+		"frequency": "1.640294",
+		"reach": "3261",
+		"spend": "38.15",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "662"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "674"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "674"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23850512453040034",
+		"adset_id": "23850512453070034",
+		"adset_name": "ASTORGA - OFTALMO - JOAÇABA E CAMPOS NOVOS",
+		"impressions": "10386",
+		"clicks": "79",
+		"cpc": "1.321899",
+		"cpm": "10.054882",
+		"cpp": "17.967997",
+		"ctr": "0.760639",
+		"frequency": "1.786992",
+		"reach": "5812",
+		"spend": "104.43",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "20"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1353"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1386"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1386"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23850945905450034",
+		"adset_id": "23850945905490034",
+		"adset_name": "ASTORGA - VÍDEO REELS JOAÇABA",
+		"impressions": "32700",
+		"clicks": "558",
+		"cpc": "0.520197",
+		"cpm": "8.876758",
+		"cpp": "15.296691",
+		"ctr": "1.706422",
+		"frequency": "1.723229",
+		"reach": "18976",
+		"spend": "290.27",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "48"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "38"
+			},
+			{
+				"action_type": "video_view",
+				"value": "5481"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "20"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5582"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5582"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23851460947570034",
+		"adset_id": "23851460947630034",
+		"adset_name": "OFTALMO - CONJUNTO VÍDEOS ANTIGOS",
+		"impressions": "28624",
+		"clicks": "498",
+		"cpc": "0.419859",
+		"cpm": "7.304709",
+		"cpp": "19.001272",
+		"ctr": "1.739799",
+		"frequency": "2.601236",
+		"reach": "11004",
+		"spend": "209.09",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "comment",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "47"
+			},
+			{
+				"action_type": "photo_view",
+				"value": "66"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "26"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "16"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "147"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "147"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23850945905450034",
+		"adset_id": "23852144289490034",
+		"adset_name": "ASTORGA - VÍDEO REELS JOAÇABA — Cópia",
+		"impressions": "13228",
+		"clicks": "179",
+		"cpc": "0.718715",
+		"cpm": "9.725582",
+		"cpp": "19.890229",
+		"ctr": "1.35319",
+		"frequency": "2.045145",
+		"reach": "6468",
+		"spend": "128.65",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "22"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "23"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1572"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1620"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1620"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23852543826190034",
+		"adset_id": "23852543826270034",
+		"adset_name": "PSIQUIATRA - MENSAGENS",
+		"impressions": "11319",
+		"clicks": "45",
+		"cpc": "2.909333",
+		"cpm": "11.566393",
+		"cpp": "17.381837",
+		"ctr": "0.397562",
+		"frequency": "1.502788",
+		"reach": "7532",
+		"spend": "130.92",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "32"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "34"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "34"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23852543998610034",
+		"adset_id": "23852543998620034",
+		"adset_name": "OTORRINO - MENSAGENS",
+		"impressions": "12929",
+		"clicks": "45",
+		"cpc": "2.859778",
+		"cpm": "9.953593",
+		"cpp": "15.463831",
+		"ctr": "0.348055",
+		"frequency": "1.553593",
+		"reach": "8322",
+		"spend": "128.69",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "38"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "38"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "38"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23852544027080034",
+		"adset_id": "23852544027060034",
+		"adset_name": "UROLOGIA  - MENSAGENS",
+		"impressions": "9474",
+		"clicks": "32",
+		"cpc": "3.998125",
+		"cpm": "13.504328",
+		"cpp": "20.288614",
+		"ctr": "0.337767",
+		"frequency": "1.502379",
+		"reach": "6306",
+		"spend": "127.94",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "24"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "25"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "25"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23852677939940034",
+		"adset_id": "23852677940020034",
+		"adset_name": "DERMATOLOGISTA DEZEMBRO",
+		"impressions": "19429",
+		"clicks": "57",
+		"cpc": "3.375789",
+		"cpm": "9.903752",
+		"cpp": "19.397177",
+		"ctr": "0.293376",
+		"frequency": "1.958569",
+		"reach": "9920",
+		"spend": "192.42",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "50"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "52"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "52"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23852948225210034",
+		"adset_id": "23852948225270034",
+		"adset_name": "GASTRO JAN 1 CARD",
+		"impressions": "30197",
+		"clicks": "380",
+		"cpc": "0.2415",
+		"cpm": "3.039044",
+		"cpp": "6.536325",
+		"ctr": "1.258403",
+		"frequency": "2.150783",
+		"reach": "14040",
+		"spend": "91.77",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "221"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "227"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "227"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23853080154240034",
+		"adset_id": "23853080162000034",
+		"adset_name": "OFTALMO - JANEIRO",
+		"impressions": "34920",
+		"clicks": "302",
+		"cpc": "1.088775",
+		"cpm": "9.416094",
+		"cpp": "25.937525",
+		"ctr": "0.864834",
+		"frequency": "2.754595",
+		"reach": "12677",
+		"spend": "328.81",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "82"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "42"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2822"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "12"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2946"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2946"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23853089918710034",
+		"adset_id": "23853089918720034",
+		"adset_name": "PSIQUIATRA - JANEIRO 23",
+		"impressions": "16351",
+		"clicks": "165",
+		"cpc": "0.984667",
+		"cpm": "9.936395",
+		"cpp": "26.66065",
+		"ctr": "1.009113",
+		"frequency": "2.683131",
+		"reach": "6094",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "53"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "12"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "65"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "65"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23853090027650034",
+		"adset_id": "23853090027660034",
+		"adset_name": "URO - JANEIRO 23",
+		"impressions": "21599",
+		"clicks": "161",
+		"cpc": "1.00913",
+		"cpm": "7.522108",
+		"cpp": "21.542031",
+		"ctr": "0.745405",
+		"frequency": "2.863829",
+		"reach": "7542",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "66"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "72"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "72"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "875572066232392",
+		"campaign_id": "23853090036650034",
+		"adset_id": "23853090036670034",
+		"adset_name": "CLÍNICO GERAL - JANEIRO 23",
+		"impressions": "19045",
+		"clicks": "449",
+		"cpc": "0.361849",
+		"cpm": "8.530848",
+		"cpp": "21.171488",
+		"ctr": "2.357574",
+		"frequency": "2.481757",
+		"reach": "7674",
+		"spend": "162.47",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "84"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "48"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "7"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "144"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "144"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853760897840650",
+		"adset_id": "23853760898100650",
+		"adset_name": "AB 28 A 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4649",
+		"clicks": "30",
+		"cpc": "2.188333",
+		"cpm": "14.121316",
+		"cpp": "23.354678",
+		"ctr": "0.6453",
+		"frequency": "1.65386",
+		"reach": "2811",
+		"spend": "65.65",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "11"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "609"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "624"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "624"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853760897840650",
+		"adset_id": "23853760937360650",
+		"adset_name": "AB 28 A 64+ FEM - BTX 8 FEV 23 CARD (VDA)",
+		"impressions": "5383",
+		"clicks": "31",
+		"cpc": "2.117742",
+		"cpm": "12.195802",
+		"cpp": "21.454248",
+		"ctr": "0.575887",
+		"frequency": "1.75915",
+		"reach": "3060",
+		"spend": "65.65",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "17"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "26"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "26"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853760948260650",
+		"adset_id": "23853760948240650",
+		"adset_name": "ROSTO 28 A 64+ FEM - BTX 8 FEV 23 CARD (VDA)",
+		"impressions": "5236",
+		"clicks": "39",
+		"cpc": "1.719231",
+		"cpm": "12.805577",
+		"cpp": "22.698037",
+		"ctr": "0.744843",
+		"frequency": "1.772512",
+		"reach": "2954",
+		"spend": "67.05",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "18"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "30"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4151784184913199",
+		"campaign_id": "23853760948260650",
+		"adset_id": "23853760948250650",
+		"adset_name": "ROSTO 28 A 64+ FEM - BTX 7 FEV 23 REELS",
+		"impressions": "4829",
+		"clicks": "24",
+		"cpc": "2.7",
+		"cpm": "13.418927",
+		"cpp": "23.684211",
+		"ctr": "0.496997",
+		"frequency": "1.764985",
+		"reach": "2736",
+		"spend": "64.8",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "3"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "554"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "559"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "559"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668546190387",
+		"adset_id": "23852668546220387",
+		"adset_name": "AB - 22 A 45 FEM — DEP 14 FEV 23 COPY",
+		"impressions": "5031",
+		"clicks": "32",
+		"cpc": "2.023438",
+		"cpm": "12.870205",
+		"cpp": "22.227944",
+		"ctr": "0.636056",
+		"frequency": "1.727085",
+		"reach": "2913",
+		"spend": "64.75",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "487"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "499"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "499"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668546190387",
+		"adset_id": "23852668546240387",
+		"adset_name": "AB - 22 A 45 FEM -DEP 11 FEV 23 COPY",
+		"impressions": "5729",
+		"clicks": "36",
+		"cpc": "2.170278",
+		"cpm": "13.637633",
+		"cpp": "23.33632",
+		"ctr": "0.628382",
+		"frequency": "1.711171",
+		"reach": "3348",
+		"spend": "78.13",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "9"
+			},
+			{
+				"action_type": "video_view",
+				"value": "396"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "414"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "414"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668546190387",
+		"adset_id": "23852668546280387",
+		"adset_name": "AB - 22 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "5491",
+		"clicks": "26",
+		"cpc": "2.488846",
+		"cpm": "11.784739",
+		"cpp": "17.670672",
+		"ctr": "0.473502",
+		"frequency": "1.499454",
+		"reach": "3662",
+		"spend": "64.71",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "783"
+			},
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "794"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "794"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668634410387",
+		"adset_id": "23852668634440387",
+		"adset_name": "BK - 22 A 45 FEM -DEP 11 FEV 23 COPY",
+		"impressions": "4353",
+		"clicks": "20",
+		"cpc": "3.0845",
+		"cpm": "14.171836",
+		"cpp": "23.270464",
+		"ctr": "0.459453",
+		"frequency": "1.642022",
+		"reach": "2651",
+		"spend": "61.69",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "5"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "video_view",
+				"value": "285"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "294"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "294"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668634410387",
+		"adset_id": "23852668634450387",
+		"adset_name": "BK - 22 A 45 FEM — DEP 14 FEV 23 COPY",
+		"impressions": "4603",
+		"clicks": "27",
+		"cpc": "2.237407",
+		"cpm": "13.12405",
+		"cpp": "21.48293",
+		"ctr": "0.586574",
+		"frequency": "1.636913",
+		"reach": "2812",
+		"spend": "60.41",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "457"
+			},
+			{
+				"action_type": "link_click",
+				"value": "8"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "466"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "466"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668634410387",
+		"adset_id": "23852668634460387",
+		"adset_name": "BK - 22 A 45 FEM - DEP 12 FEV 23 REELS",
+		"impressions": "5219",
+		"clicks": "24",
+		"cpc": "2.51",
+		"cpm": "11.542441",
+		"cpp": "16.992948",
+		"ctr": "0.459858",
+		"frequency": "1.472214",
+		"reach": "3545",
+		"spend": "60.24",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "719"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "727"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "727"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "4087472977951779",
+		"campaign_id": "23852668546190387",
+		"adset_id": "23852673426090387",
+		"adset_name": "AB - 22 A 45 AMBOS — DEP 7 FEV 23 DEPO MASC",
+		"impressions": "4078",
+		"clicks": "39",
+		"cpc": "1.187692",
+		"cpm": "11.358509",
+		"cpp": "14.630449",
+		"ctr": "0.956351",
+		"frequency": "1.288061",
+		"reach": "3166",
+		"spend": "46.32",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "3"
+			},
+			{
+				"action_type": "link_click",
+				"value": "5"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "580"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "590"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "590"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852070152340093",
+		"adset_id": "23852070152370093",
+		"adset_name": "Instagram Post",
+		"impressions": "26325",
+		"clicks": "185",
+		"cpc": "0.540541",
+		"cpm": "3.79867",
+		"cpp": "4.079634",
+		"ctr": "0.702754",
+		"frequency": "1.073964",
+		"reach": "24512",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "185"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "198"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "198"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852070171820093",
+		"adset_id": "23852070171850093",
+		"adset_name": "Instagram Post",
+		"impressions": "6932",
+		"clicks": "195",
+		"cpc": "0.25641",
+		"cpm": "7.212926",
+		"cpp": "7.418398",
+		"ctr": "2.813041",
+		"frequency": "1.028487",
+		"reach": "6740",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "196"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "50"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2284"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2532"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2532"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852072199000093",
+		"adset_id": "23852072199060093",
+		"adset_name": "Instagram Post",
+		"impressions": "1703",
+		"clicks": "13",
+		"cpc": "0.951538",
+		"cpm": "7.263652",
+		"cpp": "7.794581",
+		"ctr": "0.763359",
+		"frequency": "1.073094",
+		"reach": "1587",
+		"spend": "12.37",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "21"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852074794720093",
+		"adset_id": "23852074794800093",
+		"adset_name": "Instagram Post",
+		"impressions": "20274",
+		"clicks": "118",
+		"cpc": "0.847458",
+		"cpm": "4.932426",
+		"cpp": "5.812602",
+		"ctr": "0.582026",
+		"frequency": "1.178447",
+		"reach": "17204",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "119"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "119"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "119"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852089805410093",
+		"adset_id": "23852089805440093",
+		"adset_name": "Instagram Post",
+		"impressions": "37140",
+		"clicks": "254",
+		"cpc": "0.590551",
+		"cpm": "4.038772",
+		"cpp": "4.468541",
+		"ctr": "0.683899",
+		"frequency": "1.106411",
+		"reach": "33568",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "258"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "260"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "260"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852110344990093",
+		"adset_id": "23852110345030093",
+		"adset_name": "Instagram Post",
+		"impressions": "14489",
+		"clicks": "495",
+		"cpc": "0.080808",
+		"cpm": "2.760715",
+		"cpp": "2.881844",
+		"ctr": "3.416385",
+		"frequency": "1.043876",
+		"reach": "13880",
+		"spend": "40",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "496"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "69"
+			},
+			{
+				"action_type": "video_view",
+				"value": "5052"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5629"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5629"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852110441150093",
+		"adset_id": "23852110441200093",
+		"adset_name": "Instagram Post",
+		"impressions": "59003",
+		"clicks": "248",
+		"cpc": "0.604839",
+		"cpm": "2.542244",
+		"cpp": "2.789348",
+		"ctr": "0.420318",
+		"frequency": "1.097199",
+		"reach": "53776",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "249"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "251"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "251"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852114737960093",
+		"adset_id": "23852114737990093",
+		"adset_name": "Instagram Post",
+		"impressions": "9081",
+		"clicks": "85",
+		"cpc": "0.588235",
+		"cpm": "5.506002",
+		"cpp": "6.021195",
+		"ctr": "0.93602",
+		"frequency": "1.093569",
+		"reach": "8304",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "88"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "17"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "112"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "111"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852118543600093",
+		"adset_id": "23852118543630093",
+		"adset_name": "Instagram Post",
+		"impressions": "48726",
+		"clicks": "685",
+		"cpc": "0.218978",
+		"cpm": "3.078439",
+		"cpp": "3.997868",
+		"ctr": "1.40582",
+		"frequency": "1.298667",
+		"reach": "37520",
+		"spend": "150",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "713"
+			},
+			{
+				"action_type": "post",
+				"value": "36"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "4596"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "19"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "97"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5354"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5354"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852122913150093",
+		"adset_id": "23852122913190093",
+		"adset_name": "Instagram Post",
+		"impressions": "9959",
+		"clicks": "274",
+		"cpc": "0.182482",
+		"cpm": "5.020584",
+		"cpp": "5.393743",
+		"ctr": "2.75128",
+		"frequency": "1.074326",
+		"reach": "9270",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "278"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "166"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "447"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "447"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852136054000093",
+		"adset_id": "23852136054060093",
+		"adset_name": "Instagram Post",
+		"impressions": "29966",
+		"clicks": "127",
+		"cpc": "0.787402",
+		"cpm": "3.337115",
+		"cpp": "3.634778",
+		"ctr": "0.423814",
+		"frequency": "1.089197",
+		"reach": "27512",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "128"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "130"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "130"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852136089520093",
+		"adset_id": "23852136089570093",
+		"adset_name": "Instagram Post",
+		"impressions": "21967",
+		"clicks": "162",
+		"cpc": "0.617284",
+		"cpm": "4.552283",
+		"cpp": "5.129257",
+		"ctr": "0.73747",
+		"frequency": "1.126744",
+		"reach": "19496",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "163"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "12"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "235"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "182"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852136112260093",
+		"adset_id": "23852136112300093",
+		"adset_name": "Instagram Post",
+		"impressions": "8053",
+		"clicks": "489",
+		"cpc": "0.102249",
+		"cpm": "6.208866",
+		"cpp": "6.361323",
+		"ctr": "6.072271",
+		"frequency": "1.024555",
+		"reach": "7860",
+		"spend": "50",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "488"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "26"
+			},
+			{
+				"action_type": "video_view",
+				"value": "3524"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "4044"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "4044"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852136121050093",
+		"adset_id": "23852136121120093",
+		"adset_name": "Instagram Post",
+		"impressions": "13190",
+		"clicks": "239",
+		"cpc": "0.41841",
+		"cpm": "7.581501",
+		"cpp": "9.248127",
+		"ctr": "1.811979",
+		"frequency": "1.219828",
+		"reach": "10813",
+		"spend": "100",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "252"
+			},
+			{
+				"action_type": "post",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "30"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2042"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2333"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2333"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852136140050093",
+		"adset_id": "23852136140130093",
+		"adset_name": "Instagram Post",
+		"impressions": "74966",
+		"clicks": "322",
+		"cpc": "0.621118",
+		"cpm": "2.667876",
+		"cpp": "3.236665",
+		"ctr": "0.429528",
+		"frequency": "1.213199",
+		"reach": "61792",
+		"spend": "200",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "324"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "81"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "467"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "419"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852160323610093",
+		"adset_id": "23852160323620093",
+		"adset_name": "Instagram Post",
+		"impressions": "50239",
+		"clicks": "227",
+		"cpc": "0.594714",
+		"cpm": "2.687155",
+		"cpp": "3.052641",
+		"ctr": "0.45184",
+		"frequency": "1.136012",
+		"reach": "44224",
+		"spend": "135",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "225"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "229"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "229"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852276158640093",
+		"adset_id": "23852276158700093",
+		"adset_name": "Instagram Post",
+		"impressions": "6134",
+		"clicks": "28",
+		"cpc": "1.285714",
+		"cpm": "5.868927",
+		"cpp": "8.701958",
+		"ctr": "0.456472",
+		"frequency": "1.482717",
+		"reach": "4137",
+		"spend": "36",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "28"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "28"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "28"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396638980093",
+		"adset_name": "LABIO",
+		"impressions": "110700",
+		"clicks": "599",
+		"cpc": "1.629533",
+		"cpm": "8.817435",
+		"cpp": "23.032942",
+		"ctr": "0.541102",
+		"frequency": "2.612204",
+		"reach": "42378",
+		"spend": "976.09",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "17"
+			},
+			{
+				"action_type": "link_click",
+				"value": "191"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "204"
+			},
+			{
+				"action_type": "post",
+				"value": "19"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "81"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "439"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "439"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396639060093",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "9"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "9"
+			}
+		],
+		"impressions": "96911",
+		"clicks": "534",
+		"cpc": "1.569757",
+		"cpm": "8.649689",
+		"cpp": "20.602404",
+		"ctr": "0.551021",
+		"frequency": "2.381866",
+		"reach": "40687",
+		"spend": "838.25",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "205"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "14"
+			},
+			{
+				"action_type": "link_click",
+				"value": "155"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "9"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "71"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "384"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "384"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852396639000093",
+		"adset_id": "23852396718900093",
+		"adset_name": "ALTO VALOR",
+		"impressions": "43458",
+		"clicks": "253",
+		"cpc": "1.682451",
+		"cpm": "9.794744",
+		"cpp": "17.518314",
+		"ctr": "0.582171",
+		"frequency": "1.788542",
+		"reach": "24298",
+		"spend": "425.66",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "75"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "12"
+			},
+			{
+				"action_type": "link_click",
+				"value": "74"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "31"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "165"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "165"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852458658920093",
+		"adset_id": "23852458658990093",
+		"adset_name": "Instagram Post",
+		"impressions": "587469",
+		"clicks": "2593",
+		"cpc": "0.691755",
+		"cpm": "3.053302",
+		"cpp": "7.440722",
+		"ctr": "0.441385",
+		"frequency": "2.436943",
+		"reach": "241068",
+		"spend": "1793.72",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "2615"
+			},
+			{
+				"action_type": "post",
+				"value": "17"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "8"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "27"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2632"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2632"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852459439210093",
+		"adset_id": "23852459439190093",
+		"adset_name": "QUEIXO",
+		"impressions": "97701",
+		"clicks": "355",
+		"cpc": "2.126423",
+		"cpm": "7.726431",
+		"cpp": "18.364676",
+		"ctr": "0.363354",
+		"frequency": "2.376864",
+		"reach": "41105",
+		"spend": "754.88",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "12"
+			},
+			{
+				"action_type": "link_click",
+				"value": "129"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "135"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "45"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "289"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "289"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852459439210093",
+		"adset_id": "23852459439200093",
+		"adset_name": "ABERTO",
+		"impressions": "143184",
+		"clicks": "428",
+		"cpc": "2.263622",
+		"cpm": "6.766329",
+		"cpp": "19.159333",
+		"ctr": "0.298916",
+		"frequency": "2.83157",
+		"reach": "50567",
+		"spend": "968.83",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "15"
+			},
+			{
+				"action_type": "link_click",
+				"value": "166"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "185"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "58"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "377"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "377"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852470008040093",
+		"adset_id": "23852470008110093",
+		"adset_name": "Instagram Post",
+		"impressions": "24892",
+		"clicks": "71",
+		"cpc": "1.098592",
+		"cpm": "3.133537",
+		"cpp": "3.541591",
+		"ctr": "0.285232",
+		"frequency": "1.130222",
+		"reach": "22024",
+		"spend": "78",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "72"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "72"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "72"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852472177230093",
+		"adset_id": "23852472177270093",
+		"adset_name": "Instagram Post",
+		"impressions": "7337",
+		"clicks": "54",
+		"cpc": "1.925926",
+		"cpm": "14.174731",
+		"cpp": "18.54163",
+		"ctr": "0.735996",
+		"frequency": "1.308076",
+		"reach": "5609",
+		"spend": "104",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "34"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "59"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "58"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476290560093",
+		"adset_id": "23852476290570093",
+		"adset_name": "PAPADA",
+		"impressions": "50630",
+		"clicks": "741",
+		"cpc": "0.814683",
+		"cpm": "11.923366",
+		"cpp": "20.103234",
+		"ctr": "1.463559",
+		"frequency": "1.686037",
+		"reach": "30029",
+		"spend": "603.68",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "194"
+			},
+			{
+				"action_type": "post",
+				"value": "60"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "206"
+			},
+			{
+				"action_type": "comment",
+				"value": "18"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "22"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "90"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "500"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "500"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476290560093",
+		"adset_id": "23852476290590093",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "20"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "20"
+			}
+		],
+		"impressions": "62938",
+		"clicks": "744",
+		"cpc": "0.945228",
+		"cpm": "11.173695",
+		"cpp": "20.372248",
+		"ctr": "1.182116",
+		"frequency": "1.823233",
+		"reach": "34520",
+		"spend": "703.25",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "26"
+			},
+			{
+				"action_type": "link_click",
+				"value": "189"
+			},
+			{
+				"action_type": "post",
+				"value": "65"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "214"
+			},
+			{
+				"action_type": "comment",
+				"value": "14"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "20"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "100"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "508"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "508"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476362490093",
+		"adset_id": "23852476362500093",
+		"adset_name": "NARIZ",
+		"impressions": "54305",
+		"clicks": "337",
+		"cpc": "1.842285",
+		"cpm": "11.432649",
+		"cpp": "24.614439",
+		"ctr": "0.620569",
+		"frequency": "2.152995",
+		"reach": "25223",
+		"spend": "620.85",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "11"
+			},
+			{
+				"action_type": "link_click",
+				"value": "81"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "131"
+			},
+			{
+				"action_type": "post",
+				"value": "14"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "43"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "242"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "242"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852476362490093",
+		"adset_id": "23852476362520093",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "65907",
+		"clicks": "454",
+		"cpc": "1.510022",
+		"cpm": "10.401778",
+		"cpp": "21.203452",
+		"ctr": "0.688849",
+		"frequency": "2.038445",
+		"reach": "32332",
+		"spend": "685.55",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "link_click",
+				"value": "118"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "14"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "171"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "62"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "314"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "314"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852498589300093",
+		"adset_id": "23852498589250093",
+		"adset_name": "ALTO VALOR",
+		"impressions": "3094",
+		"clicks": "38",
+		"cpc": "1.637895",
+		"cpm": "20.116354",
+		"cpp": "27.274321",
+		"ctr": "1.228184",
+		"frequency": "1.355828",
+		"reach": "2282",
+		"spend": "62.24",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "link_click",
+				"value": "7"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "22"
+			},
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "36"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "36"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852498589300093",
+		"adset_id": "23852498589280093",
+		"adset_name": "LABIO",
+		"impressions": "5984",
+		"clicks": "50",
+		"cpc": "2.0404",
+		"cpm": "17.048797",
+		"cpp": "24.992651",
+		"ctr": "0.835562",
+		"frequency": "1.465948",
+		"reach": "4082",
+		"spend": "102.02",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "23"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "10"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "42"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "42"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852498589300093",
+		"adset_id": "23852498589290093",
+		"adset_name": "ABERTO",
+		"impressions": "5854",
+		"clicks": "53",
+		"cpc": "1.92434",
+		"cpm": "17.422275",
+		"cpp": "26.678002",
+		"ctr": "0.905364",
+		"frequency": "1.531258",
+		"reach": "3823",
+		"spend": "101.99",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "24"
+			},
+			{
+				"action_type": "link_click",
+				"value": "16"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "7"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "44"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "44"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852499960930093",
+		"adset_id": "23852499961000093",
+		"adset_name": "Instagram Post",
+		"impressions": "26412",
+		"clicks": "110",
+		"cpc": "0.963636",
+		"cpm": "4.013327",
+		"cpp": "4.733834",
+		"ctr": "0.416477",
+		"frequency": "1.179528",
+		"reach": "22392",
+		"spend": "106",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "110"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "110"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "110"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852517914590093",
+		"adset_id": "23852517914610093",
+		"adset_name": "Instagram Post",
+		"impressions": "24249",
+		"clicks": "107",
+		"cpc": "0.981028",
+		"cpm": "4.328838",
+		"cpp": "5.007155",
+		"ctr": "0.441255",
+		"frequency": "1.156697",
+		"reach": "20964",
+		"spend": "104.97",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "107"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "108"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "108"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852519524720093",
+		"adset_id": "23852519524780093",
+		"adset_name": "Instagram Post",
+		"impressions": "13979",
+		"clicks": "147",
+		"cpc": "0.71415",
+		"cpm": "7.509836",
+		"cpp": "8.344992",
+		"ctr": "1.051577",
+		"frequency": "1.111208",
+		"reach": "12580",
+		"spend": "104.98",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "147"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "46"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "207"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "205"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852519765210093",
+		"adset_id": "23852519765230093",
+		"adset_name": "Instagram Post",
+		"impressions": "7919",
+		"clicks": "38",
+		"cpc": "1.973684",
+		"cpm": "9.470893",
+		"cpp": "10.856977",
+		"ctr": "0.479859",
+		"frequency": "1.146352",
+		"reach": "6908",
+		"spend": "75",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "39"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "34"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "74"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "74"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852523505170093",
+		"adset_id": "23852523505210093",
+		"adset_name": "Instagram Post",
+		"impressions": "3191",
+		"clicks": "13",
+		"cpc": "4.15",
+		"cpm": "16.906926",
+		"cpp": "34.319338",
+		"ctr": "0.407396",
+		"frequency": "2.029898",
+		"reach": "1572",
+		"spend": "53.95",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "14"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "15"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "15"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852528072520093",
+		"adset_id": "23852528072560093",
+		"adset_name": "Instagram Post",
+		"impressions": "27995",
+		"clicks": "605",
+		"cpc": "0.216529",
+		"cpm": "4.679407",
+		"cpp": "6.10438",
+		"ctr": "2.1611",
+		"frequency": "1.30452",
+		"reach": "21460",
+		"spend": "131",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "648"
+			},
+			{
+				"action_type": "post",
+				"value": "16"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2686"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "19"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "116"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3352"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3352"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852540754230093",
+		"adset_id": "23852540754280093",
+		"adset_name": "Instagram Post",
+		"impressions": "1662",
+		"clicks": "27",
+		"cpc": "1.37037",
+		"cpm": "22.262335",
+		"cpp": "26.33452",
+		"ctr": "1.624549",
+		"frequency": "1.182918",
+		"reach": "1405",
+		"spend": "37",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "26"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "4"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "32"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852565552510093",
+		"adset_id": "23852565552550093",
+		"adset_name": "Instagram Post",
+		"impressions": "22201",
+		"clicks": "201",
+		"cpc": "0.512438",
+		"cpm": "4.639431",
+		"cpp": "5.300535",
+		"ctr": "0.905365",
+		"frequency": "1.142497",
+		"reach": "19432",
+		"spend": "103",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "211"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "19"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2537"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2769"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2769"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852589210160093",
+		"adset_id": "23852589210220093",
+		"adset_name": "Instagram Post",
+		"impressions": "36491",
+		"clicks": "126",
+		"cpc": "0.571429",
+		"cpm": "1.973089",
+		"cpp": "2.317199",
+		"ctr": "0.345291",
+		"frequency": "1.174401",
+		"reach": "31072",
+		"spend": "72",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "127"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "127"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "127"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852637965650093",
+		"adset_id": "23852637965700093",
+		"adset_name": "Instagram Post",
+		"impressions": "24742",
+		"clicks": "62",
+		"cpc": "0.83871",
+		"cpm": "2.101689",
+		"cpp": "2.585778",
+		"ctr": "0.250586",
+		"frequency": "1.230333",
+		"reach": "20110",
+		"spend": "52",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "62"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "63"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "63"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852655162540093",
+		"adset_id": "23852655162580093",
+		"adset_name": "Instagram Post",
+		"impressions": "31335",
+		"clicks": "419",
+		"cpc": "0.24821",
+		"cpm": "3.318972",
+		"cpp": "4.234183",
+		"ctr": "1.337163",
+		"frequency": "1.275751",
+		"reach": "24562",
+		"spend": "104",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "444"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2687"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "58"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3152"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3152"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852656743890093",
+		"adset_id": "23852656743970093",
+		"adset_name": "Instagram Post",
+		"impressions": "27227",
+		"clicks": "278",
+		"cpc": "0.359676",
+		"cpm": "3.672457",
+		"cpp": "4.066122",
+		"ctr": "1.021045",
+		"frequency": "1.107194",
+		"reach": "24591",
+		"spend": "99.99",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "283"
+			},
+			{
+				"action_type": "post",
+				"value": "6"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "176"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "484"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "468"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852667777900093",
+		"adset_id": "23852667777940093",
+		"adset_name": "Instagram Post",
+		"impressions": "37075",
+		"clicks": "416",
+		"cpc": "0.314712",
+		"cpm": "3.531221",
+		"cpp": "4.456244",
+		"ctr": "1.12205",
+		"frequency": "1.261956",
+		"reach": "29379",
+		"spend": "130.92",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "439"
+			},
+			{
+				"action_type": "post",
+				"value": "13"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "9"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2733"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "59"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "3194"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "3194"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852669385110093",
+		"adset_id": "23852669385170093",
+		"adset_name": "Instagram Post",
+		"impressions": "16927",
+		"clicks": "85",
+		"cpc": "0.729412",
+		"cpm": "3.662787",
+		"cpp": "5.588103",
+		"ctr": "0.502156",
+		"frequency": "1.525642",
+		"reach": "11095",
+		"spend": "62",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "87"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "88"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "88"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852713476280093",
+		"adset_id": "23852713476320093",
+		"adset_name": "Instagram Post",
+		"impressions": "58982",
+		"clicks": "611",
+		"cpc": "0.261866",
+		"cpm": "2.712692",
+		"cpp": "3.586157",
+		"ctr": "1.035909",
+		"frequency": "1.321992",
+		"reach": "44616",
+		"spend": "160",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "625"
+			},
+			{
+				"action_type": "post",
+				"value": "18"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "23"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "63"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "643"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "643"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852729599630093",
+		"adset_id": "23852729599680093",
+		"adset_name": "Instagram Post",
+		"impressions": "15081",
+		"clicks": "97",
+		"cpc": "0.752577",
+		"cpm": "4.840528",
+		"cpp": "5.027548",
+		"ctr": "0.643193",
+		"frequency": "1.038636",
+		"reach": "14520",
+		"spend": "73",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "97"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "63"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "181"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "161"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852779281190093",
+		"adset_id": "23852779281240093",
+		"adset_name": "Instagram Post",
+		"impressions": "29212",
+		"clicks": "303",
+		"cpc": "0.244224",
+		"cpm": "2.533206",
+		"cpp": "2.791189",
+		"ctr": "1.037245",
+		"frequency": "1.101841",
+		"reach": "26512",
+		"spend": "74",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "305"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "306"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "306"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852779739010093",
+		"adset_id": "23852779739080093",
+		"adset_name": "Instagram Post",
+		"impressions": "6814",
+		"clicks": "114",
+		"cpc": "0.315614",
+		"cpm": "5.280305",
+		"cpp": "5.503212",
+		"ctr": "1.673026",
+		"frequency": "1.042215",
+		"reach": "6538",
+		"spend": "35.98",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "15"
+			},
+			{
+				"action_type": "link_click",
+				"value": "114"
+			},
+			{
+				"action_type": "post",
+				"value": "9"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "99"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "265"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "241"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1067360354209953",
+		"campaign_id": "23852793933990093",
+		"adset_id": "23852793934040093",
+		"adset_name": "Instagram Post",
+		"impressions": "6780",
+		"clicks": "78",
+		"cpc": "0.212564",
+		"cpm": "2.445428",
+		"cpp": "2.522824",
+		"ctr": "1.150442",
+		"frequency": "1.031649",
+		"reach": "6572",
+		"spend": "16.58",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "79"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "79"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "79"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184760181",
+		"adset_name": "Qualidade de vida",
+		"impressions": "67849",
+		"clicks": "408",
+		"cpc": "1.558995",
+		"cpm": "9.374788",
+		"cpp": "20.31264",
+		"ctr": "0.601335",
+		"frequency": "2.166731",
+		"reach": "31314",
+		"spend": "636.07",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "5170"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "131"
+			},
+			{
+				"action_type": "post",
+				"value": "10"
+			},
+			{
+				"action_type": "link_click",
+				"value": "184"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "12"
+			},
+			{
+				"action_type": "comment",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "96"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5518"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5518"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184790181",
+		"adset_name": "ABERTO",
+		"impressions": "140584",
+		"clicks": "949",
+		"cpc": "1.322613",
+		"cpm": "8.928185",
+		"cpp": "23.808042",
+		"ctr": "0.675041",
+		"frequency": "2.666616",
+		"reach": "52720",
+		"spend": "1255.16",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "15671"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "292"
+			},
+			{
+				"action_type": "post",
+				"value": "31"
+			},
+			{
+				"action_type": "link_click",
+				"value": "429"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "22"
+			},
+			{
+				"action_type": "comment",
+				"value": "17"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "208"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16462"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16462"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "400516895251196",
+		"campaign_id": "23850508184780181",
+		"adset_id": "23850508184800181",
+		"adset_name": "Condicionamento físico",
+		"impressions": "92153",
+		"clicks": "606",
+		"cpc": "1.330809",
+		"cpm": "8.751424",
+		"cpp": "21.972265",
+		"ctr": "0.657602",
+		"frequency": "2.510707",
+		"reach": "36704",
+		"spend": "806.47",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "9416"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "174"
+			},
+			{
+				"action_type": "post",
+				"value": "24"
+			},
+			{
+				"action_type": "link_click",
+				"value": "242"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "16"
+			},
+			{
+				"action_type": "comment",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "128"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "9881"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "9881"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1743636892663201",
+		"campaign_id": "23851975299780719",
+		"adset_id": "23851975299800719",
+		"adset_name": "ABERTO",
+		"impressions": "32741",
+		"clicks": "583",
+		"cpc": "0.522693",
+		"cpm": "9.307291",
+		"cpp": "16.264411",
+		"ctr": "1.780642",
+		"frequency": "1.747491",
+		"reach": "18736",
+		"spend": "304.73",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "109"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "267"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "13"
+			},
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "111"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "396"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "396"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1743636892663201",
+		"campaign_id": "23851975299780719",
+		"adset_id": "23851975340870719",
+		"adset_name": "SAÚDE",
+		"impressions": "36696",
+		"clicks": "566",
+		"cpc": "0.572721",
+		"cpm": "8.83366",
+		"cpp": "16.255955",
+		"ctr": "1.542402",
+		"frequency": "1.840229",
+		"reach": "19941",
+		"spend": "324.16",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "84"
+			},
+			{
+				"action_type": "link_click",
+				"value": "266"
+			},
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "11"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "9"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "89"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "371"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "371"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1743636892663201",
+		"campaign_id": "23851975299780719",
+		"adset_id": "23851975342680719",
+		"adset_name": "ALTO VALOR",
+		"impressions": "19673",
+		"clicks": "428",
+		"cpc": "0.408645",
+		"cpm": "8.890357",
+		"cpp": "15.114068",
+		"ctr": "2.175571",
+		"frequency": "1.700052",
+		"reach": "11572",
+		"spend": "174.9",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "36"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "180"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "comment",
+				"value": "6"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "65"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "231"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "231"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623530800044",
+		"adset_name": "ESTETICA - 35 A 60 FEM - 23.01",
+		"impressions": "14128",
+		"clicks": "456",
+		"cpc": "0.50193",
+		"cpm": "16.200453",
+		"cpp": "32.13704",
+		"ctr": "3.227633",
+		"frequency": "1.983712",
+		"reach": "7122",
+		"spend": "228.88",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "comment",
+				"value": "11"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "140"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "98"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1417"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "72"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1669"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1669"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623552550044",
+		"adset_name": "ESPORTES - 35 A 60 FEM - 23.01",
+		"impressions": "16669",
+		"clicks": "628",
+		"cpc": "0.418105",
+		"cpm": "15.751995",
+		"cpp": "33.224092",
+		"ctr": "3.767473",
+		"frequency": "2.109199",
+		"reach": "7903",
+		"spend": "262.57",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "14"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "189"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "101"
+			},
+			{
+				"action_type": "video_view",
+				"value": "1158"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "101"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "1467"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "1467"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "270650331445899",
+		"campaign_id": "23852620558980044",
+		"adset_id": "23852623559470044",
+		"adset_name": "ALTO VALOR - 35 A 60 FEM - 23.01 — Cópia",
+		"impressions": "5428",
+		"clicks": "153",
+		"cpc": "0.624771",
+		"cpm": "17.610538",
+		"cpp": "27.4605",
+		"ctr": "2.818718",
+		"frequency": "1.559322",
+		"reach": "3481",
+		"spend": "95.59",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "58"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "46"
+			},
+			{
+				"action_type": "video_view",
+				"value": "436"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "30"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "547"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "547"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709670765",
+		"adset_name": "ENG IG 365 + SEM 1%",
+		"impressions": "10853",
+		"clicks": "298",
+		"cpc": "0.360973",
+		"cpm": "9.911545",
+		"cpp": "19.654668",
+		"ctr": "2.745785",
+		"frequency": "1.983007",
+		"reach": "5473",
+		"spend": "107.57",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "44"
+			},
+			{
+				"action_type": "post",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "35"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "47"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "47"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709690765",
+		"adset_name": "MODA",
+		"impressions": "6583",
+		"clicks": "60",
+		"cpc": "0.401167",
+		"cpm": "3.656388",
+		"cpp": "4.351048",
+		"ctr": "0.911439",
+		"frequency": "1.189986",
+		"reach": "5532",
+		"spend": "24.07",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "15"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "17"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "17"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646709710765",
+		"adset_id": "23852646709730765",
+		"adset_name": "ESTÉTICA",
+		"impressions": "11796",
+		"clicks": "134",
+		"cpc": "0.295746",
+		"cpm": "3.359613",
+		"cpp": "4.406271",
+		"ctr": "1.135978",
+		"frequency": "1.311541",
+		"reach": "8994",
+		"spend": "39.63",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "42"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "17"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "46"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "46"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828080765",
+		"adset_name": "MODA",
+		"impressions": "1414",
+		"clicks": "5",
+		"cpc": "3.738",
+		"cpm": "13.217822",
+		"cpp": "19.694415",
+		"ctr": "0.353607",
+		"frequency": "1.489989",
+		"reach": "949",
+		"spend": "18.69",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "3"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "5"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "5"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828100765",
+		"adset_name": "ESTÉTICA",
+		"impressions": "4956",
+		"clicks": "34",
+		"cpc": "1.767059",
+		"cpm": "12.12268",
+		"cpp": "18.769135",
+		"ctr": "0.686037",
+		"frequency": "1.548266",
+		"reach": "3201",
+		"spend": "60.08",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "23"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "9"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "23"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "23"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "342694184711341",
+		"campaign_id": "23852646828120765",
+		"adset_id": "23852646828110765",
+		"adset_name": "SEG + SEM 1%",
+		"impressions": "7038",
+		"clicks": "101",
+		"cpc": "0.914851",
+		"cpm": "13.12873",
+		"cpp": "25.108696",
+		"ctr": "1.435067",
+		"frequency": "1.9125",
+		"reach": "3680",
+		"spend": "92.4",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "37"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "14"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "37"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "37"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23853284554920620",
+		"adset_id": "23853284554860620",
+		"adset_name": "SEM 1% - 22 A 55 FEM",
+		"impressions": "3020",
+		"clicks": "76",
+		"cpc": "0.615921",
+		"cpm": "15.5",
+		"cpp": "19.407131",
+		"ctr": "2.516556",
+		"frequency": "1.252073",
+		"reach": "2412",
+		"spend": "46.81",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "23"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "29"
+			},
+			{
+				"action_type": "video_view",
+				"value": "188"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.view_content",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "9"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "246"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "246"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "1"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23853284554920620",
+		"adset_id": "23853284554900620",
+		"adset_name": "ABERTO - 22 A 55 FEM",
+		"impressions": "4275",
+		"clicks": "115",
+		"cpc": "0.573913",
+		"cpm": "15.438596",
+		"cpp": "19.903498",
+		"ctr": "2.690058",
+		"frequency": "1.289204",
+		"reach": "3316",
+		"spend": "66",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "3"
+			},
+			{
+				"action_type": "video_view",
+				"value": "350"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "6"
+			},
+			{
+				"action_type": "link_click",
+				"value": "32"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "39"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.view_content",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "432"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "432"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "2"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "174477231018854",
+		"campaign_id": "23853284554920620",
+		"adset_id": "23853284554910620",
+		"adset_name": "MODA",
+		"impressions": "1271",
+		"clicks": "19",
+		"cpc": "1.002632",
+		"cpm": "14.988198",
+		"cpp": "17.239819",
+		"ctr": "1.494886",
+		"frequency": "1.150226",
+		"reach": "1105",
+		"spend": "19.05",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "video_view",
+				"value": "285"
+			},
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_search",
+				"value": "1"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "6"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "298"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "298"
+			},
+			{
+				"action_type": "omni_search",
+				"value": "1"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "6"
+			},
+			{
+				"action_type": "search",
+				"value": "1"
+			},
+			{
+				"action_type": "view_content",
+				"value": "6"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273070602",
+		"adset_name": "ABERTO",
+		"impressions": "16538",
+		"clicks": "343",
+		"cpc": "0.381574",
+		"cpm": "7.913895",
+		"cpp": "12.423351",
+		"ctr": "2.074011",
+		"frequency": "1.569815",
+		"reach": "10535",
+		"spend": "130.88",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "220"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "62"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "44"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "288"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "288"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273080602",
+		"adset_name": "MODA",
+		"impressions": "11297",
+		"clicks": "259",
+		"cpc": "0.343822",
+		"cpm": "7.882624",
+		"cpp": "11.72019",
+		"ctr": "2.292644",
+		"frequency": "1.486839",
+		"reach": "7598",
+		"spend": "89.05",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "3"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "148"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "52"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "30"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "204"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "204"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "965051157423153",
+		"campaign_id": "23852936273060602",
+		"adset_id": "23852936273090602",
+		"adset_name": "SEG IG + FB + SEM 1%",
+		"impressions": "19660",
+		"clicks": "524",
+		"cpc": "0.258359",
+		"cpm": "6.886063",
+		"cpp": "11.090358",
+		"ctr": "2.66531",
+		"frequency": "1.610551",
+		"reach": "12207",
+		"spend": "135.38",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "316"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "125"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "73"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "451"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "451"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392160504",
+		"adset_name": "ESTÉTICA",
+		"impressions": "111731",
+		"clicks": "489",
+		"cpc": "1.358957",
+		"cpm": "5.947588",
+		"cpp": "14.182086",
+		"ctr": "0.437658",
+		"frequency": "2.38451",
+		"reach": "46857",
+		"spend": "664.53",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "4"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "21"
+			},
+			{
+				"action_type": "link_click",
+				"value": "163"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "82"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "61"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "275"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "275"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392170504",
+		"adset_name": "ABERTO",
+		"impressions": "58108",
+		"clicks": "232",
+		"cpc": "1.346897",
+		"cpm": "5.377573",
+		"cpp": "9.995841",
+		"ctr": "0.399257",
+		"frequency": "1.858802",
+		"reach": "31261",
+		"spend": "312.48",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "9"
+			},
+			{
+				"action_type": "link_click",
+				"value": "88"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "44"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "30"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "142"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "142"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1213358582729786",
+		"campaign_id": "23853280392150504",
+		"adset_id": "23853280392200504",
+		"adset_name": "CILIOS",
+		"impressions": "60021",
+		"clicks": "217",
+		"cpc": "1.478664",
+		"cpm": "5.345962",
+		"cpp": "11.139386",
+		"ctr": "0.36154",
+		"frequency": "2.083701",
+		"reach": "28805",
+		"spend": "320.87",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "7"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "80"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "27"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "19"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "119"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "119"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852515504730363",
+		"adset_id": "23852515521320363",
+		"adset_name": "ABERTO 35 a 44 ambos",
+		"impressions": "11079",
+		"clicks": "122",
+		"cpc": "1.369344",
+		"cpm": "15.078978",
+		"cpp": "21.826496",
+		"ctr": "1.101182",
+		"frequency": "1.447478",
+		"reach": "7654",
+		"spend": "167.06",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "70"
+			},
+			{
+				"action_type": "video_view",
+				"value": "88"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "5"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "165"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "165"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "8"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "8"
+			},
+			{
+				"action_type": "lead",
+				"value": "8"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852515504730363",
+		"adset_id": "23852515526880363",
+		"adset_name": "ABERTO 45 a 54 ambos",
+		"impressions": "8287",
+		"clicks": "90",
+		"cpc": "2.180111",
+		"cpm": "23.676843",
+		"cpp": "42.719356",
+		"ctr": "1.086038",
+		"frequency": "1.804267",
+		"reach": "4593",
+		"spend": "196.21",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "30"
+			},
+			{
+				"action_type": "video_view",
+				"value": "479"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "7"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "517"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "517"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "5"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "5"
+			},
+			{
+				"action_type": "lead",
+				"value": "5"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852674997040363",
+		"adset_id": "23852674997060363",
+		"adset_name": "ABERTO - 24 a 54 ambos - C1",
+		"impressions": "2224",
+		"clicks": "20",
+		"cpc": "3.514",
+		"cpm": "31.600719",
+		"cpp": "47.712152",
+		"ctr": "0.899281",
+		"frequency": "1.509844",
+		"reach": "1473",
+		"spend": "70.28",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "10"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "10"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "2"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "2"
+			},
+			{
+				"action_type": "lead",
+				"value": "2"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "950862468692256",
+		"campaign_id": "23852674997040363",
+		"adset_id": "23852674997070363",
+		"adset_name": "ABERTO - 24 a 54 ambos",
+		"impressions": "2516",
+		"clicks": "20",
+		"cpc": "2.252",
+		"cpm": "17.901431",
+		"cpp": "22.165354",
+		"ctr": "0.794913",
+		"frequency": "1.238189",
+		"reach": "2032",
+		"spend": "45.04",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "11"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "1"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "13"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.lead_grouped",
+				"value": "1"
+			},
+			{
+				"action_type": "leadgen_grouped",
+				"value": "1"
+			},
+			{
+				"action_type": "lead",
+				"value": "1"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226298850653",
+		"adset_id": "23852226298880653",
+		"adset_name": "ABERTO",
+		"impressions": "30881",
+		"clicks": "1312",
+		"cpc": "0.332637",
+		"cpm": "14.132314",
+		"cpp": "24.500084",
+		"ctr": "4.248567",
+		"frequency": "1.733622",
+		"reach": "17813",
+		"spend": "436.42",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "6235"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "165"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "355"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "4"
+			},
+			{
+				"action_type": "comment",
+				"value": "29"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "212"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "6792"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "6792"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226298850653",
+		"adset_id": "23852226577160653",
+		"adset_name": "ROSTO",
+		"impressions": "125551",
+		"clicks": "4230",
+		"cpc": "0.318066",
+		"cpm": "10.716123",
+		"cpp": "24.018495",
+		"ctr": "3.369149",
+		"frequency": "2.241342",
+		"reach": "56016",
+		"spend": "1345.42",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "26728"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "419"
+			},
+			{
+				"action_type": "post",
+				"value": "41"
+			},
+			{
+				"action_type": "link_click",
+				"value": "1229"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "44"
+			},
+			{
+				"action_type": "comment",
+				"value": "61"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "795"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "28522"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "28522"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226298850653",
+		"adset_id": "23852226582640653",
+		"adset_name": "SEG IG + SEM IG 1%",
+		"impressions": "6050",
+		"clicks": "307",
+		"cpc": "0.249511",
+		"cpm": "12.661157",
+		"cpp": "20.157895",
+		"ctr": "5.07438",
+		"frequency": "1.592105",
+		"reach": "3800",
+		"spend": "76.6",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "835"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "31"
+			},
+			{
+				"action_type": "link_click",
+				"value": "71"
+			},
+			{
+				"action_type": "comment",
+				"value": "13"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "39"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "952"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "952"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665480653",
+		"adset_name": "SEG IG + SEM IG 1%",
+		"impressions": "97781",
+		"clicks": "2258",
+		"cpc": "0.276563",
+		"cpm": "6.386517",
+		"cpp": "10.027297",
+		"ctr": "2.309242",
+		"frequency": "1.570073",
+		"reach": "62278",
+		"spend": "624.48",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "20"
+			},
+			{
+				"action_type": "video_view",
+				"value": "15468"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "300"
+			},
+			{
+				"action_type": "post",
+				"value": "38"
+			},
+			{
+				"action_type": "link_click",
+				"value": "550"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "56"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "12"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "379"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16432"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16432"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665620653",
+		"adset_name": "AXILA",
+		"impressions": "145021",
+		"clicks": "3318",
+		"cpc": "0.294183",
+		"cpm": "6.730749",
+		"cpp": "11.385215",
+		"ctr": "2.287945",
+		"frequency": "1.691523",
+		"reach": "85734",
+		"spend": "976.1",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "23938"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "428"
+			},
+			{
+				"action_type": "post",
+				"value": "42"
+			},
+			{
+				"action_type": "link_click",
+				"value": "806"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "85"
+			},
+			{
+				"action_type": "comment",
+				"value": "24"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "4"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "585"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "25323"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "25323"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "3018739935085616",
+		"campaign_id": "23852226665490653",
+		"adset_id": "23852226665630653",
+		"adset_name": "ABERTO",
+		"impressions": "94012",
+		"clicks": "2013",
+		"cpc": "0.302226",
+		"cpm": "6.471302",
+		"cpp": "9.816222",
+		"ctr": "2.141216",
+		"frequency": "1.516885",
+		"reach": "61977",
+		"spend": "608.38",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "15625"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "293"
+			},
+			{
+				"action_type": "link_click",
+				"value": "509"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "64"
+			},
+			{
+				"action_type": "comment",
+				"value": "13"
+			},
+			{
+				"action_type": "post",
+				"value": "32"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_first_reply",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "360"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "16536"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "16536"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1288644968294464",
+		"campaign_id": "23853386097730195",
+		"adset_id": "23853491257460195",
+		"adset_name": "ESTÉTICA 25 A 45 FEM — ALTO VALOR",
+		"impressions": "15627",
+		"clicks": "114",
+		"cpc": "2.122632",
+		"cpm": "15.484738",
+		"cpp": "23.12721",
+		"ctr": "0.729507",
+		"frequency": "1.493549",
+		"reach": "10463",
+		"spend": "241.98",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "video_view",
+				"value": "2851"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "29"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "11"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2896"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2896"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "1288644968294464",
+		"campaign_id": "23853386097730195",
+		"adset_id": "23853491289140195",
+		"adset_name": "ABERTO 25 A 45 FEM",
+		"impressions": "15818",
+		"clicks": "103",
+		"cpc": "2.564369",
+		"cpm": "16.698066",
+		"cpp": "26.156665",
+		"ctr": "0.651157",
+		"frequency": "1.566449",
+		"reach": "10098",
+		"spend": "264.13",
+		"actions": [
+			{
+				"action_type": "video_view",
+				"value": "2741"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "post",
+				"value": "4"
+			},
+			{
+				"action_type": "link_click",
+				"value": "31"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "8"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "2789"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "2789"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115825920610",
+		"adset_name": "PB PV SITE 15D - CADASTRO - RMKTG",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "3388",
+		"clicks": "16",
+		"cpc": "3.25125",
+		"cpm": "15.354191",
+		"cpp": "56.605005",
+		"ctr": "0.472255",
+		"frequency": "3.686616",
+		"reach": "919",
+		"spend": "52.02",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "12"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "3"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "2"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "7"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "2357"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "12"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "12"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "3"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "2357"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "3"
+			},
+			{
+				"action_type": "view_content",
+				"value": "2357"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115825930610",
+		"adset_name": "ENG IG + FB 30D",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "1"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "1"
+			}
+		],
+		"impressions": "12770",
+		"clicks": "96",
+		"cpc": "1.770938",
+		"cpm": "13.313234",
+		"cpp": "18.459283",
+		"ctr": "0.751762",
+		"frequency": "1.386536",
+		"reach": "9210",
+		"spend": "170.01",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "56"
+			},
+			{
+				"action_type": "post",
+				"value": "5"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "1"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "9"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "34"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "40"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "61"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "61"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "lead",
+				"value": "9"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "34"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "view_content",
+				"value": "34"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853115825900610",
+		"adset_id": "23853115840190610",
+		"adset_name": "SEG FB + SEM 1% SEG FB",
+		"impressions": "3069",
+		"clicks": "19",
+		"cpc": "1.779474",
+		"cpm": "11.016618",
+		"cpp": "12.870194",
+		"ctr": "0.619094",
+		"frequency": "1.168253",
+		"reach": "2627",
+		"spend": "33.81",
+		"actions": [
+			{
+				"action_type": "link_click",
+				"value": "10"
+			},
+			{
+				"action_type": "onsite_conversion.messaging_conversation_started_7d",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "6"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "2"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "10"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "10"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "2"
+			},
+			{
+				"action_type": "lead",
+				"value": "2"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "2"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291760610",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "5"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "5"
+			}
+		],
+		"impressions": "15714",
+		"clicks": "198",
+		"cpc": "1.428333",
+		"cpm": "17.997327",
+		"cpp": "24.138785",
+		"ctr": "1.260023",
+		"frequency": "1.341243",
+		"reach": "11716",
+		"spend": "282.81",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "105"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "14"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "5"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "13"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "35"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "59"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "120"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "120"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "lead",
+				"value": "13"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "35"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "view_content",
+				"value": "35"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291770610",
+		"adset_name": "ENG IG + FB 30D",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "4"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "4"
+			}
+		],
+		"impressions": "14462",
+		"clicks": "198",
+		"cpc": "1.429949",
+		"cpm": "19.577513",
+		"cpp": "26.99304",
+		"ctr": "1.369105",
+		"frequency": "1.378778",
+		"reach": "10489",
+		"spend": "283.13",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "99"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "31"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "55"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "21"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "4"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "15"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "88"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "131"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "131"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "21"
+			},
+			{
+				"action_type": "lead",
+				"value": "15"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "88"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "21"
+			},
+			{
+				"action_type": "view_content",
+				"value": "88"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291780610",
+		"adset_name": "PROP EMP",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "14919",
+		"clicks": "226",
+		"cpc": "1.251018",
+		"cpm": "18.951002",
+		"cpp": "25.820091",
+		"ctr": "1.514847",
+		"frequency": "1.362466",
+		"reach": "10950",
+		"spend": "282.73",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "106"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "26"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "62"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "21"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "7"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "125"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "125"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "26"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "21"
+			},
+			{
+				"action_type": "lead",
+				"value": "7"
+			},
+			{
+				"action_type": "view_content",
+				"value": "26"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "21"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291810610",
+		"adset_name": "Plataformas",
+		"impressions": "15056",
+		"clicks": "161",
+		"cpc": "1.755093",
+		"cpm": "18.767933",
+		"cpp": "26.378827",
+		"ctr": "1.069341",
+		"frequency": "1.405527",
+		"reach": "10712",
+		"spend": "282.57",
+		"actions": [
+			{
+				"action_type": "post_reaction",
+				"value": "17"
+			},
+			{
+				"action_type": "link_click",
+				"value": "88"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "8"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "53"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "141"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "105"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "105"
+			},
+			{
+				"action_type": "lead",
+				"value": "8"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "141"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "18"
+			},
+			{
+				"action_type": "view_content",
+				"value": "141"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117291580610",
+		"adset_id": "23853117291820610",
+		"adset_name": "1% CADASTRO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "2"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "2"
+			}
+		],
+		"impressions": "13603",
+		"clicks": "154",
+		"cpc": "1.887338",
+		"cpm": "21.36661",
+		"cpp": "27.680952",
+		"ctr": "1.132103",
+		"frequency": "1.295524",
+		"reach": "10500",
+		"spend": "290.65",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "88"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "21"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "2"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "59"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "22"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "15"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "56"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "110"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "110"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "59"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "22"
+			},
+			{
+				"action_type": "lead",
+				"value": "15"
+			},
+			{
+				"action_type": "view_content",
+				"value": "59"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "22"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117430890610",
+		"adset_name": "Plataformas",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "14235",
+		"clicks": "231",
+		"cpc": "1.191212",
+		"cpm": "19.330523",
+		"cpp": "24.175892",
+		"ctr": "1.622761",
+		"frequency": "1.250659",
+		"reach": "11382",
+		"spend": "275.17",
+		"actions": [
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "151"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "15"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "118"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "126"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "30"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "16"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "169"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "169"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "118"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "30"
+			},
+			{
+				"action_type": "lead",
+				"value": "16"
+			},
+			{
+				"action_type": "view_content",
+				"value": "118"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "30"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431330610",
+		"adset_name": "ABERTO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "16091",
+		"clicks": "141",
+		"cpc": "1.879574",
+		"cpm": "16.470076",
+		"cpp": "29.750786",
+		"ctr": "0.876266",
+		"frequency": "1.806354",
+		"reach": "8908",
+		"spend": "265.02",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "81"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "10"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "70"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "12"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "56"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "93"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "93"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "lead",
+				"value": "12"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "56"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "17"
+			},
+			{
+				"action_type": "view_content",
+				"value": "56"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431360610",
+		"adset_name": "Shark Tank",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "3"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "3"
+			}
+		],
+		"impressions": "14420",
+		"clicks": "218",
+		"cpc": "1.263119",
+		"cpm": "19.0957",
+		"cpp": "24.044708",
+		"ctr": "1.511789",
+		"frequency": "1.259169",
+		"reach": "11452",
+		"spend": "275.36",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "3"
+			},
+			{
+				"action_type": "post",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "158"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "3"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "136"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "14"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "145"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "183"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "183"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "lead",
+				"value": "14"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "145"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "view_content",
+				"value": "145"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431380610",
+		"adset_name": "ENG IG + FB 365",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "6"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "6"
+			}
+		],
+		"impressions": "14892",
+		"clicks": "111",
+		"cpc": "2.476036",
+		"cpm": "18.455547",
+		"cpp": "49.316347",
+		"ctr": "0.745367",
+		"frequency": "2.672169",
+		"reach": "5573",
+		"spend": "274.84",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "5"
+			},
+			{
+				"action_type": "link_click",
+				"value": "57"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "11"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "6"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "11"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "19"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "53"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "256"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "74"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "74"
+			},
+			{
+				"action_type": "lead",
+				"value": "11"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "19"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "256"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "19"
+			},
+			{
+				"action_type": "view_content",
+				"value": "256"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431410610",
+		"adset_name": "ENG IG + FB 30D",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "5"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "5"
+			}
+		],
+		"impressions": "14825",
+		"clicks": "212",
+		"cpc": "1.294198",
+		"cpm": "18.507251",
+		"cpp": "23.019549",
+		"ctr": "1.430017",
+		"frequency": "1.243812",
+		"reach": "11919",
+		"spend": "274.37",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "1"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "7"
+			},
+			{
+				"action_type": "link_click",
+				"value": "149"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "131"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "50"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "5"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "158"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "158"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "lead",
+				"value": "18"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "50"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "35"
+			},
+			{
+				"action_type": "view_content",
+				"value": "50"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853117431220610",
+		"adset_id": "23853117431530610",
+		"adset_name": "1% CADASTRO",
+		"conversions": [
+			{
+				"action_type": "contact_website",
+				"value": "8"
+			},
+			{
+				"action_type": "contact_total",
+				"value": "8"
+			}
+		],
+		"impressions": "14340",
+		"clicks": "210",
+		"cpc": "1.312619",
+		"cpm": "19.222455",
+		"cpp": "24.02388",
+		"ctr": "1.464435",
+		"frequency": "1.249782",
+		"reach": "11474",
+		"spend": "275.65",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "comment",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "3"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "13"
+			},
+			{
+				"action_type": "link_click",
+				"value": "130"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "105"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "24"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_custom",
+				"value": "8"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "8"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "83"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "150"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "150"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "24"
+			},
+			{
+				"action_type": "lead",
+				"value": "8"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "83"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "24"
+			},
+			{
+				"action_type": "view_content",
+				"value": "83"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476100610",
+		"adset_name": "PROP EMP",
+		"impressions": "9983",
+		"clicks": "49",
+		"cpc": "4.785102",
+		"cpm": "23.486928",
+		"cpp": "27.741363",
+		"ctr": "0.490834",
+		"frequency": "1.181141",
+		"reach": "8452",
+		"spend": "234.47",
+		"actions": [
+			{
+				"action_type": "comment",
+				"value": "1"
+			},
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "22"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "14"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "15"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "3"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "370"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "40"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "40"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "lead",
+				"value": "3"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "370"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "view_content",
+				"value": "370"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476130610",
+		"adset_name": "Shark Tank",
+		"impressions": "12380",
+		"clicks": "68",
+		"cpc": "3.149412",
+		"cpm": "17.298869",
+		"cpp": "20.156235",
+		"ctr": "0.549273",
+		"frequency": "1.165176",
+		"reach": "10625",
+		"spend": "214.16",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "link_click",
+				"value": "37"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "17"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "3"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "18"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "239"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "56"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "56"
+			},
+			{
+				"action_type": "lead",
+				"value": "3"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "239"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "6"
+			},
+			{
+				"action_type": "view_content",
+				"value": "239"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	},
+	{
+		"account_id": "2300449873536260",
+		"campaign_id": "23853129475800610",
+		"adset_id": "23853129476150610",
+		"adset_name": "Plataformas",
+		"impressions": "12023",
+		"clicks": "67",
+		"cpc": "3.509552",
+		"cpm": "19.557515",
+		"cpp": "24.521848",
+		"ctr": "0.557265",
+		"frequency": "1.253833",
+		"reach": "9589",
+		"spend": "235.14",
+		"actions": [
+			{
+				"action_type": "onsite_conversion.post_save",
+				"value": "2"
+			},
+			{
+				"action_type": "post",
+				"value": "1"
+			},
+			{
+				"action_type": "link_click",
+				"value": "40"
+			},
+			{
+				"action_type": "post_reaction",
+				"value": "8"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_lead",
+				"value": "4"
+			},
+			{
+				"action_type": "landing_page_view",
+				"value": "21"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_complete_registration",
+				"value": "8"
+			},
+			{
+				"action_type": "offsite_conversion.fb_pixel_view_content",
+				"value": "439"
+			},
+			{
+				"action_type": "post_engagement",
+				"value": "51"
+			},
+			{
+				"action_type": "page_engagement",
+				"value": "51"
+			},
+			{
+				"action_type": "lead",
+				"value": "4"
+			},
+			{
+				"action_type": "omni_complete_registration",
+				"value": "8"
+			},
+			{
+				"action_type": "omni_view_content",
+				"value": "439"
+			},
+			{
+				"action_type": "complete_registration",
+				"value": "8"
+			},
+			{
+				"action_type": "view_content",
+				"value": "439"
+			}
+		],
+		"date_start": "2022-11-22",
+		"date_stop": "2023-02-19",
+		"date_preset": "last_90d"
+	}
+]
