@@ -3,7 +3,7 @@ const fs = require('fs');
 const env = require('dotenv').config();
 const path = require('path');
 const app = express();
-const port = 3000;
+const port = process.env.PORT_APP || 3000;
 
 const {downloadAdset, downloadAds, downloadInsights, downloadAccountCampaigns} = require('./downloadFiles')
 
