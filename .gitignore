@@ -102,10 +102,11 @@ public
 .tern-port
 
 # Output Data
-#output/last_3d/
-#output/last_7d/
-#output/last_14d/
-#output/last_30d/
-#output/last_90d/
-#output/today/
-#output/yesterday/
+output/last_3d/*.json
+output/last_7d/*.json
+output/last_14d/*.json
+output/last_30d/*.json
+output/last_90d/*.json
+output/today/*.json
+output/yesterday/*.json
+output/*.json
