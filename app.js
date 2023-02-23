@@ -4,6 +4,9 @@ const env = require('dotenv').config();
 const path = require('path');
 const app = express();
 const port = process.env.PORT_APP || 3000;
+const DBConnection = require('./config/databaseConnection');
+DBConnection.createConnection();
+
 
 const {downloadAdset, downloadAds, downloadInsights, downloadAccountCampaigns} = require('./downloadFiles')
 
@@ -25,6 +28,7 @@ app.get('/ads', async (req, res) => {
     } catch (error) {
         res.sendStatus(500);
     }
+    
   })
 
 /* --- Retrive the ads insights */
@@ -131,7 +135,7 @@ app.get('/campaigninsights', async (req, res) => {
 /* ---- Retrive all clients ads ----- */
 app.get('/accounts', async (req, res) => {
     
-    try {     
+/*     try {     
       fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', (err, data) => {
         if (err){
           res.status(404).send('Arquivo não encontrado!');
@@ -143,7 +147,21 @@ app.get('/accounts', async (req, res) => {
 
     } catch (error) {
         res.sendStatus(500);
+    } */
+
+    try {     
+      fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', async (err, data) => {
+        if (err) throw err;
+      
+        await DBConnection.insertData('AdAccount', JSON.parse(data))
+        return res.json(JSON.parse(data));
+      });
+
+    } catch (error) {
+        console.error(error);
+        res.sendStatus(500);
     }
+
   })
 
   /* ------ Routes to download the facebook data ------ */

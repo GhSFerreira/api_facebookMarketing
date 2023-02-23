@@ -6,9 +6,17 @@ const fs = require('fs');
 const path = require('path');
 
 /* --- Configurações do axios --- */
-axios.defaults.timeout = 180000
+axios.defaults.timeout = 60 * 2 *1000 // 2 minutes in ms
 axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
+
+function getInsights(params) {
+    
+}
+
+function getAdsCampaignAdset(params) {
+    
+}
 
 
 module.exports = {
@@ -500,7 +508,7 @@ module.exports = {
             try {
                 response = await axios.get(urlClientCampaigns,{
                     params: {
-                        aaccess_token: process.env.FACEBOOK_TOKEN,
+                        access_token: process.env.FACEBOOK_TOKEN,
                         fields: '["id", "account_id", "account_status", "age", "business_name", "business_city", "business_state", "currency", "name", "balance"]'
                     }
                 
@@ -510,7 +518,6 @@ module.exports = {
 
             } catch (error) {
                 console.error(`${error.message} - Baixando contas de anúncio => ${clients[i]}`);
-                break;
             }
             
         }
