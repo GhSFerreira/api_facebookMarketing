@@ -157,9 +157,14 @@ app.get('/download-adset', (req, res) => {
   }
 }) 
 
-app.get('/download-insights', (req, res) => {
+app.get('/download-insights', async (req, res) => {
   try {
     console.log('------- Iniciando o download insights ------');
+    console.log('------- Excluindo dados existentes das collecionts Insights ------');
+    await DBConnection.clearCollection('Insight-Ads');
+    await DBConnection.clearCollection('Insight-AdSet');
+    await DBConnection.clearCollection('Insight-Campaign');
+    
     downloadInsights('today');
     downloadInsights('yesterday');
     downloadInsights('last_3d');

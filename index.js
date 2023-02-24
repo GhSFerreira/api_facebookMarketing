@@ -2,8 +2,6 @@ const { default: axios } = require("axios");
 const env = require('dotenv').config();
 const https = require('https');
 const http = require('http');
-const fs = require('fs');
-const path = require('path');
 const DBConnection = require('./config/databaseConnection');
 
 /* --- Configurações do axios --- */
@@ -15,8 +13,6 @@ module.exports = {
     
     /* ----- Fornece os insights no nível de anúnicios------- */
     async getAdInsights(clients, data_preset) {
-    
-        await DBConnection.clearCollection('Insight-Ads');
 
         var adsInsights = [];
         for (let i = 0; i < clients.length; i++) {
@@ -162,7 +158,6 @@ module.exports = {
 
     /* ----- Fornece os insights no nível de conjunto de anúnicios ------- */
     async getAdSetInsights(clients, data_preset) {
-        await DBConnection.clearCollection('Insight-AdSet');
 
         var adSetInsights = [];
         for (let i = 0; i < clients.length; i++) {
@@ -308,7 +303,6 @@ module.exports = {
 
     /* ----- Fornece os insights no nível de campanha de anúnicios ------- */
     async getCampaignInsights(clients, data_preset) {
-        await DBConnection.clearCollection('Insight-Campaign');
 
         var campaignInsights = [];
         for (let i = 0; i < clients.length; i++) {
