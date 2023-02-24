@@ -32,13 +32,35 @@ async function terminateConnection() {
 async function insertData(collection, data) {
   try {
     const insertResult = await database.collection(collection).insertMany(data);
-    console.log('Inserted documents =>', insertResult);
     return insertResult;
   } catch (error) {
     console.error(error);
   }
 }
 
-module.exports= {createConnection, terminateConnection, insertData}
+async function clearCollection(mongoCollection) {
+  if (mongoCollection) {
+    try {
+      const deleted = await client.db(dbName).collection(mongoCollection).deleteMany({});
+      console.log(`Collection ${mongoCollection} deleted succesfully! ${deleted.deletedCount} objects deleted`);
+      return deleted;
+    } catch (error) {
+      console.error(`Error: clerCollection => ${error.message}`);
+      return 0;
+    }
+  } else {
+    throw Error({message: 'colletion not provided to clearColletion'})
+  }
+}
 
-//createConnection()
+async function getData(collectionName, options = {}) {
+  if (!collectionName || !options){
+    return Error({error: {code: 1, message: 'collectionName or params nor declared at getData params => databaseConnection'}})
+  }else{
+    const collection = await client.db(dbName).collection(collectionName).find().toArray();
+    return collection
+  }
+}
+
+module.exports= {createConnection, terminateConnection, insertData, clearCollection, getData}
+
