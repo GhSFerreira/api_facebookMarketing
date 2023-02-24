@@ -4,26 +4,20 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const DBConnection = require('./config/databaseConnection');
 
 /* --- Configurações do axios --- */
 axios.defaults.timeout = 60 * 2 *1000 // 2 minutes in ms
 axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
 
-function getInsights(params) {
-    
-}
-
-function getAdsCampaignAdset(params) {
-    
-}
-
-
 module.exports = {
     
     /* ----- Fornece os insights no nível de anúnicios------- */
     async getAdInsights(clients, data_preset) {
     
+        await DBConnection.clearCollection('Insight-Ads');
+
         var adsInsights = [];
         for (let i = 0; i < clients.length; i++) {
             
@@ -87,25 +81,20 @@ module.exports = {
         
         adsInsights.forEach(ads => ads.date_preset = data_preset);
 
-        temp = JSON.stringify(adsInsights, null, '\t')
-        
         try {
-            fs.writeFile(path.join(__dirname, "output", data_preset ,"adsinsights" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log(`--- Arquivo ${data_preset}/adsinsights.json salvo! ---`);
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
+            const data_inserted_db = await DBConnection.insertData('Insight-Ads', adsInsights);
+            console.log(`**** AdsInsights info added to Insight-Ads! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
      
-        return 0;
-
     },
     
     /* ----- Fornce informações sobre os anúncios ------- */
     async getAds(clients) {
     
+        await DBConnection.clearCollection('Ads');
+
         var ads = [];
         for (let i = 0; i < clients.length; i++) {
             
@@ -162,26 +151,18 @@ module.exports = {
             } while (true);
     
         }
-    
-        temp = JSON.stringify(ads, null, '\t')
-        
+         
         try {
-            fs.writeFile(path.join(__dirname, "output", "ads" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log('--- Arquivo ads.json salvo! ---');
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
-     
-        return 0;
+            const data_inserted_db = await DBConnection.insertData('Ads', ads);
+            console.log(`**** Ads info added to Ads! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
     },
 
     /* ----- Fornece os insights no nível de conjunto de anúnicios ------- */
     async getAdSetInsights(clients, data_preset) {
-    
-        /* GET CLIENTS ID */
+        await DBConnection.clearCollection('Insight-AdSet');
 
         var adSetInsights = [];
         for (let i = 0; i < clients.length; i++) {
@@ -245,25 +226,20 @@ module.exports = {
         }
     
         adSetInsights.forEach(adset => adset.date_preset = data_preset);
-        temp = JSON.stringify(adSetInsights, null, '\t')
-        
+
         try {
-            fs.writeFile(path.join(__dirname, "output", data_preset,"adsetsinsights" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log(`--- Arquivo ${data_preset}/adsetsinsights.json salvo! ---`);
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
-     
-        return 0;
+            const data_inserted_db = await DBConnection.insertData('Insight-AdSet', adSetInsights);
+            console.log(`**** Adsetsinsights info added to Insight-AdSet! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
      
     },
     
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getAdSets(clients) {
-    
+        await DBConnection.clearCollection('AdSet');
+
         var adSet = [];
         for (let i = 0; i < clients.length; i++) {
             
@@ -322,25 +298,17 @@ module.exports = {
     
         }
     
-        temp = JSON.stringify(adSet, null, '\t')
-        
         try {
-            fs.writeFile(path.join(__dirname, "output", "adsets" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log('--- Arquivo adsets.json salvo! ---');
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
-
-        return 0;
+            const data_inserted_db = await DBConnection.insertData('AdSet', adSet);
+            console.log(`**** AdSet info added to AdSet! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
     },
 
     /* ----- Fornece os insights no nível de campanha de anúnicios ------- */
     async getCampaignInsights(clients, data_preset) {
-    
-        /* GET CLIENTS ID */
+        await DBConnection.clearCollection('Insight-Campaign');
 
         var campaignInsights = [];
         for (let i = 0; i < clients.length; i++) {
@@ -402,25 +370,20 @@ module.exports = {
     
         }
         campaignInsights.forEach( campaign =>  campaign.date_preset = data_preset);
-        temp = JSON.stringify(campaignInsights, null, '\t')
         
         try {
-            fs.writeFile(path.join(__dirname, "output", data_preset, "campaigninsights" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log(`--- Arquivo ${data_preset}/campaigninsights.json salvo! ---`);
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
-
-        return 0;
+            const data_inserted_db = await DBConnection.insertData('Insight-Campaign', campaignInsights);
+            console.log(`**** CampaignInsights info added to Insight-Campaign! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
      
     },
 
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getCampaings(clients) {
-    
+        await DBConnection.clearCollection('Campaign');
+
         var campaigns = [];
         for (let i = 0; i < clients.length; i++) {
             
@@ -479,24 +442,20 @@ module.exports = {
     
         }
 
-        temp = JSON.stringify(campaigns, null, '\t')
-
         try {
-            fs.writeFile(path.join(__dirname, "output", "campaigns" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log('--- Arquivo campaigns.json salvo! ---');
-                return 1;
-              });
-        } catch (error) {
-            console.error(error.message);
-        }
+            const data_inserted_db = await DBConnection.insertData('Campaign', campaigns);
+            console.log(`**** Campaings info added to Campaign! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
 
-        return 0;
     },
 
     /* ----- Fornce informações sobre o conjunto de anúncios ------- */
     async getAdAccounts(clients) {
     
+        await DBConnection.clearCollection('AdAccount');
+
         var accounts = [];
         for (let i = 0; i < clients.length; i++) {
             
@@ -522,19 +481,12 @@ module.exports = {
             
         }
 
-        temp = JSON.stringify(accounts, null, '\t')
-
         try {
-            fs.writeFile(path.join(__dirname, "output", "accounts" + ".json"), temp, (err, data) => {
-                if (err) throw err
-                console.log('--- Arquivo accounts.json salvo! ---');
-                return 1;
-              });
+           const data_inserted_db = await DBConnection.insertData('AdAccount', accounts);
+           console.log(`**** Account info added to AdAccount! ${data_inserted_db.insertedCount} inserted ****`);
         } catch (error) {
             console.error(error.message);
         }
-
-        return 0;
     },
 }
 

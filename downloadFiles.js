@@ -31,9 +31,11 @@ clients = ['5379057635480936', '1224883661342179', '695922761665977',
         await getAdInsights(clients, data_preset)
     }
 
-    async function downloadAccountCampaigns() {
+    async function downloadAccount() {
         await getAdAccounts(clients)
-        //await getCampaings(clients)
+    }
+    async function downloadCampaigns() {
+        await getCampaings(clients)
     }
 
     async function downloadAdset() {
@@ -44,5 +46,5 @@ clients = ['5379057635480936', '1224883661342179', '695922761665977',
     }
 
     module.exports = {
-        downloadAdset, downloadAds, downloadAccountCampaigns, downloadInsights
+        downloadAdset, downloadAds, downloadAccount, downloadCampaigns, downloadInsights
     }

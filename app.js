@@ -8,7 +8,7 @@ const DBConnection = require('./config/databaseConnection');
 DBConnection.createConnection();
 
 
-const {downloadAdset, downloadAds, downloadInsights, downloadAccountCampaigns} = require('./downloadFiles')
+const {downloadAdset, downloadAds, downloadInsights, downloadAccountCampaigns, downloadCampaigns, downloadAccount} = require('./downloadFiles')
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -134,29 +134,10 @@ app.get('/campaigninsights', async (req, res) => {
 
 /* ---- Retrive all clients ads ----- */
 app.get('/accounts', async (req, res) => {
-    
-/*     try {     
-      fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-
-    } catch (error) {
-        res.sendStatus(500);
-    } */
-
     try {     
-      fs.readFile(path.join(__dirname, "output", "accounts" + ".json"),'utf8', async (err, data) => {
-        if (err) throw err;
+      const accounts = await DBConnection.getData('AdAccount');
+      return res.send(accounts);
       
-        await DBConnection.insertData('AdAccount', JSON.parse(data))
-        return res.json(JSON.parse(data));
-      });
-
     } catch (error) {
         console.error(error);
         res.sendStatus(500);
@@ -202,15 +183,25 @@ app.get('/download-ads', (req, res) => {
   }
 }) 
 
-app.get('/download-accountcampaign', (req, res) => {
+app.get('/download-account', (req, res) => {
   try {
-    console.log('------- Iniciando o download Account-Campaign ------');
-    downloadAccountCampaigns()
-    return res.send('Account-Campaign download in progress..')
+    console.log('------- Iniciando o download Account ------');
+    downloadAccount()
+    return res.send('Account download in progress..')
   } catch (error) {
       return res.status(500).send(error);
   }
-}) 
+})
+
+app.get('/download-campaign', async (req, res) => {
+  try {
+    console.log('------- Iniciando o download Campaign ------');
+    downloadCampaigns()
+    return res.send('Campaign download in progress..')
+  } catch (error) {
+      return res.status(500).send(error);
+  }
+})
 
 app.listen(port, () => {
   console.log(`Listening port: ${port}`)
