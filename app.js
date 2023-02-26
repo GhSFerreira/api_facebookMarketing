@@ -8,7 +8,7 @@ const DBConnection = require('./config/databaseConnection');
 DBConnection.createConnection();
 
 
-const {downloadAdset, downloadAds, downloadInsights, downloadAccountCampaigns, downloadCampaigns, downloadAccount} = require('./downloadFiles')
+const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAccount} = require('./downloadFiles')
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -19,117 +19,78 @@ app.get('/', (req, res) => {
 /* ---- Retrive all clients ads ----- */
 app.get('/ads', async (req, res) => {
 
-    try {
-      fs.readFile(path.join(__dirname, "output", "ads" + ".json"),'utf8', (err, data) => {
-        if (err) throw err
-        res.json(JSON.parse(data));
-      });
-
-    } catch (error) {
-        res.sendStatus(500);
-    }
+  try {     
+    const accounts = await DBConnection.getData('Ads');
+    return res.send(accounts);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
     
   })
 
 /* --- Retrive the ads insights */
 app.get('/adsinsights', async (req, res) => {
-  if(!req.query.hasOwnProperty('data_preset')){
-    return res.status(400).send({'error': "data_preset not informed in query. Could be today, yesterday, last_7d,.."})
-  } else{
-    try {
-      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsinsights" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-      
-    } catch (err) {
-      console.error(err);
+  try {     
+    const accounts = await DBConnection.getData('Insight-Ads');
+    return res.send(accounts);
+    
+  } catch (error) {
+      console.error(error);
       res.sendStatus(500);
-    }
   }
   })
 
 /* ---- Retrive all clients adSets ----- */
 app.get('/adsets', async (req, res) => {
    
-    try {
-      fs.readFile(path.join(__dirname, "output", "adsets" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-
-    } catch (error) {
-        res.sendStatus(500);
-    }
+  try {     
+    const accounts = await DBConnection.getData('AdSet');
+    return res.send(accounts);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
   })
 
 /* --- Retrive the adSet insights */
 app.get('/adsetsinsights', async (req, res) => {
-  if(!req.query.hasOwnProperty('data_preset')){
-    return res.status(400).send({'error': "data_preset not informed in query. Could be today, yesterday, last_7d,.."})
-  } else{
-    try {
-      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "adsetsinsights" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-
-    } catch (error) {
-        res.sendStatus(500);
-    }
+  try {     
+    const accounts = await DBConnection.getData('Insight-AdSet');
+    return res.send(accounts);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
   }
   })
 
 /* ---- Retrive all clients ads ----- */
 app.get('/campaigns', async (req, res) => {
 
-    try {
-      fs.readFile(path.join(__dirname, "output", "campaigns" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-
-    } catch (error) {
-        res.sendStatus(500);
-    }
+  try {     
+    const accounts = await DBConnection.getData('Campaign');
+    return res.send(accounts);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
 
   })
 
 /* --- Retrive the ads insights */
 app.get('/campaigninsights', async (req, res) => {
-  if(!req.query.hasOwnProperty('data_preset')){
-    return res.status(400).send({'error': "data_preset not informed in query. Could be today, yesterday, last_7d,.."})
-  } else{
-    try {
-      fs.readFile(path.join(__dirname, "output", req.query.data_preset, "campaigninsights" + ".json"),'utf8', (err, data) => {
-        if (err){
-          res.status(404).send('Arquivo não encontrado!');
-          console.error(err);
-        }else{
-          res.json(JSON.parse(data));
-        }
-      });
-
+    try {     
+      const accounts = await DBConnection.getData('Insight-Campaign');
+      return res.send(accounts);
+      
     } catch (error) {
+        console.error(error);
         res.sendStatus(500);
     }
-  }
   });
 
 /* ---- Retrive all clients ads ----- */

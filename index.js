@@ -5,7 +5,7 @@ const http = require('http');
 const DBConnection = require('./config/databaseConnection');
 
 /* --- Configurações do axios --- */
-axios.defaults.timeout = 60 * 2 *1000 // 2 minutes in ms
+axios.defaults.timeout = 60 * 2 * 1000 // 2 minutes in ms
 axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
 

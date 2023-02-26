@@ -1,3 +1,5 @@
+const cron = require('node-cron');
+const DBConnection = require('./config/databaseConnection');
 
 const {getAdInsights, getAds, getAdSets, getAdSetInsights, getCampaings, getCampaignInsights, getAdAccounts} = require('./index');
 
@@ -44,6 +46,41 @@ clients = ['5379057635480936', '1224883661342179', '695922761665977',
     async function downloadAds() {
          await getAds(clients)
     }
+
+    cron.schedule("0 26 19 * * *", async () => {
+        console.log('\n**** Executando o agendamento - Insights *****');
+        console.log('\n**** Executando o agendamento - Campaign *****');
+        console.log('------- Excluindo dados existentes das collecionts Insights ------');
+        await DBConnection.clearCollection('Insight-Ads');
+        await DBConnection.clearCollection('Insight-AdSet');
+        await DBConnection.clearCollection('Insight-Campaign');
+        downloadInsights('today');
+        downloadInsights('yesterday');
+        downloadInsights('last_3d');
+        downloadInsights('last_7d');
+        downloadInsights('last_14d');
+        downloadInsights('last_30d');
+        downloadInsights('last_90d');
+    });
+
+    cron.schedule("0 31 18 * * *", () => {
+        downloadCampaigns();
+    });
+
+    cron.schedule("0 50 18 * * *", () => {
+        console.log('\n**** Executando o agendamento - Adset *****');
+        downloadAdset();
+    });
+
+    cron.schedule("0 10 19 * * *", () => {
+        console.log('\n**** Executando o agendamento - Ads *****');
+        downloadAds();
+    });
+
+    cron.schedule("0 37 19 * * *", () => {
+        console.log('\n**** Executando o agendamento - Account *****');
+        downloadAccount();
+    });
 
     module.exports = {
         downloadAdset, downloadAds, downloadAccount, downloadCampaigns, downloadInsights
