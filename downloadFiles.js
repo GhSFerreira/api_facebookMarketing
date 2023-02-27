@@ -47,7 +47,7 @@ clients = ['5379057635480936', '1224883661342179', '695922761665977',
          await getAds(clients)
     }
 
-    cron.schedule("0 29 20 * * *", async () => {
+    cron.schedule("0 33 23 * * *", async () => {
         console.log('\n**** Executando o agendamento - Insights *****');
         console.log('\n**** Executando o agendamento - Campaign *****');
         console.log('------- Excluindo dados existentes das collecionts Insights ------');
