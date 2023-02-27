@@ -5,8 +5,6 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT_APP || 3000;
 const DBConnection = require('./config/databaseConnection');
-DBConnection.createConnection();
-
 
 const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAccount} = require('./downloadFiles')
 
@@ -169,7 +167,12 @@ app.get('/download-campaign', async (req, res) => {
   }
 })
 
-app.listen(port, () => {
-  console.log(`Listening port: ${port}`)
-})
+try {
+  DBConnection.createConnection();
+  app.listen(port, () => {
+    console.log(`Listening port: ${port}`)
+  })
+} catch (error) {
+  
+}
 
