@@ -55,7 +55,7 @@ module.exports = {
                                 date_preset: data_preset,
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"ad.impressions",operator:"GREATER_THAN",value:0}]',
-                                fields: '["account_id", "ad_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                                fields: '["account_id", "ad_id","impressions", "clicks", "cpc", "cost_per_unique_inline_link_click", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         });
@@ -200,7 +200,7 @@ module.exports = {
                                 date_preset: data_preset,
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"adset.effective_status","operator":"IN","value":["ACTIVE"]}]',
-                                fields: '["account_id", "campaign_id", "adset_id", "adset_name", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                                fields: '["account_id", "campaign_id", "adset_id", "adset_name","impressions", "clicks", "cpc", "cost_per_unique_inline_link_click", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         })
@@ -273,7 +273,7 @@ module.exports = {
                             params: {
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 effective_status: '["ACTIVE"]',
-                                fields: '["id", "account_id", "campaign_id", "billing_event", "budget_remaining","effective_status", "created_time","destination_type", "optimization_goal"]'
+                                fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","effective_status","destination_type", "optimization_goal"]'
                             }
                         
                         })
@@ -345,7 +345,7 @@ module.exports = {
                                 date_preset: data_preset,
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"campaign.effective_status","operator":"IN","value":["ACTIVE"]}]',
-                                fields: '["campaign_id","account_id", "conversions","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                                fields: '["campaign_id","account_id","impressions", "clicks", "cpc", "cost_per_unique_inline_link_click", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         })
@@ -374,7 +374,7 @@ module.exports = {
      
     },
 
-    /* ----- Fornce informações sobre o conjunto de anúncios ------- */
+    /* ----- Fornce informações sobre as campanhas ------- */
     async getCampaings(clients) {
         await DBConnection.clearCollection('Campaign');
 
@@ -417,7 +417,7 @@ module.exports = {
                             params: {
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 effective_status: '["ACTIVE"]', 
-                                fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time"]'
+                                fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time","stop_time","objective"]'
                             }
                         
                         })
