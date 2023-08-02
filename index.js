@@ -10,7 +10,7 @@ axios.defaults.httpAgent = new http.Agent({ keepAlive: true })
 axios.defaults.httpsAgent = new https.Agent({ keepAlive: true })
 
 module.exports = {
-    
+
     /* ----- Fornece os insights no nível de anúnicios------- */
     async getAdInsights(clients, data_preset) {
 
@@ -345,7 +345,7 @@ module.exports = {
                                 date_preset: data_preset,
                                 access_token: process.env.FACEBOOK_TOKEN,
                                 filtering: '[{field:"campaign.effective_status","operator":"IN","value":["ACTIVE"]}]',
-                                fields: '["campaign_id","account_id","impressions", "clicks", "cpc", "cost_per_unique_inline_link_click", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                                fields: '["campaign_id","account_id","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
                             }
                         
                         })
@@ -481,6 +481,148 @@ module.exports = {
         } catch (error) {
             console.error(error.message);
         }
+    },
+
+    /* ----- Fornce informações sobre as campanhas ------- */
+    async getAllCampaings(clients) {
+        await DBConnection.clearCollection('Campaign_all');
+
+        var campaigns = [];
+        for (let i = 0; i < clients.length; i++) {
+            
+            console.log('Baixando campanhas => ' + clients[i]);
+    
+            urlClientCampaigns = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/campaigns"
+            var response = {};
+            var nextPage = 0;
+    
+            do {
+                
+                if(nextPage != 0){
+    
+                    campaigns = campaigns.concat(response.data.data);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(`${error.message} - Baixando campanhas_all => ${clients[i]}`);
+                        break;
+                    }
+    
+                    if(response.data.paging.hasOwnProperty('next')){
+                        nextPage = response.data.paging.next;
+    
+                    }else{
+                        nextPage = 0;
+                    }
+    
+    
+                }else if (nextPage == 0 && Object.keys(response).length != 0) {
+                    campaigns = campaigns.concat(response.data.data);
+                    break;
+                }else{
+    
+                    try {
+                        response = await axios.get(urlClientCampaigns,{
+                            params: {
+                                access_token: process.env.FACEBOOK_TOKEN,
+                                fields: '["id", "name", "account_id", "budget_remaining", "status","daily_budget","effective_status","start_time","stop_time","objective"]'
+                            }
+                        
+                        })
+                    } catch (error) {
+                        console.error(`${error.message} - Baixando campanhas => ${clients[i]}`);
+                        break;
+                    }
+                    
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
+                    }
+    
+                }
+            } while (true);
+    
+        }
+
+        try {
+            const data_inserted_db = await DBConnection.insertData('Campaign_all', campaigns);
+            console.log(`**** Campaings info added to Campaign! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
+
+    },
+
+    /* ----- Fornece os insights no nível de campanha de anúnicios ------- */
+    async getAllCampaignInsights(clients, data_preset) {
+        
+        var campaignInsights = [];
+        for (let i = 0; i < clients.length; i++) {
+            
+            console.log(`Baixando inights das campanhas (${data_preset}) => ${clients[i]}`);
+    
+            urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/insights"
+            var response = {};
+            var nextPage = 0;
+    
+            do {
+                
+                if(nextPage != 0){
+    
+                    campaignInsights = campaignInsights.concat(response.data.data);
+                    try {
+                        response = await axios.get(nextPage);
+                    } catch (error) {
+                        console.error(`${error.message} - Baixando inights de todas as campanhas (${data_preset}) => ${clients[i]}`);
+                        break;
+                    }
+    
+                    if(response.data.paging.hasOwnProperty('next')){
+                        nextPage = response.data.paging.next;
+    
+                    }else{
+                        nextPage = 0;
+                    }
+    
+    
+                }else if (nextPage == 0 && Object.keys(response).length != 0) {
+                    campaignInsights = campaignInsights.concat(response.data.data);
+                    break;
+                }else{
+    
+                    try {
+                        response = await axios.get(urlClientAds,{
+                            params: {
+                                level: "campaign",
+                                date_preset: data_preset,
+                                access_token: process.env.FACEBOOK_TOKEN,
+                                fields: '["campaign_id","account_id","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                            }
+                        
+                        })
+                    } catch (error) {
+                        console.error(`${error.message} - Baixando inights de todas as campanhas (${data_preset}) => ${clients[i]}`);
+                        break;
+                    }
+
+                    if(response.data.hasOwnProperty('paging')){
+                        if (response.data.paging.hasOwnProperty('next'))
+                            nextPage = response.data.paging.next;
+                    }
+    
+                }
+            } while (true);
+    
+        }
+        campaignInsights.forEach( campaign =>  campaign.date_preset = data_preset);
+        
+        try {
+            const data_inserted_db = await DBConnection.insertData('Insight-AllCampaign', campaignInsights);
+            console.log(`**** CampaignInsights info added to Insight-AllCampaign! ${data_inserted_db.insertedCount} inserted ****`);
+         } catch (error) {
+             console.error(error.message);
+         }
+     
     },
 }
 

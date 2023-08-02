@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT_APP || 3000;
 const DBConnection = require('./config/databaseConnection');
 
-const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAccount} = require('./downloadFiles')
+const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight} = require('./downloadFiles')
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -166,6 +166,53 @@ app.get('/download-campaign', async (req, res) => {
       return res.status(500).send(error);
   }
 })
+
+app.get('/download-campaignAll', async (req, res) => {
+  try {
+    console.log('------- Iniciando o download Campaign ------');
+    downloadAllCampaigns()
+    return res.send('Campaign download in progress..')
+  } catch (error) {
+      return res.status(500).send(error);
+  }
+})
+
+app.get('/downloadAllCampaignInsight', async (req, res) => {
+  try {
+    downloadAllCampaingInsight(req.query.datePreset)
+    return res.send(req.query.datePreset);
+  } catch (error) {
+      console.error(error)
+      return res.status(500).send(error);
+  }
+})
+
+/* ---- Retrive all campaign ----- */
+app.get('/allcampaigns', async (req, res) => {
+
+  try {     
+    const campaigns = await DBConnection.getData('Campaign_all');
+    return res.send(campaigns);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
+  })
+
+/* ---- Retrive all campaign ----- */
+app.get('/allcampaignsinsights', async (req, res) => {
+
+  try {     
+    const campaigns = await DBConnection.getData('Insight-AllCampaign');
+    return res.send(campaigns);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
+  })
+
 
 try {
   DBConnection.createConnection();
