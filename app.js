@@ -130,7 +130,7 @@ app.get('/download-insights', async (req, res) => {
     downloadInsights('last_7d');
     downloadInsights('last_14d');
     downloadInsights('last_30d');
-    downloadInsights('last_90d');
+    downloadInsights('this_month');
     return res.send('Insight download in progress..')
   } catch (error) {
       return res.status(500).send(error);

@@ -68,7 +68,7 @@ async function getAccountIds() {
         downloadInsights('last_7d');
         downloadInsights('last_14d');
         downloadInsights('last_30d');
-        downloadInsights('last_90d');
+        downloadInsights('this_month');
     });
 
     /* Baixar todas as campanhas */
