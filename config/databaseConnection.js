@@ -38,6 +38,15 @@ async function insertData(collection, data) {
   }
 }
 
+async function deleteDocument(collection, data){
+  try {
+    const deletedResult = await database.collection(collection).deleteOne(data);
+    return deletedResult;
+  } catch (error) {
+    console.error(error);
+  }
+}
+
 async function clearCollection(mongoCollection) {
   if (mongoCollection) {
     try {
@@ -62,5 +71,5 @@ async function getData(collectionName, options = {}) {
   }
 }
 
-module.exports= {createConnection, terminateConnection, insertData, clearCollection, getData}
+module.exports= {createConnection, terminateConnection, insertData, clearCollection, getData, deleteDocument}
 

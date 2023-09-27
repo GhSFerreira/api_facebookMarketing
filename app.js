@@ -1,12 +1,13 @@
 const express = require('express');
-const fs = require('fs');
 const env = require('dotenv').config();
-const path = require('path');
 const app = express();
+app.use(express.json())
 const port = process.env.PORT_APP || 3000;
 const DBConnection = require('./config/databaseConnection');
+const cronJob = require('./downloadFiles');
 
-const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight} = require('./downloadFiles')
+const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight} = require('./index')
+const {setAccountIDs, deleteAccountIDs} = require('./index');
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -213,6 +214,22 @@ app.get('/allcampaignsinsights', async (req, res) => {
   }
   })
 
+/* ---- Insert Account IDs ---- */
+app.post('/insetaccountids', async (req, res) => {
+    const retorno = await setAccountIDs(req.body);
+    return res.send(retorno);
+})
+
+/* ----- Get Account IDs ------ */
+app.get('/getaccountids', async (req, res) => {
+  const retorno = await getAccountIds();
+  return res.send(retorno);
+})
+
+app.delete('/deleteuseraccount', async (req, res) => {
+  const retorno = await deleteAccountIDs(req.body)
+  return res.send(retorno);
+})
 
 try {
   DBConnection.createConnection();
