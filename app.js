@@ -7,12 +7,11 @@ const DBConnection = require('./config/databaseConnection');
 const cronJob = require('./downloadFiles');
 
 const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight} = require('./index')
-const {setAccountIDs, deleteAccountIDs} = require('./index');
+const {setAccountIDs, deleteAccountIDs, getAccountIds, download3LastMonthCampaingInsights} = require('./index');
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
-    res.send("Bem vindo a API_Paradoxo Digital - Facebook data collector");
-  
+    res.send("Bem vindo a API_Paradoxo Digital - Facebook data collector"); 
 })
 
 /* ---- Retrive all clients ads ----- */
@@ -213,6 +212,31 @@ app.get('/allcampaignsinsights', async (req, res) => {
       res.sendStatus(500);
   }
   })
+
+/* ---- Retorna o insight de campanha dos últimos 3 ----- */
+app.get('/download3lastmonthinsight', async (req, res) => {
+  try {
+    download3LastMonthCampaingInsights()
+    return res.send("Baixando os 3 últimos meses de insight das campanhas.");
+  } catch (error) {
+      console.error(error)
+      return res.status(500).send(error);
+  }
+})
+
+/* ---- Retrive all campaign ----- */
+app.get('/last2monthinsights', async (req, res) => {
+
+  try {     
+    const campaigns = await DBConnection.getData('Insight-3LastMonthCampaing');
+    return res.send(campaigns);
+    
+  } catch (error) {
+      console.error(error);
+      res.sendStatus(500);
+  }
+  })
+
 
 /* ---- Insert Account IDs ---- */
 app.post('/insetaccountids', async (req, res) => {

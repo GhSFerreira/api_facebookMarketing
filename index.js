@@ -3,6 +3,7 @@ const env = require('dotenv').config();
 const https = require('https');
 const http = require('http');
 const DBConnection = require('./config/databaseConnection');
+const auxFunction = require('./auxFunction');
 
 /* --- Configurações do axios --- */
 axios.defaults.timeout = 60 * 2 * 1000 // 2 minutes in ms
@@ -682,6 +683,85 @@ async function deleteAccountIDs (accountID) {
     }
 }
 
+/* ----- Fornece os insights no nível de campanha de anúnicios ------- */
+async function getCampaignInsightsLastMonths(clients) {
+
+  const currentDate = new Date();
+  const lastMonths = auxFunction.getLastMonths(currentDate, 3);
+  lastMonths.splice(0,1)
+  console.log("Período de análise:");
+  console.log(lastMonths);
+    
+    var campaignInsights = [];
+    for (let i = 0; i < clients.length; i++) {
+        
+        console.log(`Baixando inights das campanhas dos ultimos 3 meses => ${clients[i]}`);
+
+        urlClientAds = process.env.FACEBOOK_API_ENDPOINT + "act_"+ clients[i] +"/insights"
+        var response = {};
+        var nextPage = 0;
+
+        do {
+            
+            if(nextPage != 0){
+
+                campaignInsights = campaignInsights.concat(response.data.data);
+                try {
+                    response = await axios.get(nextPage);
+                } catch (error) {
+                    console.error(`${error.message} - Baixando inights das campanhas - 3 meses => ${clients[i]}`);
+                    break;
+                }
+
+                if(response.data.paging.hasOwnProperty('next')){
+                    nextPage = response.data.paging.next;
+
+                }else{
+                    nextPage = 0;
+                }
+
+            }else if (nextPage == 0 && Object.keys(response).length != 0) {
+                campaignInsights = campaignInsights.concat(response.data.data);
+                break;
+            }else{
+                try {
+                    response = await axios.get(urlClientAds,{
+                        params: {
+                            level: "campaign",
+                            time_ranges: lastMonths,
+                            access_token: process.env.FACEBOOK_TOKEN,
+                            filtering: '[{field:"campaign.effective_status","operator":"IN","value":["ACTIVE"]}]',
+                            fields: '["campaign_id","account_id","impressions", "clicks", "cpc", "cpm", "cpp", "ctr", "frequency", "reach", "spend", "actions"]'
+                        }
+                    
+                    })
+                } catch (error) {
+                    console.error(`${error.message} - Baixando inights das campanhas => ${clients[i]}`);
+                    break;
+                }
+
+                if(response.data.hasOwnProperty('paging')){
+                    if (response.data.paging.hasOwnProperty('next'))
+                        nextPage = response.data.paging.next;
+                }
+
+            }
+        } while (true);
+
+    }
+    campaignInsights.forEach( campaign =>  campaign.date_preset = "last_2months");
+    
+    try {
+        const data_inserted_db = await DBConnection.insertData('Insight-3LastMonthCampaing', campaignInsights);
+        console.log(`**** 3LastMonthCampaignInsights info added to Insight-3LastMonthCampaing! ${data_inserted_db.insertedCount} inserted ****`);
+        } catch (error) {
+            console.error(error.message);
+        }
+    
+}
+
+
+
 /* ------------------------------------------------------ 
     As funções abaixo refericiam as funções acima para poder realizar os downloads;
 */
@@ -714,4 +794,14 @@ async function downloadAllCampaingInsight(data_preset) {
     await getAllCampaignInsights(clients, data_preset);
 }
 
-module.exports = {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight, setAccountIDs, deleteAccountIDs}
+// baixa os insights de campanhas dos últimos 3 meses
+async function download3LastMonthCampaingInsights(){
+    console.log('------- Iniciando o download 3 Last Campaign Insights ------');
+    console.log('------- Excluindo dados existentes das collecionts Insight-3LastMonthCampaing ------');
+    await DBConnection.clearCollection('Insight-3LastMonthCampaing');
+    await getCampaignInsightsLastMonths(clients);
+}
+
+module.exports = {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, 
+    downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight, setAccountIDs, 
+    deleteAccountIDs, getAccountIds, download3LastMonthCampaingInsights}
