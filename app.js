@@ -7,7 +7,7 @@ const DBConnection = require('./config/databaseConnection');
 const cronJob = require('./downloadFiles');
 
 const {downloadAdset, downloadAds, downloadInsights, downloadCampaigns, downloadAllCampaigns, downloadAccount, downloadAllCampaingInsight} = require('./index')
-const {setAccountIDs, deleteAccountIDs, getAccountIds, download3LastMonthCampaingInsights} = require('./index');
+const {setAccountIDs, deleteAccountIDs, getAccountIds, download3LastMonthCampaingInsights, testeCAMPANHA} = require('./index');
 
 /* ---- Root url - Welcome ---- */
 app.get('/', (req, res) => {
@@ -247,6 +247,12 @@ app.post('/insetaccountids', async (req, res) => {
 /* ----- Get Account IDs ------ */
 app.get('/getaccountids', async (req, res) => {
   const retorno = await getAccountIds();
+  return res.send(retorno);
+})
+
+/* ----- Get Account IDs ------ */
+app.get('/teste', async (req, res) => {
+  const retorno = await testeCAMPANHA('last_month');
   return res.send(retorno);
 })
 
