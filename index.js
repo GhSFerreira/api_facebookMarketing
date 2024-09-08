@@ -279,7 +279,6 @@ async function getAdSets(clients) {
                     response = await axios.get(urlClientAdSet,{
                         params: {
                             access_token: process.env.FACEBOOK_TOKEN,
-                            effective_status: '["ACTIVE"]',
                             fields: '["id", "name", "account_id", "campaign_id", "billing_event", "budget_remaining","effective_status","destination_type", "optimization_goal"]'
                         }
                     

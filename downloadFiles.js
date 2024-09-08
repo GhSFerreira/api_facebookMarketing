@@ -30,19 +30,19 @@ cron.schedule("0 0 8,11 * * *", async () => {
 });
 
 /* Baixar todas as campanhas */
-cron.schedule("0 30 7,10 * * *", () => {
+cron.schedule("0 30 7 * * *", () => {
     console.log('\n**** Executando o agendamento - Campanhas *****');
     downloadAllCampaigns();
 });
 
 /* Baixar os conjuntos de anúncio ativos*/
-cron.schedule("0 10 7,10 * * *", () => {
+cron.schedule("0 10 7 * * *", () => {
     console.log('\n**** Executando o agendamento - Adset *****');
     downloadAdset();
 });
 
 /* Baixar os anúncio ativos*/
-cron.schedule("0 20 7,10 * * *", () => {
+cron.schedule("0 20 7 * * *", () => {
     console.log('\n**** Executando o agendamento - Ads *****');
     downloadAds();
 });
