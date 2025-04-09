@@ -261,6 +261,43 @@ app.delete('/deleteuseraccount', async (req, res) => {
   return res.send(retorno);
 })
 
+/* Retorna as contas do Google */
+app.get('/google', async (req, res) => {
+  try {     
+    const accounts = await DBConnection.getData('GoogleAds_Accounts');
+    return res.status(200).json(accounts);
+    
+  } catch (error) {
+      console.error(error);
+      return res.status(500).json(error);
+  } 
+})
+
+
+/* Retorna as métricas do Google */
+app.get('/metrics', async (req, res) => {
+  try {     
+    const metrics = await DBConnection.getData('GoogleAds_Campaigns');
+    return res.status(200).json(metrics);
+    
+  } catch (error) {
+      console.error(error);
+      res.status(500).json(error);
+  } 
+})
+
+/* Retorna as métricas de Keyword do Google */
+app.get('/metrics/keywords', async (req, res) => {
+  try {     
+    const metrics = await DBConnection.getData('GoogleAds_AdsKeywords');
+    return res.status(200).json(metrics);
+    
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json(error);
+  }
+})
+
 try {
   DBConnection.createConnection();
   app.listen(port, () => {
